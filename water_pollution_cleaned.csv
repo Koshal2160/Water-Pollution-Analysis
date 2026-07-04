@@ -1,0 +1,3001 @@
+State,City,Water Source,Pollutant Type,Pollution Level,pH,Dissolved Oxygen,Temperature,Year,Safe Limit
+Gujarat,Vadodara,Well,Mercury,Severe,5.94,8.15,20.9,2019,No
+Punjab,Ludhiana,Canal,Chromium,Medium,5.22,6.85,18.6,2017,No
+Karnataka,Bengaluru,Lake,Lead,Medium,5.23,2.83,24.0,2019,Yes
+Delhi,Dwarka,Canal,Industrial Waste,Medium,6.81,8.12,15.8,2024,No
+Assam,Silchar,Reservoir,Industrial Waste,Low,7.85,5.39,33.3,2023,No
+Haryana,Faridabad,Canal,Nitrate,Low,7.16,10.87,25.8,2015,Yes
+Assam,Dibrugarh,Lake,Plastic Waste,Low,8.62,6.5,19.3,2016,No
+Odisha,Sambalpur,Lake,Arsenic,Medium,7.8,4.74,11.0,2024,Yes
+Uttar Pradesh,Noida,Groundwater,Sewage,Medium,7.39,6.89,35.0,2024,No
+Madhya Pradesh,Bhopal,Lake,Plastic Waste,Low,6.99,5.66,29.8,2019,Yes
+Gujarat,Rajkot,Well,Cadmium,Medium,7.65,3.61,27.8,2021,No
+Rajasthan,Kota,Borewell,Fluoride,Medium,7.41,5.65,24.2,2021,No
+Haryana,Faridabad,Borewell,Nan,Medium,7.8,5.13,22.5,2022,Yes
+Madhya Pradesh,Bhopal,Pond,Arsenic,Low,6.1,3.96,18.0,2016,No
+Madhya Pradesh,Indore,Lake,Sewage,Low,7.11,3.75,30.0,2022,Yes
+Uttar Pradesh,Kanpur,Borewell,Nitrate,Severe,6.78,7.28,20.4,2022,Yes
+Rajasthan,Jodhpur,Well,Nitrate,High,8.89,5.56,17.1,2017,No
+Bihar,Gaya,Pond,Industrial Waste,Nan,6.32,5.09,19.4,2016,Yes
+Madhya Pradesh,Indore,River,Industrial Waste,Severe,7.25,7.65,21.0,2019,No
+Uttar Pradesh,Noida,Reservoir,Arsenic,Medium,7.81,4.63,24.7,2020,Yes
+Haryana,Faridabad,Canal,Chromium,Medium,7.09,4.3,12.8,2019,Yes
+Uttar Pradesh,Noida,Groundwater,Nitrate,High,5.95,8.55,33.5,2020,No
+Delhi,New Delhi,Canal,Mercury,High,7.14,4.78,24.6,2020,Yes
+Odisha,Sambalpur,Lake,Sewage,Low,6.72,6.07,26.2,2016,No
+Gujarat,Bhavnagar,River,Mercury,Severe,6.98,6.63,32.3,2018,Yes
+Bihar,Darbhanga,Well,Fluoride,Low,4.76,4.32,26.3,2023,Yes
+Rajasthan,Bikaner,Well,Nitrate,Medium,6.99,6.58,27.3,2017,No
+Maharashtra,Nashik,Pond,Pesticides,Low,5.83,6.99,24.2,2018,No
+Tamil Nadu,Madurai,Reservoir,Chromium,High,6.7,6.77,36.5,2019,Yes
+Uttar Pradesh,Lucknow,Canal,Lead,Low,6.83,7.36,31.3,2016,No
+Assam,Guwahati,Lake,Arsenic,Medium,6.52,6.9,16.7,2017,Yes
+Assam,Silchar,Borewell,Arsenic,Severe,7.58,4.45,36.3,2018,No
+Punjab,Patiala,Reservoir,Arsenic,Medium,6.98,3.74,23.8,2020,No
+Tamil Nadu,Trichy,Well,Sewage,Severe,8.38,7.52,21.7,2021,No
+Karnataka,Bengaluru,Lake,Nan,Severe,5.0,5.43,22.8,2016,No
+Assam,Nagaon,River,Industrial Waste,Severe,5.35,5.43,24.7,2017,No
+Bihar,Darbhanga,Canal,Arsenic,Medium,5.7,1.37,21.2,2021,No
+Karnataka,Mysuru,River,Mercury,Low,7.45,6.45,14.5,2017,Yes
+Tamil Nadu,Salem,Reservoir,Sewage,High,6.59,4.25,18.2,2018,No
+Kerala,Kozhikode,Groundwater,Plastic Waste,Severe,7.96,10.01,21.7,2018,No
+Delhi,Saket,Groundwater,Arsenic,Severe,6.78,5.37,27.1,2016,No
+Haryana,Ambala,Pond,Pesticides,Low,6.96,5.47,27.4,2017,No
+Haryana,Karnal,Well,Chromium,High,7.62,5.25,29.8,2018,No
+Maharashtra,Pune,Canal,Fluoride,Severe,6.45,5.43,21.9,2019,No
+Haryana,Karnal,Lake,Arsenic,High,9.64,3.65,15.4,2019,Yes
+Rajasthan,Jaipur,Pond,Pesticides,Medium,5.54,8.9,23.2,2018,Yes
+Kerala,Kochi,Groundwater,Sewage,Medium,5.08,11.0,29.3,2018,Nan
+Haryana,Panipat,Canal,Industrial Waste,Nan,8.62,6.77,22.8,2018,Yes
+Punjab,Patiala,Borewell,Lead,Medium,7.28,3.47,18.2,2016,No
+Rajasthan,Jaipur,Well,Lead,Medium,8.03,3.67,24.3,2021,Yes
+Bihar,Darbhanga,River,Sewage,Severe,6.04,2.7,28.1,2015,Yes
+Rajasthan,Udaipur,Canal,Sewage,High,8.05,3.38,26.4,2015,Yes
+Gujarat,Bhavnagar,Canal,Sewage,Low,8.51,4.5,26.8,2016,Yes
+West Bengal,Asansol,Lake,Nitrate,Low,6.89,6.09,24.4,2017,Yes
+Delhi,Saket,Reservoir,Industrial Waste,High,5.9,5.56,20.2,2015,Yes
+Gujarat,Ahmedabad,River,Lead,Low,6.41,2.2,26.6,2023,No
+Uttar Pradesh,Varanasi,Lake,Fluoride,Low,7.17,4.32,22.7,2019,Yes
+Delhi,Dwarka,Reservoir,Lead,Medium,7.9,4.14,16.9,2015,Yes
+Odisha,Berhampur,Well,Plastic Waste,Low,6.7,2.93,26.0,2016,Yes
+Rajasthan,Bikaner,River,Pesticides,High,7.05,3.11,26.8,2024,Yes
+Karnataka,Bengaluru,Canal,Lead,Severe,7.35,5.33,21.4,2016,Yes
+Tamil Nadu,Coimbatore,Pond,Nitrate,Severe,8.87,6.19,26.2,2022,Yes
+West Bengal,Siliguri,Groundwater,Nitrate,Medium,8.2,6.97,19.4,2019,No
+Odisha,Rourkela,Lake,Plastic Waste,Medium,7.54,4.76,23.6,2021,Yes
+Rajasthan,Kota,Groundwater,Cadmium,High,9.16,5.4,25.0,2022,Yes
+Delhi,Dwarka,River,Plastic Waste,Severe,7.95,5.19,27.9,2016,Yes
+West Bengal,Kolkata,Well,Industrial Waste,Low,7.69,5.4,21.2,2022,Yes
+Madhya Pradesh,Ujjain,Canal,Chromium,Medium,7.85,6.71,20.9,2019,No
+Uttar Pradesh,Kanpur,River,Plastic Waste,Medium,5.1,7.58,24.2,2018,Yes
+Maharashtra,Nagpur,Lake,Industrial Waste,Medium,8.98,4.86,24.5,2015,No
+Tamil Nadu,Trichy,Well,Pesticides,High,7.65,3.17,19.2,2018,Yes
+Bihar,Patna,Well,Lead,Low,7.38,7.66,17.1,2018,Yes
+Rajasthan,Kota,Pond,Plastic Waste,Low,7.42,4.61,30.6,2019,Yes
+Haryana,Panipat,Groundwater,Pesticides,Severe,7.05,5.28,22.9,2019,Yes
+Karnataka,Hubli,River,Sewage,Medium,6.49,7.0,25.0,2022,Yes
+Maharashtra,Pune,Lake,Industrial Waste,Low,6.72,5.5,17.7,2022,No
+Assam,Nagaon,Borewell,Sewage,Medium,6.49,4.07,24.2,2018,No
+Haryana,Karnal,Well,Mercury,High,6.75,5.0,28.0,2017,No
+Assam,Silchar,River,Lead,Low,7.29,7.7,24.7,2021,Yes
+Haryana,Karnal,Lake,Fluoride,Medium,7.54,8.41,26.1,2017,No
+Uttar Pradesh,Varanasi,Canal,Industrial Waste,Low,6.37,3.07,24.1,2023,Yes
+Maharashtra,Nagpur,River,Mercury,Medium,7.66,2.09,25.6,2022,No
+Karnataka,Bengaluru,Reservoir,Fluoride,High,6.25,6.49,22.3,2021,Yes
+Odisha,Sambalpur,Lake,Plastic Waste,Nan,7.86,5.4,19.5,2018,Yes
+Assam,Guwahati,Groundwater,Fluoride,High,5.24,5.23,26.9,2020,Yes
+Delhi,Rohini,Pond,Sewage,High,6.84,6.46,28.4,2015,Yes
+Assam,Guwahati,Borewell,Arsenic,Severe,6.71,3.08,22.6,2024,Yes
+Tamil Nadu,Chennai,Nan,Industrial Waste,Medium,7.37,5.08,31.0,2019,No
+Rajasthan,Jodhpur,Pond,Pesticides,Severe,7.16,3.25,22.7,2021,Yes
+Rajasthan,Kota,Well,Nitrate,Medium,9.01,6.65,26.5,2017,Yes
+Punjab,Nan,Lake,Sewage,Medium,7.57,5.39,16.7,2022,Yes
+Karnataka,Bengaluru,Lake,Arsenic,Low,7.36,6.74,22.0,2021,Yes
+Madhya Pradesh,Bhopal,Groundwater,Pesticides,Severe,7.9,6.66,12.1,2015,No
+Bihar,Patna,Pond,Cadmium,Low,6.1,5.73,22.2,2021,Yes
+Tamil Nadu,Trichy,Borewell,Pesticides,High,6.14,4.28,20.1,2024,Yes
+Haryana,Nan,Pond,Nitrate,Medium,6.29,3.01,25.5,2021,Yes
+Assam,Jorhat,River,Industrial Waste,Severe,5.06,4.83,28.9,2024,No
+Delhi,Karol Bagh,Reservoir,Cadmium,High,5.13,5.08,34.7,2016,Yes
+Karnataka,Mysuru,Lake,Mercury,High,7.6,6.71,25.9,2024,No
+Tamil Nadu,Madurai,Borewell,Pesticides,Low,6.98,4.8,29.6,2024,No
+Tamil Nadu,Chennai,Lake,Nitrate,High,6.27,5.41,23.2,2017,Yes
+Tamil Nadu,Coimbatore,Canal,Chromium,High,7.88,6.4,24.9,2016,No
+Madhya Pradesh,Ujjain,Well,Cadmium,High,7.43,5.9,20.0,2018,No
+Kerala,Kochi,Groundwater,Fluoride,Medium,6.52,6.93,17.7,2024,Yes
+Odisha,Cuttack,Canal,Chromium,Low,6.18,3.99,23.3,2019,Yes
+Karnataka,Mysuru,Reservoir,Industrial Waste,High,7.96,9.71,19.7,2022,Yes
+Karnataka,Belgaum,River,Industrial Waste,Low,6.82,5.83,25.7,2020,Yes
+Rajasthan,Jaipur,Borewell,Mercury,Severe,8.86,2.98,30.0,2018,No
+Assam,Guwahati,Reservoir,Pesticides,Severe,6.99,8.98,25.3,2019,Yes
+Maharashtra,Aurangabad,River,Pesticides,Severe,6.31,7.07,24.9,2017,Yes
+Punjab,Amritsar,Borewell,Pesticides,Medium,8.5,4.68,21.0,2018,Yes
+Gujarat,Vadodara,Groundwater,Chromium,Medium,6.51,4.58,25.4,2023,No
+Tamil Nadu,Chennai,Reservoir,Lead,Low,6.64,7.54,32.0,2016,No
+Punjab,Patiala,Canal,Lead,Low,5.41,4.46,22.7,2019,No
+Punjab,Amritsar,Borewell,Nitrate,High,8.2,4.24,29.7,2020,No
+Maharashtra,Mumbai,Pond,Cadmium,Severe,6.73,6.72,20.4,2023,No
+Odisha,Cuttack,Well,Industrial Waste,Low,7.87,6.22,29.3,2016,Yes
+Uttar Pradesh,Varanasi,Canal,Lead,Medium,7.75,3.47,26.6,2015,No
+Uttar Pradesh,Agra,Well,Sewage,High,7.59,5.32,33.2,2023,No
+Delhi,Nan,Borewell,Lead,Severe,6.05,6.27,15.5,2016,No
+Bihar,Muzaffarpur,Well,Industrial Waste,Low,6.0,5.94,26.5,2021,Yes
+Kerala,Kochi,Borewell,Plastic Waste,High,5.62,8.43,22.1,2023,No
+Gujarat,Rajkot,Well,Arsenic,Severe,7.02,1.32,27.9,2020,Yes
+Bihar,Darbhanga,Well,Chromium,Low,6.65,6.43,20.7,2024,Yes
+West Bengal,Kolkata,Lake,Plastic Waste,Medium,6.62,2.52,26.4,2017,Yes
+West Bengal,Howrah,River,Nitrate,High,6.44,5.17,21.0,2022,Yes
+West Bengal,Kolkata,River,Mercury,High,8.82,7.75,20.1,2015,Yes
+Odisha,Berhampur,Groundwater,Sewage,Low,8.85,2.43,20.9,2023,Yes
+Punjab,Chandigarh,Groundwater,Lead,Medium,7.51,4.44,31.8,2015,Yes
+Karnataka,Belgaum,Canal,Lead,Low,5.43,6.28,26.4,2024,Yes
+Rajasthan,Jodhpur,Well,Fluoride,Low,7.47,4.47,23.9,2018,Yes
+Kerala,Kollam,Well,Plastic Waste,Medium,5.48,3.48,27.4,2017,No
+Delhi,Saket,Borewell,Pesticides,Low,6.85,6.29,19.6,2015,Yes
+Tamil Nadu,Madurai,Well,Pesticides,Low,6.89,5.53,25.1,2021,Yes
+Tamil Nadu,Coimbatore,River,Lead,Severe,7.15,6.72,23.8,2019,Yes
+Gujarat,Bhavnagar,Lake,Mercury,High,6.2,0.5,26.7,2022,Yes
+Kerala,Thrissur,Borewell,Nitrate,High,7.29,7.91,14.6,2022,Yes
+Haryana,Panipat,Borewell,Arsenic,Medium,8.79,6.86,26.1,2024,Yes
+Tamil Nadu,Coimbatore,Reservoir,Cadmium,Medium,7.43,8.17,25.8,2020,No
+Assam,Dibrugarh,River,Lead,Medium,6.98,4.11,15.1,2016,Yes
+Tamil Nadu,Salem,Reservoir,Fluoride,Severe,6.56,4.87,20.2,2015,Yes
+Assam,Silchar,Well,Arsenic,Severe,8.01,7.79,23.1,2024,Yes
+Punjab,Ludhiana,Pond,Sewage,Severe,7.9,4.61,16.2,2021,Yes
+Rajasthan,Kota,Lake,Mercury,Severe,8.58,5.53,25.1,2019,No
+Tamil Nadu,Madurai,Groundwater,Chromium,Medium,6.01,6.29,27.9,2021,Yes
+Bihar,Bhagalpur,Well,Nitrate,Severe,4.5,4.05,22.0,2019,Yes
+Gujarat,Bhavnagar,Pond,Lead,Medium,8.52,5.77,22.5,2023,No
+Punjab,Ludhiana,Borewell,Sewage,Medium,6.1,4.81,25.3,2021,Yes
+Uttar Pradesh,Kanpur,River,Plastic Waste,High,7.38,8.4,26.3,2021,No
+Maharashtra,Pune,Reservoir,Cadmium,Low,6.1,4.15,16.7,2019,Yes
+Assam,Guwahati,Borewell,Mercury,High,6.9,5.34,22.1,2021,Yes
+Haryana,Panipat,Pond,Mercury,Severe,8.32,6.31,28.8,2018,No
+Tamil Nadu,Trichy,River,Industrial Waste,Severe,7.67,4.98,24.8,2015,No
+Madhya Pradesh,Indore,Groundwater,Fluoride,High,7.11,4.73,24.6,2018,No
+Kerala,Kollam,River,Plastic Waste,Medium,6.69,5.85,26.7,2017,No
+West Bengal,Asansol,Pond,Plastic Waste,Severe,6.69,4.83,17.0,2017,Yes
+Odisha,Cuttack,Borewell,Fluoride,High,7.25,1.77,23.5,2020,Yes
+Maharashtra,Nashik,Groundwater,Arsenic,Low,5.3,4.69,11.9,2022,Yes
+Assam,Nagaon,River,Nitrate,Low,7.18,6.24,31.1,2021,Yes
+Assam,Dibrugarh,Canal,Fluoride,High,5.98,4.88,21.1,2023,Yes
+Kerala,Kollam,River,Plastic Waste,High,7.48,4.31,24.2,2018,Yes
+Karnataka,Mangalore,Well,Plastic Waste,Medium,6.83,5.89,30.4,2017,No
+Bihar,Gaya,Canal,Arsenic,Low,8.05,5.09,23.8,2019,No
+Odisha,Bhubaneswar,River,Mercury,Severe,6.69,4.15,25.7,2021,Yes
+Kerala,Kozhikode,Pond,Cadmium,Medium,7.47,5.32,35.4,2019,No
+Karnataka,Belgaum,River,Lead,Medium,5.69,6.04,21.3,2017,Yes
+Karnataka,Mangalore,Groundwater,Industrial Waste,High,6.85,4.91,26.0,2023,Yes
+Rajasthan,Bikaner,River,Fluoride,Medium,6.28,5.69,12.4,2018,No
+Delhi,Saket,Lake,Fluoride,Medium,6.81,8.18,24.7,2022,Yes
+Maharashtra,Pune,Groundwater,Lead,Severe,6.34,4.04,25.0,2021,No
+Madhya Pradesh,Gwalior,Reservoir,Pesticides,Severe,7.51,7.54,28.8,2021,Yes
+Rajasthan,Udaipur,Canal,Plastic Waste,Low,8.7,3.91,20.1,2017,Yes
+Rajasthan,Bikaner,Borewell,Pesticides,Medium,7.75,7.81,24.4,2019,No
+Madhya Pradesh,Jabalpur,Groundwater,Sewage,Low,6.43,6.28,20.4,2018,Yes
+Bihar,Muzaffarpur,Lake,Sewage,High,7.05,6.45,23.6,2022,No
+Tamil Nadu,Madurai,Pond,Nitrate,Medium,7.21,2.7,25.7,2021,Yes
+Gujarat,Vadodara,Well,Cadmium,Severe,7.17,9.01,29.1,2021,No
+Gujarat,Bhavnagar,Borewell,Chromium,Severe,6.69,4.06,23.2,2024,Yes
+Punjab,Patiala,Canal,Lead,Severe,7.02,7.71,26.6,2024,Yes
+Tamil Nadu,Chennai,Groundwater,Lead,Low,6.53,8.0,22.1,2017,Yes
+Haryana,Karnal,Lake,Mercury,High,7.67,5.64,16.0,2024,No
+Odisha,Cuttack,Reservoir,Nitrate,High,4.5,3.69,28.7,2021,Yes
+Madhya Pradesh,Indore,Groundwater,Nitrate,High,7.42,8.71,22.8,2021,No
+Uttar Pradesh,Varanasi,Borewell,Sewage,Medium,5.86,4.1,24.4,2017,Yes
+Odisha,Bhubaneswar,Canal,Arsenic,Low,8.11,7.46,27.0,2020,Yes
+Bihar,Gaya,River,Sewage,Severe,7.53,7.5,28.1,2020,No
+Delhi,Karol Bagh,Pond,Industrial Waste,High,8.43,4.27,28.0,2022,No
+Rajasthan,Kota,River,Arsenic,Low,6.07,6.57,21.1,2017,No
+Kerala,Kochi,Nan,Cadmium,Severe,7.25,6.59,24.9,2020,Yes
+Delhi,Rohini,Well,Pesticides,Severe,6.99,3.94,22.9,2015,Yes
+Madhya Pradesh,Jabalpur,Groundwater,Nitrate,Low,6.98,3.7,23.9,2023,Yes
+West Bengal,Siliguri,Groundwater,Mercury,Medium,7.17,4.94,24.7,2021,Yes
+Maharashtra,Pune,Well,Pesticides,Low,5.59,5.76,28.4,2017,Yes
+West Bengal,Kolkata,Canal,Arsenic,Medium,6.84,4.86,29.9,2024,Yes
+Bihar,Muzaffarpur,Groundwater,Chromium,High,7.44,2.71,29.4,2021,Yes
+Kerala,Kozhikode,Groundwater,Fluoride,Medium,7.36,5.4,20.3,2022,Yes
+Maharashtra,Nashik,Groundwater,Pesticides,High,6.79,2.55,22.0,2023,No
+Gujarat,Ahmedabad,Well,Mercury,High,5.64,8.16,18.2,2015,No
+Karnataka,Mysuru,Well,Lead,Medium,7.03,6.76,17.8,2017,Yes
+Gujarat,Rajkot,Borewell,Nitrate,Severe,5.19,6.1,22.6,2023,Yes
+Delhi,Karol Bagh,River,Cadmium,Low,7.7,3.62,23.9,2019,Yes
+Bihar,Darbhanga,Reservoir,Lead,Low,6.91,6.99,22.9,2023,No
+Maharashtra,Pune,Reservoir,Cadmium,High,6.41,1.81,25.9,2020,Yes
+Madhya Pradesh,Jabalpur,Canal,Industrial Waste,Severe,6.47,3.53,28.2,2022,No
+Punjab,Jalandhar,Canal,Plastic Waste,High,6.99,7.01,19.9,2018,No
+Odisha,Cuttack,River,Arsenic,Severe,6.22,6.8,26.2,2019,No
+West Bengal,Kolkata,Reservoir,Lead,Severe,7.95,3.35,25.4,2020,Yes
+Tamil Nadu,Salem,Pond,Industrial Waste,Medium,6.63,6.74,24.5,2016,Yes
+Maharashtra,Pune,Canal,Lead,Medium,6.89,8.22,16.7,2015,No
+Karnataka,Bengaluru,Groundwater,Mercury,Medium,7.69,2.72,20.8,2015,Yes
+Karnataka,Belgaum,Groundwater,Mercury,Severe,7.83,4.9,21.4,2022,No
+Tamil Nadu,Madurai,Groundwater,Industrial Waste,High,6.93,7.51,25.7,2018,Yes
+Tamil Nadu,Madurai,Pond,Arsenic,Medium,7.94,3.67,22.9,2023,Yes
+West Bengal,Howrah,Well,Fluoride,High,7.28,3.91,24.9,2016,No
+Maharashtra,Mumbai,Reservoir,Industrial Waste,Medium,6.41,5.55,23.8,2017,No
+Karnataka,Mysuru,Groundwater,Pesticides,Severe,8.35,6.68,23.7,2016,No
+Tamil Nadu,Coimbatore,Canal,Nitrate,Severe,5.99,8.27,19.4,2016,Yes
+Uttar Pradesh,Varanasi,Well,Nitrate,Severe,7.88,4.92,11.5,2016,No
+Punjab,Jalandhar,Borewell,Mercury,High,6.32,4.73,29.7,2023,Yes
+Bihar,Bhagalpur,Reservoir,Chromium,Severe,7.36,5.43,25.4,2016,No
+Haryana,Faridabad,Lake,Plastic Waste,Severe,7.47,8.51,21.1,2016,No
+Karnataka,Mangalore,Reservoir,Arsenic,Medium,6.67,3.99,18.8,2015,Yes
+Rajasthan,Kota,Reservoir,Lead,High,7.88,5.5,27.4,2020,No
+Haryana,Faridabad,Borewell,Sewage,Low,7.12,5.36,18.0,2023,No
+Madhya Pradesh,Bhopal,Groundwater,Plastic Waste,Low,6.82,3.62,26.9,2021,Yes
+Gujarat,Vadodara,Lake,Fluoride,Severe,7.64,9.81,34.9,2017,No
+Delhi,Rohini,Well,Pesticides,Severe,6.68,4.33,27.7,2022,No
+Tamil Nadu,Trichy,Well,Plastic Waste,High,7.92,4.85,28.3,2024,No
+West Bengal,Howrah,Borewell,Plastic Waste,Severe,6.27,4.55,17.4,2023,Yes
+Bihar,Gaya,Borewell,Nan,Low,6.99,5.92,26.5,2024,Yes
+Delhi,Saket,Pond,Fluoride,Low,6.3,4.42,24.0,2015,Yes
+Rajasthan,Kota,Pond,Mercury,High,6.86,6.77,28.8,2019,Yes
+Tamil Nadu,Madurai,Reservoir,Fluoride,Severe,7.54,4.36,22.8,2024,Yes
+Bihar,Bhagalpur,Reservoir,Fluoride,Medium,6.96,6.71,18.4,2022,Yes
+Uttar Pradesh,Varanasi,Well,Industrial Waste,High,6.4,3.87,28.0,2018,No
+Uttar Pradesh,Lucknow,Groundwater,Nitrate,Severe,5.87,5.11,22.5,2024,No
+Uttar Pradesh,Agra,Well,Nitrate,Low,6.56,6.64,24.1,2021,Yes
+Haryana,Ambala,River,Pesticides,Medium,5.94,6.34,21.2,2024,No
+Maharashtra,Nashik,Borewell,Plastic Waste,High,6.23,4.13,19.1,2023,No
+Maharashtra,Nagpur,Borewell,Cadmium,High,7.45,3.74,24.5,2021,Yes
+Gujarat,Vadodara,Well,Cadmium,Severe,8.46,5.69,19.5,2021,Yes
+Gujarat,Bhavnagar,Lake,Fluoride,Low,6.99,6.93,21.1,2023,No
+Odisha,Berhampur,Well,Lead,High,8.35,4.91,22.9,2023,No
+Karnataka,Belgaum,Lake,Pesticides,Low,8.07,5.88,29.1,2021,Yes
+Assam,Nagaon,Lake,Pesticides,Low,6.11,3.98,30.2,2023,No
+West Bengal,Siliguri,Well,Chromium,Severe,7.82,8.33,26.3,2023,No
+Kerala,Kochi,Groundwater,Plastic Waste,High,6.43,5.96,28.1,2023,No
+Delhi,Rohini,River,Industrial Waste,High,5.83,4.68,24.9,2016,Nan
+Delhi,Saket,Lake,Sewage,High,7.33,4.28,17.6,2018,No
+Kerala,Thiruvananthapuram,Canal,Industrial Waste,High,7.63,5.93,20.7,2018,No
+Delhi,Saket,Borewell,Mercury,Medium,6.91,5.2,24.4,2023,Yes
+Nan,Trichy,Reservoir,Fluoride,Severe,7.11,2.49,37.6,2021,No
+Maharashtra,Mumbai,Borewell,Chromium,Low,7.02,8.52,25.6,2021,No
+Bihar,Bhagalpur,Lake,Lead,High,7.38,4.23,23.7,2021,Yes
+Rajasthan,Kota,Borewell,Plastic Waste,High,7.33,4.81,25.0,2017,Yes
+Kerala,Kochi,Borewell,Sewage,Low,6.93,4.46,21.6,2016,Yes
+Assam,Dibrugarh,Pond,Fluoride,High,6.03,7.98,25.6,2023,No
+Uttar Pradesh,Varanasi,Groundwater,Industrial Waste,Low,5.38,4.52,20.1,2015,No
+West Bengal,Kolkata,River,Pesticides,Severe,7.65,8.78,23.6,2018,No
+Delhi,Saket,Canal,Cadmium,Medium,6.9,4.52,30.3,2018,Yes
+Haryana,Gurugram,River,Fluoride,Medium,8.42,6.88,21.7,2021,No
+Maharashtra,Pune,Pond,Mercury,Severe,5.97,6.04,20.2,2018,Yes
+Assam,Guwahati,Lake,Industrial Waste,Low,6.99,3.85,29.1,2018,No
+Karnataka,Bengaluru,Borewell,Arsenic,Medium,4.72,6.73,24.6,2018,No
+Madhya Pradesh,Bhopal,Well,Fluoride,Low,7.45,7.43,18.0,2022,Yes
+Punjab,Jalandhar,Groundwater,Chromium,Low,8.46,4.11,29.7,2019,No
+Assam,Nagaon,Well,Mercury,Medium,6.58,6.12,23.8,2018,No
+Uttar Pradesh,Lucknow,Groundwater,Pesticides,Low,6.88,3.12,34.7,2024,No
+Rajasthan,Bikaner,Reservoir,Industrial Waste,Severe,6.94,5.94,22.5,2023,Yes
+Haryana,Gurugram,Reservoir,Fluoride,Severe,6.95,4.42,20.8,2022,Yes
+Punjab,Jalandhar,Canal,Industrial Waste,Severe,7.93,5.93,22.7,2023,Yes
+Maharashtra,Mumbai,Groundwater,Sewage,High,6.71,8.73,25.2,2024,Yes
+Madhya Pradesh,Ujjain,Lake,Industrial Waste,Medium,7.78,3.36,26.9,2017,No
+Karnataka,Mangalore,Lake,Industrial Waste,Severe,7.68,5.05,8.0,2021,No
+Madhya Pradesh,Indore,Lake,Fluoride,High,7.93,4.77,28.5,2017,Yes
+Tamil Nadu,Madurai,Reservoir,Pesticides,Medium,6.52,3.68,14.2,2020,Yes
+Maharashtra,Mumbai,Canal,Nitrate,Medium,6.04,9.32,30.7,2024,Yes
+Rajasthan,Jodhpur,Canal,Plastic Waste,High,5.71,3.19,15.9,2024,No
+Rajasthan,Kota,Groundwater,Lead,Low,7.03,6.43,19.1,2020,No
+Uttar Pradesh,Varanasi,Groundwater,Plastic Waste,High,7.87,5.43,26.5,2018,Yes
+Haryana,Gurugram,Lake,Plastic Waste,Medium,7.87,7.73,24.4,2018,Yes
+West Bengal,Kolkata,Canal,Cadmium,High,5.92,7.11,28.5,2017,No
+Madhya Pradesh,Bhopal,Lake,Fluoride,Low,8.79,5.52,25.9,2022,No
+Kerala,Thiruvananthapuram,Canal,Chromium,Medium,8.5,5.54,25.2,2023,Yes
+Karnataka,Hubli,Well,Chromium,Low,6.03,6.12,27.1,2016,No
+Haryana,Gurugram,Well,Arsenic,Low,4.75,5.86,27.0,2016,Yes
+Uttar Pradesh,Varanasi,Pond,Fluoride,Low,6.97,5.92,31.8,2019,Yes
+Bihar,Darbhanga,River,Nitrate,Medium,7.45,4.55,20.0,2015,Yes
+Gujarat,Vadodara,Groundwater,Mercury,Medium,7.57,7.4,25.8,2022,No
+Karnataka,Bengaluru,Borewell,Industrial Waste,Low,6.43,4.48,33.4,2022,No
+Maharashtra,Mumbai,River,Industrial Waste,Low,5.67,4.17,30.0,2016,Yes
+Assam,Nagaon,Lake,Sewage,Low,7.61,6.05,19.9,2024,No
+Assam,Silchar,Canal,Chromium,Severe,7.35,9.99,24.0,2021,Yes
+Gujarat,Ahmedabad,Canal,Pesticides,High,8.1,6.11,21.0,2017,No
+Madhya Pradesh,Jabalpur,Well,Plastic Waste,High,7.24,7.8,23.2,2016,No
+Assam,Guwahati,Well,Fluoride,Severe,6.41,4.94,13.5,2019,Yes
+Uttar Pradesh,Agra,Borewell,Mercury,High,6.1,4.9,31.1,2015,No
+Madhya Pradesh,Indore,Borewell,Pesticides,High,7.08,4.22,14.9,2023,Yes
+Delhi,Karol Bagh,Lake,Mercury,Medium,6.51,8.77,17.7,2024,No
+Uttar Pradesh,Kanpur,Lake,Pesticides,Severe,6.77,6.02,25.3,2016,Yes
+Madhya Pradesh,Bhopal,Canal,Fluoride,Low,6.13,6.73,29.3,2016,Yes
+Bihar,Darbhanga,Groundwater,Fluoride,High,8.88,5.46,23.7,2020,Yes
+West Bengal,Asansol,River,Lead,High,7.26,1.91,18.4,2022,Yes
+Odisha,Cuttack,Groundwater,Plastic Waste,Severe,7.28,6.96,27.1,2018,No
+Odisha,Bhubaneswar,Borewell,Lead,High,6.45,5.85,26.7,2024,No
+Uttar Pradesh,Varanasi,River,Plastic Waste,Medium,6.66,6.07,26.9,2018,No
+Haryana,Faridabad,Well,Plastic Waste,Medium,7.49,6.61,22.1,2024,Yes
+Karnataka,Mangalore,Canal,Nan,High,7.41,0.55,21.5,2018,No
+Haryana,Karnal,River,Fluoride,Low,5.95,8.35,22.0,2015,Yes
+Tamil Nadu,Trichy,Pond,Lead,High,7.19,3.74,24.8,2016,No
+Kerala,Thrissur,Canal,Fluoride,Medium,7.38,6.0,24.0,2023,Yes
+Gujarat,Surat,Borewell,Arsenic,Severe,6.97,2.59,22.9,2022,No
+Haryana,Panipat,Nan,Arsenic,Severe,7.86,6.45,23.0,2020,Yes
+Assam,Guwahati,Well,Plastic Waste,High,6.46,6.57,24.0,2019,No
+Haryana,Gurugram,Reservoir,Plastic Waste,Medium,8.99,6.09,19.8,2023,No
+Bihar,Nan,Canal,Sewage,Low,8.04,5.19,20.3,2023,Yes
+Madhya Pradesh,Jabalpur,Well,Plastic Waste,Severe,7.9,8.57,15.8,2024,No
+Uttar Pradesh,Kanpur,Lake,Lead,Severe,7.35,7.01,20.6,2015,Yes
+Karnataka,Mysuru,Canal,Nitrate,High,5.95,2.26,26.7,2024,No
+Karnataka,Bengaluru,Canal,Mercury,Low,6.15,7.41,21.8,2022,Yes
+Rajasthan,Jodhpur,Borewell,Lead,Low,7.28,6.34,16.3,2021,Yes
+Maharashtra,Nashik,River,Plastic Waste,Low,7.23,5.37,14.4,2020,No
+Odisha,Berhampur,Canal,Pesticides,Severe,6.73,7.26,28.6,2020,Yes
+Karnataka,Belgaum,Nan,Industrial Waste,Low,6.34,4.17,34.6,2020,No
+Tamil Nadu,Coimbatore,Borewell,Nitrate,Severe,7.7,8.39,30.8,2023,No
+Tamil Nadu,Coimbatore,Groundwater,Cadmium,High,7.63,7.22,24.4,2023,Yes
+Assam,Nagaon,Reservoir,Sewage,Medium,5.74,1.62,23.8,2023,Yes
+Delhi,New Delhi,Canal,Mercury,High,8.28,4.42,14.7,2015,No
+Maharashtra,Nagpur,Canal,Pesticides,Low,7.5,5.64,26.7,2024,No
+Uttar Pradesh,Kanpur,Lake,Fluoride,High,6.59,3.9,28.8,2018,No
+Assam,Jorhat,River,Sewage,Nan,7.36,7.43,19.7,2015,No
+Bihar,Muzaffarpur,Canal,Arsenic,Severe,8.48,11.0,18.4,2016,No
+Haryana,Faridabad,Pond,Sewage,High,7.87,4.95,15.4,2020,Yes
+Delhi,New Delhi,Well,Fluoride,Severe,7.03,3.04,27.5,2022,No
+Gujarat,Surat,Well,Pesticides,Severe,6.8,6.45,21.6,2019,No
+Karnataka,Bengaluru,River,Fluoride,Severe,6.99,7.36,29.5,2022,Yes
+Kerala,Nan,Well,Plastic Waste,Severe,6.09,2.02,21.3,2021,Yes
+Punjab,Chandigarh,Borewell,Plastic Waste,Medium,5.55,4.13,20.2,2023,No
+Assam,Guwahati,Canal,Fluoride,Severe,6.36,2.99,32.5,2020,No
+Bihar,Bhagalpur,Borewell,Pesticides,Severe,7.17,5.43,24.7,2022,Yes
+Kerala,Thrissur,Lake,Sewage,High,7.29,4.3,29.0,2023,No
+Maharashtra,Nagpur,Reservoir,Chromium,Medium,7.59,4.93,27.8,2020,No
+Haryana,Ambala,River,Fluoride,High,5.95,4.2,37.9,2018,No
+Assam,Jorhat,Reservoir,Arsenic,Severe,8.27,5.43,26.3,2019,Yes
+Uttar Pradesh,Varanasi,Groundwater,Cadmium,High,5.8,4.16,26.6,2022,Yes
+Madhya Pradesh,Jabalpur,Reservoir,Cadmium,Medium,8.29,4.87,31.3,2019,No
+Rajasthan,Kota,Groundwater,Nitrate,Low,8.45,5.91,27.2,2016,No
+Madhya Pradesh,Jabalpur,Borewell,Sewage,Medium,7.38,5.53,20.8,2024,Nan
+West Bengal,Durgapur,Well,Mercury,Medium,7.87,7.6,23.7,2018,No
+Delhi,Karol Bagh,Lake,Arsenic,High,6.41,5.59,19.7,2016,No
+Haryana,Gurugram,Borewell,Fluoride,Low,6.9,4.88,28.4,2019,No
+Assam,Dibrugarh,Well,Cadmium,Medium,7.43,4.23,22.8,2017,Yes
+Uttar Pradesh,Kanpur,Reservoir,Sewage,Medium,6.83,2.8,30.8,2020,Yes
+West Bengal,Durgapur,River,Cadmium,Severe,6.65,8.16,20.7,2017,No
+Bihar,Gaya,Borewell,Cadmium,High,7.19,4.62,28.0,2021,No
+Gujarat,Ahmedabad,Reservoir,Cadmium,Low,5.64,5.1,23.0,2019,No
+Haryana,Faridabad,Borewell,Industrial Waste,Low,6.46,5.75,24.4,2015,No
+Gujarat,Vadodara,Reservoir,Mercury,Medium,6.95,0.5,18.9,2015,Yes
+Punjab,Jalandhar,Canal,Nitrate,Medium,6.41,4.43,30.9,2023,Yes
+Maharashtra,Pune,Borewell,Sewage,Medium,6.99,4.81,23.0,2022,No
+Madhya Pradesh,Indore,Pond,Arsenic,Medium,7.38,5.57,16.8,2017,Yes
+Delhi,Dwarka,Borewell,Sewage,Medium,6.5,6.75,29.9,2019,Yes
+Madhya Pradesh,Bhopal,Pond,Nitrate,Medium,5.98,6.42,20.9,2021,No
+Madhya Pradesh,Ujjain,Borewell,Mercury,Low,6.6,3.91,23.1,2018,No
+Karnataka,Bengaluru,Lake,Cadmium,Low,5.78,3.12,26.4,2021,Yes
+Madhya Pradesh,Ujjain,Lake,Mercury,Severe,7.54,7.09,21.7,2018,No
+Kerala,Kozhikode,Canal,Nan,Nan,8.76,5.39,20.3,2017,No
+Uttar Pradesh,Kanpur,Groundwater,Cadmium,Low,7.29,3.38,29.9,2015,No
+Odisha,Rourkela,Groundwater,Mercury,High,6.39,7.24,29.0,2019,No
+Rajasthan,Bikaner,Reservoir,Pesticides,Severe,6.08,4.83,27.2,2022,Yes
+Madhya Pradesh,Jabalpur,River,Sewage,High,6.73,8.93,32.1,2024,Yes
+Tamil Nadu,Coimbatore,Groundwater,Fluoride,Low,8.22,3.14,8.9,2017,Yes
+Tamil Nadu,Chennai,Pond,Plastic Waste,Severe,7.34,7.92,25.3,2018,No
+Delhi,Saket,Borewell,Plastic Waste,High,6.6,6.6,16.2,2024,Yes
+Bihar,Muzaffarpur,Groundwater,Lead,Medium,5.58,7.74,35.2,2020,Yes
+Tamil Nadu,Salem,Lake,Cadmium,Severe,6.92,2.89,19.4,2016,No
+Punjab,Ludhiana,Borewell,Sewage,High,8.66,7.02,29.8,2021,Yes
+Rajasthan,Kota,Well,Chromium,Low,6.49,4.43,27.3,2021,No
+Bihar,Muzaffarpur,Lake,Mercury,Medium,8.19,2.97,26.9,2018,No
+Karnataka,Mangalore,Groundwater,Cadmium,High,7.84,7.79,27.6,2023,Yes
+Haryana,Panipat,Groundwater,Cadmium,Medium,8.31,8.75,15.6,2015,No
+West Bengal,Durgapur,River,Lead,High,7.61,5.25,21.4,2016,Yes
+Haryana,Gurugram,Borewell,Sewage,Severe,7.2,4.87,25.6,2015,No
+Uttar Pradesh,Kanpur,Borewell,Fluoride,Medium,7.09,4.63,15.1,2022,Yes
+Kerala,Thiruvananthapuram,Borewell,Arsenic,Nan,7.34,3.14,22.0,2020,Yes
+Kerala,Thrissur,Pond,Arsenic,High,8.76,3.29,26.5,2020,No
+Haryana,Panipat,Lake,Industrial Waste,Medium,7.51,5.12,26.7,2024,Yes
+Bihar,Darbhanga,Lake,Mercury,High,7.94,6.55,23.4,2020,Yes
+Tamil Nadu,Chennai,Well,Fluoride,Low,6.51,4.06,22.0,2021,Yes
+Bihar,Darbhanga,Canal,Nitrate,Medium,9.36,3.5,31.3,2021,Yes
+Gujarat,Surat,River,Industrial Waste,Low,6.84,4.72,26.2,2018,Yes
+Maharashtra,Nan,Lake,Cadmium,High,8.29,2.21,13.7,2018,No
+Madhya Pradesh,Jabalpur,Borewell,Plastic Waste,Medium,7.17,5.95,14.1,2019,No
+Delhi,Saket,Pond,Cadmium,Low,7.37,9.34,25.4,2020,No
+West Bengal,Howrah,Well,Cadmium,Medium,8.23,7.66,23.8,2024,No
+Punjab,Amritsar,Well,Nitrate,Medium,7.08,5.43,22.9,2019,Yes
+Assam,Guwahati,Reservoir,Plastic Waste,Low,6.27,7.04,23.7,2022,No
+Delhi,Karol Bagh,River,Industrial Waste,Severe,6.97,8.32,10.9,2019,Yes
+Punjab,Ludhiana,River,Fluoride,Severe,7.87,5.43,17.1,2015,No
+Kerala,Thrissur,Groundwater,Nan,Medium,6.61,5.92,19.4,2018,Yes
+Madhya Pradesh,Gwalior,Borewell,Industrial Waste,Medium,6.9,5.9,30.2,2022,Yes
+Madhya Pradesh,Bhopal,River,Nitrate,Low,7.45,5.25,27.2,2023,No
+Karnataka,Belgaum,Lake,Fluoride,Low,6.99,5.39,18.7,2022,Yes
+Punjab,Chandigarh,Well,Sewage,High,6.99,3.94,23.9,2023,No
+Assam,Guwahati,Borewell,Chromium,High,7.56,3.96,18.6,2023,Yes
+Tamil Nadu,Madurai,Pond,Fluoride,Severe,6.81,5.65,20.4,2024,Yes
+Maharashtra,Mumbai,Borewell,Cadmium,Medium,5.94,6.25,23.9,2017,Yes
+Assam,Guwahati,Canal,Lead,Severe,8.31,7.36,17.0,2022,No
+Haryana,Karnal,Well,Industrial Waste,Low,6.79,3.14,24.9,2015,Yes
+Bihar,Patna,Groundwater,Plastic Waste,Low,6.48,3.67,20.8,2019,No
+Assam,Jorhat,Pond,Pesticides,Medium,5.56,4.91,22.9,2018,No
+Odisha,Bhubaneswar,Borewell,Pesticides,Medium,8.84,6.03,20.1,2023,No
+Haryana,Gurugram,Pond,Nitrate,Medium,8.75,4.13,27.3,2024,No
+Gujarat,Bhavnagar,Well,Fluoride,Severe,7.52,4.06,14.5,2024,Nan
+Tamil Nadu,Salem,Well,Nitrate,Medium,6.79,4.77,21.3,2023,No
+Rajasthan,Kota,Lake,Nitrate,High,5.12,5.19,22.7,2015,Yes
+Tamil Nadu,Trichy,River,Arsenic,Low,7.46,3.51,13.2,2016,Yes
+Delhi,Saket,Groundwater,Arsenic,Severe,6.26,6.69,28.7,2020,Yes
+Gujarat,Rajkot,Lake,Nitrate,High,7.67,5.81,23.1,2019,No
+Gujarat,Vadodara,Reservoir,Mercury,Severe,7.5,2.07,21.8,2020,No
+Madhya Pradesh,Indore,Well,Industrial Waste,Medium,7.31,3.72,23.3,2021,Yes
+Punjab,Ludhiana,Canal,Lead,Low,8.65,7.62,21.7,2021,No
+Haryana,Panipat,Groundwater,Mercury,High,6.79,2.97,26.0,2016,No
+Rajasthan,Udaipur,Canal,Industrial Waste,High,7.28,3.7,26.6,2020,No
+Kerala,Kochi,Groundwater,Sewage,High,7.57,9.59,24.9,2024,Yes
+Odisha,Bhubaneswar,Reservoir,Arsenic,Severe,6.56,4.28,24.2,2021,Yes
+Madhya Pradesh,Indore,Canal,Mercury,Medium,7.1,6.2,12.9,2018,Yes
+Assam,Nagaon,Groundwater,Chromium,High,6.32,3.43,24.5,2018,No
+Karnataka,Belgaum,Nan,Pesticides,Severe,7.41,2.13,18.2,2020,No
+Odisha,Cuttack,River,Cadmium,Severe,7.02,4.06,26.9,2015,No
+Karnataka,Bengaluru,River,Industrial Waste,Severe,7.24,5.41,22.8,2017,Yes
+Punjab,Patiala,Well,Nitrate,High,7.18,5.32,26.2,2016,Yes
+Gujarat,Surat,Lake,Mercury,High,7.52,5.43,17.3,2017,Yes
+Rajasthan,Kota,Borewell,Nitrate,Medium,6.63,6.33,16.4,2016,No
+Punjab,Patiala,Borewell,Fluoride,Medium,6.99,5.76,28.0,2024,No
+Bihar,Patna,Canal,Mercury,Medium,6.6,5.7,22.2,2022,No
+Bihar,Gaya,Reservoir,Lead,Severe,7.04,3.7,27.7,2021,No
+Punjab,Amritsar,Groundwater,Sewage,Medium,6.98,5.86,23.3,2024,No
+Rajasthan,Jodhpur,Borewell,Cadmium,Low,6.75,3.41,14.9,2015,Yes
+Madhya Pradesh,Indore,Groundwater,Sewage,High,5.73,3.73,25.0,2021,Yes
+Punjab,Chandigarh,Well,Nan,Severe,6.43,5.43,17.5,2019,No
+Madhya Pradesh,Ujjain,Canal,Arsenic,Medium,6.45,5.36,26.1,2018,Yes
+Rajasthan,Bikaner,Well,Fluoride,High,5.42,6.86,25.9,2024,No
+Assam,Nagaon,Pond,Cadmium,Medium,7.62,5.98,27.3,2021,No
+Karnataka,Mangalore,Well,Industrial Waste,Medium,6.2,4.8,23.1,2020,Yes
+Tamil Nadu,Chennai,Reservoir,Cadmium,High,7.13,3.91,20.4,2015,Yes
+Nan,Coimbatore,Groundwater,Lead,Severe,6.54,5.67,21.7,2016,No
+Karnataka,Mysuru,Lake,Sewage,Medium,8.29,8.08,25.4,2019,No
+Odisha,Sambalpur,Nan,Industrial Waste,Low,7.72,2.13,27.2,2021,Yes
+Assam,Dibrugarh,Well,Sewage,Medium,7.31,6.53,28.8,2019,No
+Rajasthan,Jodhpur,Pond,Lead,Severe,7.03,5.35,29.0,2020,Yes
+Punjab,Chandigarh,Pond,Cadmium,High,6.9,5.56,24.8,2023,No
+Assam,Nagaon,Lake,Nitrate,Low,6.85,4.16,20.6,2020,No
+Bihar,Muzaffarpur,Groundwater,Lead,Medium,6.99,5.86,25.4,2016,No
+Bihar,Patna,Borewell,Lead,Severe,7.4,7.03,28.5,2019,No
+Haryana,Gurugram,Pond,Mercury,Severe,7.69,6.14,30.3,2023,Yes
+Madhya Pradesh,Indore,Borewell,Fluoride,High,6.92,8.88,26.6,2019,No
+Odisha,Cuttack,Reservoir,Fluoride,Low,6.65,5.82,30.1,2019,No
+Gujarat,Rajkot,Well,Nitrate,Low,6.99,6.73,19.9,2022,No
+Tamil Nadu,Trichy,Well,Pesticides,High,4.5,5.45,32.9,2024,Yes
+Assam,Nagaon,River,Pesticides,High,7.6,4.5,29.0,2023,No
+Tamil Nadu,Trichy,Pond,Mercury,Severe,6.97,7.53,23.7,2021,No
+Madhya Pradesh,Bhopal,Reservoir,Pesticides,Low,7.63,4.46,24.6,2023,No
+Assam,Dibrugarh,Groundwater,Arsenic,High,6.72,3.81,25.2,2016,No
+West Bengal,Asansol,Lake,Arsenic,Medium,7.47,4.06,22.5,2017,Yes
+Delhi,New Delhi,Well,Industrial Waste,Low,8.66,6.55,22.2,2023,No
+Odisha,Cuttack,River,Nan,Low,5.56,3.31,24.8,2017,No
+Punjab,Patiala,Pond,Cadmium,Medium,6.25,5.39,26.2,2015,No
+Karnataka,Belgaum,Pond,Arsenic,Medium,6.48,5.77,16.2,2020,Yes
+Maharashtra,Pune,Reservoir,Lead,Severe,7.34,7.96,20.8,2021,Yes
+Punjab,Jalandhar,Well,Industrial Waste,Low,6.16,4.52,22.6,2016,No
+West Bengal,Kolkata,Well,Mercury,High,5.45,4.28,30.0,2016,No
+Haryana,Panipat,Pond,Plastic Waste,Low,7.84,4.41,26.5,2016,No
+Madhya Pradesh,Bhopal,Groundwater,Chromium,Medium,6.74,6.28,23.4,2016,No
+Odisha,Berhampur,Canal,Arsenic,High,7.0,3.41,31.5,2021,Yes
+Karnataka,Mysuru,Well,Sewage,High,6.83,4.71,31.2,2018,Yes
+Maharashtra,Aurangabad,Lake,Industrial Waste,Medium,7.86,6.69,18.9,2019,Yes
+Haryana,Panipat,Well,Mercury,Severe,8.15,5.84,24.2,2019,No
+Kerala,Thiruvananthapuram,Borewell,Lead,Severe,6.93,5.64,14.0,2021,Yes
+Assam,Jorhat,Reservoir,Chromium,Low,7.81,5.43,31.6,2022,No
+Uttar Pradesh,Lucknow,Canal,Sewage,Severe,5.67,3.09,24.7,2017,No
+Rajasthan,Udaipur,River,Fluoride,High,5.36,4.42,25.9,2023,Yes
+Haryana,Faridabad,River,Nitrate,High,7.52,5.27,31.0,2020,No
+West Bengal,Kolkata,Pond,Sewage,Low,6.76,1.89,27.2,2016,No
+Bihar,Bhagalpur,Lake,Pesticides,Low,7.59,8.68,29.2,2017,Yes
+West Bengal,Kolkata,Lake,Arsenic,High,6.41,4.95,17.3,2024,Yes
+Maharashtra,Pune,Borewell,Pesticides,High,7.86,5.31,30.2,2016,Nan
+Assam,Jorhat,Lake,Chromium,Severe,6.99,3.88,24.4,2021,No
+West Bengal,Kolkata,Reservoir,Industrial Waste,Medium,6.87,5.58,29.1,2022,No
+Odisha,Sambalpur,River,Sewage,Severe,5.91,3.56,32.4,2019,No
+Maharashtra,Aurangabad,Canal,Nitrate,Low,6.63,5.56,24.6,2016,No
+Nan,Mumbai,Lake,Lead,Severe,8.07,6.77,25.8,2016,Yes
+Assam,Jorhat,Borewell,Arsenic,High,7.13,6.89,35.9,2020,Yes
+Tamil Nadu,Coimbatore,Reservoir,Nitrate,Low,6.8,6.99,12.9,2023,Yes
+Gujarat,Rajkot,Borewell,Chromium,Medium,4.5,6.0,25.5,2024,Yes
+Gujarat,Rajkot,Well,Arsenic,High,7.17,4.31,28.3,2017,No
+Rajasthan,Jodhpur,River,Cadmium,High,7.27,5.83,37.5,2017,No
+Tamil Nadu,Madurai,Well,Chromium,Severe,6.77,8.38,26.8,2019,No
+Odisha,Rourkela,River,Nan,Medium,7.57,3.44,32.2,2018,Yes
+Bihar,Muzaffarpur,Borewell,Pesticides,High,5.54,5.84,23.8,2016,No
+Bihar,Bhagalpur,Borewell,Sewage,Severe,7.07,5.63,23.2,2024,No
+Punjab,Amritsar,Reservoir,Lead,Medium,7.35,3.39,29.6,2021,Yes
+Maharashtra,Nashik,Lake,Sewage,High,6.34,5.44,33.0,2015,No
+Tamil Nadu,Trichy,Well,Pesticides,Low,7.05,4.14,25.8,2020,Yes
+Bihar,Patna,Reservoir,Lead,Medium,7.31,4.37,20.3,2017,Yes
+Assam,Guwahati,Lake,Chromium,Severe,6.56,2.91,27.5,2024,No
+Uttar Pradesh,Varanasi,Reservoir,Nitrate,Severe,7.56,9.2,24.1,2019,No
+Punjab,Patiala,Pond,Plastic Waste,Low,8.56,5.86,20.7,2023,Yes
+Rajasthan,Udaipur,Groundwater,Arsenic,Low,7.69,4.41,25.8,2023,No
+Gujarat,Ahmedabad,Reservoir,Industrial Waste,High,6.15,4.8,29.1,2021,No
+Tamil Nadu,Trichy,Borewell,Sewage,Medium,7.29,5.05,22.5,2015,No
+Punjab,Jalandhar,Reservoir,Fluoride,Severe,7.44,0.5,19.7,2023,No
+Gujarat,Rajkot,Borewell,Industrial Waste,Low,8.49,6.62,25.2,2024,Yes
+Gujarat,Rajkot,River,Mercury,Severe,6.99,8.22,27.0,2019,Yes
+Bihar,Gaya,Pond,Nitrate,Medium,7.65,6.43,20.8,2023,No
+Bihar,Bhagalpur,Borewell,Sewage,Low,6.98,4.52,17.3,2017,Yes
+Odisha,Berhampur,Borewell,Lead,Medium,8.18,5.11,28.7,2017,Yes
+Bihar,Muzaffarpur,Canal,Sewage,Low,7.29,4.54,28.2,2023,Yes
+Bihar,Darbhanga,Borewell,Fluoride,High,7.63,4.82,17.5,2016,Yes
+Kerala,Kollam,Well,Nitrate,Severe,7.28,2.77,10.8,2015,No
+Rajasthan,Jodhpur,Well,Pesticides,Medium,6.31,4.13,22.0,2019,Yes
+Kerala,Kochi,River,Mercury,Low,6.65,7.31,21.1,2019,No
+Tamil Nadu,Madurai,Pond,Cadmium,Medium,6.55,3.79,22.3,2022,No
+Bihar,Darbhanga,Lake,Cadmium,High,6.78,5.43,23.3,2021,No
+Bihar,Gaya,Lake,Mercury,High,8.54,6.44,22.0,2016,Yes
+Delhi,Rohini,Groundwater,Chromium,High,6.48,6.56,32.3,2020,No
+Haryana,Panipat,River,Arsenic,Low,7.11,5.28,22.9,2015,No
+West Bengal,Asansol,River,Mercury,Medium,6.75,1.85,24.8,2017,Yes
+Haryana,Panipat,Well,Plastic Waste,Severe,7.21,6.03,20.4,2016,Yes
+Uttar Pradesh,Noida,Canal,Sewage,High,6.98,6.77,31.4,2016,Yes
+Punjab,Ludhiana,Reservoir,Chromium,Low,6.94,7.73,21.7,2017,Yes
+Rajasthan,Bikaner,Lake,Sewage,Low,6.97,4.54,16.2,2016,Yes
+Tamil Nadu,Coimbatore,Reservoir,Pesticides,Severe,6.99,6.26,21.1,2017,Yes
+Odisha,Bhubaneswar,River,Chromium,Severe,5.64,4.7,28.3,2017,Yes
+Delhi,Karol Bagh,Borewell,Fluoride,Medium,6.96,5.6,28.2,2015,Yes
+Bihar,Darbhanga,Well,Chromium,Severe,5.7,4.96,23.7,2023,Yes
+Odisha,Rourkela,Well,Mercury,Medium,5.48,8.25,23.2,2022,Yes
+Punjab,Ludhiana,Well,Arsenic,Low,7.31,2.68,24.5,2022,Yes
+Kerala,Thrissur,Well,Mercury,Severe,7.08,6.36,36.6,2021,No
+Maharashtra,Nagpur,Reservoir,Cadmium,High,7.28,5.08,18.0,2024,No
+Punjab,Patiala,Pond,Nitrate,Low,7.21,1.93,22.7,2024,Yes
+Haryana,Faridabad,River,Lead,Severe,7.02,2.86,15.2,2020,No
+Assam,Guwahati,River,Pesticides,Severe,6.92,5.43,26.7,2024,No
+Gujarat,Surat,Well,Arsenic,Medium,6.34,8.9,24.2,2016,No
+Punjab,Jalandhar,Canal,Nitrate,Low,7.63,6.0,23.0,2021,No
+Rajasthan,Kota,Groundwater,Plastic Waste,High,6.56,4.92,26.1,2016,No
+Odisha,Berhampur,Groundwater,Plastic Waste,High,6.76,5.45,33.8,2016,Yes
+Punjab,Patiala,Lake,Plastic Waste,Severe,6.29,6.68,31.2,2021,No
+Odisha,Berhampur,River,Pesticides,High,6.12,6.77,17.5,2016,Yes
+Bihar,Muzaffarpur,Pond,Mercury,Severe,7.42,5.52,19.1,2019,No
+Madhya Pradesh,Ujjain,Canal,Mercury,Medium,5.42,3.22,19.6,2021,No
+Maharashtra,Mumbai,Reservoir,Nitrate,High,6.24,7.97,24.7,2024,Yes
+West Bengal,Siliguri,Well,Fluoride,Severe,5.99,4.12,24.3,2017,Yes
+Punjab,Chandigarh,River,Cadmium,Severe,7.25,6.25,30.0,2022,No
+Maharashtra,Pune,Lake,Fluoride,Low,7.73,4.2,24.3,2018,Yes
+Haryana,Faridabad,Borewell,Sewage,Low,7.05,5.69,20.8,2019,Yes
+Madhya Pradesh,Nan,Groundwater,Fluoride,Medium,6.91,6.09,28.8,2018,Yes
+Gujarat,Rajkot,Pond,Arsenic,Medium,8.06,6.23,17.1,2019,No
+West Bengal,Durgapur,Lake,Nitrate,Low,7.57,5.29,21.7,2018,Yes
+Odisha,Sambalpur,Pond,Arsenic,Severe,7.37,5.43,27.4,2019,No
+Punjab,Amritsar,Borewell,Fluoride,Medium,5.77,4.27,24.0,2023,No
+West Bengal,Siliguri,Canal,Industrial Waste,Medium,8.03,2.37,22.2,2015,Yes
+Haryana,Gurugram,Borewell,Fluoride,Low,7.79,6.13,26.8,2019,No
+West Bengal,Howrah,Well,Fluoride,Low,6.72,6.82,20.7,2022,Yes
+Bihar,Bhagalpur,Groundwater,Plastic Waste,Low,6.99,3.25,25.8,2015,No
+Tamil Nadu,Trichy,Borewell,Industrial Waste,Severe,6.44,7.71,26.3,2021,No
+Madhya Pradesh,Gwalior,Well,Mercury,Medium,6.76,4.73,26.9,2024,No
+Rajasthan,Kota,Lake,Lead,Medium,7.29,5.43,23.2,2023,Yes
+Delhi,Karol Bagh,Reservoir,Mercury,Low,8.72,7.6,30.7,2021,No
+Bihar,Gaya,Canal,Cadmium,Medium,7.25,6.99,24.1,2019,Yes
+Tamil Nadu,Madurai,River,Fluoride,High,6.89,3.58,24.0,2016,Yes
+Maharashtra,Pune,Reservoir,Arsenic,Medium,5.91,8.36,28.4,2020,Yes
+Tamil Nadu,Salem,Pond,Lead,Medium,5.88,4.81,21.0,2021,Yes
+Rajasthan,Kota,Borewell,Lead,High,8.43,5.53,18.1,2023,Yes
+Karnataka,Bengaluru,Well,Lead,High,6.77,2.79,22.8,2018,Yes
+Kerala,Thiruvananthapuram,Groundwater,Fluoride,Severe,7.02,6.08,29.0,2024,No
+Kerala,Kollam,Lake,Cadmium,Severe,4.76,4.6,30.0,2021,No
+Rajasthan,Kota,Lake,Sewage,Low,8.38,6.7,19.4,2022,Yes
+Uttar Pradesh,Noida,Pond,Chromium,Low,7.62,4.7,24.7,2015,No
+Maharashtra,Aurangabad,Borewell,Pesticides,Low,7.71,5.47,22.7,2023,Yes
+Madhya Pradesh,Indore,Lake,Industrial Waste,Low,5.54,5.65,21.9,2018,No
+Assam,Nagaon,Borewell,Sewage,Severe,4.5,5.47,23.5,2020,Yes
+Karnataka,Bengaluru,Groundwater,Arsenic,Severe,7.17,5.47,26.9,2016,Yes
+Odisha,Cuttack,Pond,Plastic Waste,Low,6.59,2.27,22.3,2024,No
+Punjab,Chandigarh,Groundwater,Plastic Waste,Severe,7.62,5.34,21.7,2023,Yes
+Gujarat,Vadodara,Groundwater,Lead,High,6.54,5.09,19.0,2015,No
+Rajasthan,Jodhpur,Reservoir,Sewage,High,5.83,4.9,32.3,2022,Yes
+Madhya Pradesh,Gwalior,Borewell,Sewage,Medium,6.83,6.81,25.8,2016,Yes
+Madhya Pradesh,Ujjain,Well,Plastic Waste,Low,7.85,4.95,17.8,2021,No
+Karnataka,Mysuru,Well,Arsenic,Medium,7.04,3.04,29.3,2019,Yes
+Gujarat,Bhavnagar,Lake,Plastic Waste,Medium,8.93,8.61,26.2,2021,Yes
+Haryana,Gurugram,Groundwater,Sewage,Medium,6.97,1.78,23.6,2018,No
+Tamil Nadu,Madurai,Borewell,Mercury,Severe,6.67,2.43,19.4,2018,No
+Kerala,Thiruvananthapuram,Canal,Mercury,High,7.37,7.03,19.5,2018,No
+Rajasthan,Jaipur,Reservoir,Industrial Waste,Medium,5.66,6.59,30.7,2017,Yes
+Haryana,Panipat,Groundwater,Cadmium,Medium,6.65,6.47,28.4,2023,No
+Bihar,Darbhanga,Well,Cadmium,Severe,8.01,5.02,18.5,2021,Yes
+Assam,Dibrugarh,Pond,Nitrate,Severe,6.26,7.47,21.3,2024,Yes
+Haryana,Ambala,Pond,Nitrate,High,6.51,6.21,16.6,2023,Yes
+Haryana,Gurugram,Groundwater,Mercury,Medium,4.63,5.51,25.6,2018,Yes
+Maharashtra,Nashik,Well,Mercury,Severe,5.62,7.57,23.0,2015,Yes
+Punjab,Patiala,Reservoir,Mercury,Severe,5.94,5.1,27.0,2015,No
+Delhi,Rohini,River,Sewage,Medium,6.65,3.85,25.2,2020,Yes
+West Bengal,Howrah,Lake,Industrial Waste,Low,6.12,5.72,21.9,2024,No
+Haryana,Karnal,Reservoir,Chromium,High,7.37,6.24,30.1,2017,Yes
+Gujarat,Rajkot,River,Sewage,High,7.18,4.1,20.0,2022,Yes
+Karnataka,Mangalore,Lake,Sewage,Severe,6.31,10.15,26.1,2022,No
+West Bengal,Kolkata,River,Plastic Waste,Low,7.03,2.39,24.1,2019,No
+Haryana,Gurugram,Well,Fluoride,Medium,7.0,7.43,30.4,2024,Yes
+Kerala,Thrissur,River,Industrial Waste,Medium,8.65,2.75,23.4,2019,No
+Odisha,Rourkela,Well,Sewage,High,6.82,4.71,29.2,2021,Yes
+Uttar Pradesh,Agra,Borewell,Chromium,Low,6.43,5.29,24.1,2015,No
+Haryana,Panipat,Canal,Sewage,Low,7.32,3.95,23.8,2017,No
+Karnataka,Bengaluru,Canal,Industrial Waste,Severe,7.85,7.22,27.9,2017,Yes
+Uttar Pradesh,Agra,Reservoir,Lead,Medium,7.68,5.86,26.4,2017,Yes
+Maharashtra,Pune,Reservoir,Sewage,High,6.71,7.97,28.0,2024,Yes
+Rajasthan,Udaipur,Pond,Cadmium,Medium,5.68,5.8,24.3,2018,No
+Delhi,New Delhi,Borewell,Lead,Severe,6.23,9.89,26.2,2021,Yes
+Uttar Pradesh,Varanasi,Borewell,Pesticides,Severe,6.94,7.22,19.1,2016,Yes
+Maharashtra,Pune,Lake,Fluoride,Medium,5.46,10.38,23.7,2016,No
+Uttar Pradesh,Lucknow,River,Mercury,High,6.21,5.98,22.9,2022,Yes
+Karnataka,Mangalore,Borewell,Plastic Waste,High,6.35,5.15,21.7,2021,Yes
+Madhya Pradesh,Gwalior,Lake,Industrial Waste,Severe,8.85,6.51,23.2,2021,No
+Punjab,Chandigarh,Well,Cadmium,Severe,7.22,10.18,26.8,2024,No
+Uttar Pradesh,Agra,Groundwater,Nitrate,Low,6.49,4.91,32.4,2020,Yes
+Gujarat,Vadodara,Groundwater,Industrial Waste,Medium,6.09,3.09,26.2,2023,Yes
+Karnataka,Hubli,Groundwater,Nitrate,Medium,7.38,6.59,34.3,2017,Yes
+Punjab,Patiala,Reservoir,Arsenic,High,6.81,3.93,28.4,2024,Yes
+Bihar,Patna,Groundwater,Industrial Waste,Severe,8.7,5.93,19.8,2021,No
+Kerala,Thrissur,Groundwater,Nitrate,Severe,8.55,5.72,27.8,2023,Yes
+Kerala,Kollam,Canal,Lead,Severe,7.56,5.41,19.1,2022,Yes
+Delhi,Saket,Lake,Industrial Waste,Severe,8.71,5.26,19.1,2018,Yes
+Rajasthan,Jaipur,River,Sewage,High,7.13,6.36,29.9,2024,Yes
+Bihar,Patna,Well,Plastic Waste,High,7.7,4.72,26.0,2024,No
+Bihar,Patna,Well,Cadmium,Low,6.82,5.43,19.9,2023,No
+Kerala,Kollam,River,Cadmium,Severe,6.91,4.9,22.4,2024,No
+Uttar Pradesh,Noida,Groundwater,Chromium,High,6.36,5.03,16.0,2017,Yes
+Maharashtra,Pune,Pond,Fluoride,Severe,7.4,6.97,27.0,2015,No
+Rajasthan,Jodhpur,Pond,Mercury,Low,8.33,3.71,24.7,2024,No
+Karnataka,Belgaum,Pond,Nan,High,8.34,5.21,27.1,2018,Yes
+Gujarat,Bhavnagar,Well,Chromium,Severe,7.21,6.89,16.6,2021,No
+Tamil Nadu,Chennai,Lake,Chromium,Low,6.01,3.91,33.0,2019,Yes
+Gujarat,Rajkot,Pond,Chromium,High,7.26,3.42,17.3,2020,No
+Rajasthan,Jodhpur,Reservoir,Sewage,Medium,7.37,3.77,14.3,2019,No
+Odisha,Sambalpur,Borewell,Mercury,High,6.3,5.07,21.6,2024,Yes
+Tamil Nadu,Salem,Groundwater,Mercury,High,7.31,3.88,21.6,2024,No
+Kerala,Thrissur,Well,Mercury,Low,5.71,4.71,24.7,2017,Yes
+Delhi,Saket,Groundwater,Fluoride,Medium,5.97,6.97,24.2,2021,No
+Rajasthan,Bikaner,Well,Plastic Waste,Low,6.65,4.28,27.1,2019,No
+Assam,Silchar,Well,Plastic Waste,Low,6.91,2.54,23.1,2015,No
+Odisha,Bhubaneswar,Canal,Plastic Waste,Medium,7.76,1.51,36.1,2023,Yes
+Kerala,Kozhikode,Groundwater,Sewage,Low,7.18,5.98,30.4,2023,Yes
+Uttar Pradesh,Varanasi,Groundwater,Industrial Waste,Severe,7.21,5.43,17.0,2022,Yes
+Delhi,New Delhi,Borewell,Nitrate,High,7.19,4.89,28.8,2018,No
+Haryana,Gurugram,River,Fluoride,High,5.89,6.49,27.1,2024,No
+Gujarat,Ahmedabad,Reservoir,Plastic Waste,Severe,6.82,4.66,24.2,2019,Yes
+Delhi,Karol Bagh,Reservoir,Fluoride,Severe,8.74,6.97,23.8,2024,No
+Karnataka,Bengaluru,Canal,Fluoride,Low,7.75,6.33,23.6,2020,No
+Uttar Pradesh,Varanasi,Reservoir,Nitrate,Severe,7.26,3.06,26.3,2018,No
+Bihar,Darbhanga,Groundwater,Pesticides,Medium,5.67,4.03,18.3,2020,Yes
+Gujarat,Bhavnagar,Groundwater,Plastic Waste,Low,7.96,3.92,25.7,2022,Yes
+Kerala,Kollam,Groundwater,Industrial Waste,Medium,7.86,5.94,16.3,2022,Yes
+Tamil Nadu,Salem,Well,Mercury,Low,8.24,6.67,23.2,2018,No
+Odisha,Berhampur,Borewell,Lead,Low,5.84,3.88,31.1,2020,No
+Maharashtra,Pune,Well,Industrial Waste,Severe,5.85,5.84,29.0,2021,Yes
+Haryana,Faridabad,Borewell,Plastic Waste,High,7.22,6.4,26.4,2022,Yes
+Madhya Pradesh,Gwalior,Canal,Nitrate,Medium,8.63,10.3,24.5,2015,No
+Nan,Sambalpur,Borewell,Lead,Medium,7.46,4.54,18.2,2024,Yes
+Uttar Pradesh,Varanasi,River,Mercury,Low,6.98,5.61,36.3,2016,Yes
+Tamil Nadu,Chennai,Groundwater,Nitrate,Low,4.95,5.13,38.0,2020,No
+Delhi,New Delhi,Groundwater,Pesticides,High,6.68,5.18,30.9,2022,Yes
+Assam,Nagaon,Groundwater,Lead,Low,8.01,3.36,32.2,2021,Yes
+Gujarat,Nan,Lake,Industrial Waste,Low,5.57,6.29,23.9,2020,Yes
+Haryana,Karnal,Canal,Industrial Waste,Low,6.64,6.73,18.2,2022,Yes
+Haryana,Ambala,Borewell,Arsenic,Medium,7.65,5.65,15.4,2024,Yes
+Rajasthan,Jaipur,Pond,Fluoride,High,7.97,5.9,28.5,2022,No
+Gujarat,Nan,Well,Chromium,Medium,5.56,4.37,27.7,2017,Yes
+Karnataka,Hubli,Pond,Mercury,Severe,6.47,6.76,24.1,2016,Yes
+Tamil Nadu,Salem,Pond,Sewage,High,6.4,6.03,23.1,2021,Yes
+Assam,Dibrugarh,Lake,Arsenic,High,7.66,6.56,23.3,2017,No
+Madhya Pradesh,Nan,Lake,Lead,Low,7.85,3.73,22.9,2020,Yes
+Tamil Nadu,Coimbatore,Pond,Arsenic,Low,8.43,3.27,34.7,2021,Yes
+West Bengal,Durgapur,Borewell,Sewage,Low,7.0,5.43,27.7,2015,Yes
+Assam,Nagaon,Pond,Fluoride,Low,6.99,4.39,22.4,2022,Yes
+Gujarat,Surat,Pond,Lead,Medium,7.38,5.9,30.4,2023,No
+Odisha,Berhampur,Borewell,Chromium,Low,7.07,4.63,36.7,2021,Yes
+Assam,Dibrugarh,Canal,Arsenic,Low,5.84,5.61,28.6,2024,Yes
+West Bengal,Asansol,Groundwater,Plastic Waste,Severe,7.09,9.18,25.4,2022,No
+Gujarat,Bhavnagar,Lake,Nitrate,High,7.86,5.59,25.1,2021,Yes
+Punjab,Patiala,Well,Industrial Waste,Medium,6.18,5.76,25.6,2019,Yes
+Maharashtra,Aurangabad,Reservoir,Pesticides,Medium,5.05,5.49,24.8,2020,No
+Madhya Pradesh,Bhopal,Pond,Chromium,High,6.99,5.89,26.5,2018,Yes
+Bihar,Darbhanga,Reservoir,Industrial Waste,Medium,7.75,3.96,24.4,2022,Yes
+Uttar Pradesh,Nan,Lake,Arsenic,Low,7.28,6.64,26.1,2018,No
+Rajasthan,Bikaner,Groundwater,Chromium,High,7.78,7.22,26.6,2018,Yes
+Punjab,Ludhiana,Groundwater,Fluoride,Medium,7.72,2.59,18.7,2018,Yes
+Punjab,Ludhiana,Lake,Mercury,Severe,6.63,3.71,26.7,2021,Yes
+Tamil Nadu,Salem,Canal,Industrial Waste,Low,6.94,6.16,34.5,2016,Yes
+Tamil Nadu,Salem,Nan,Arsenic,High,6.58,4.84,25.4,2022,No
+Punjab,Ludhiana,Groundwater,Industrial Waste,Medium,7.32,3.25,31.2,2022,No
+Haryana,Karnal,Pond,Chromium,High,6.32,7.39,32.3,2018,Yes
+Rajasthan,Jaipur,Borewell,Nitrate,Medium,6.45,7.54,23.2,2021,No
+Rajasthan,Bikaner,Well,Industrial Waste,Medium,5.25,1.81,27.7,2022,Yes
+Haryana,Faridabad,Canal,Nitrate,Low,6.83,7.65,29.1,2017,Yes
+Tamil Nadu,Coimbatore,Well,Lead,Severe,7.23,3.12,21.8,2022,No
+Kerala,Kochi,Well,Fluoride,Low,7.01,4.43,22.5,2020,Yes
+Kerala,Kochi,Borewell,Mercury,High,6.18,1.27,32.4,2018,Yes
+Odisha,Sambalpur,Pond,Pesticides,Severe,6.42,7.35,22.3,2020,No
+Bihar,Bhagalpur,Pond,Industrial Waste,High,7.21,7.36,19.8,2018,No
+Bihar,Bhagalpur,Groundwater,Nitrate,Low,7.4,4.18,25.1,2022,Yes
+Karnataka,Mangalore,River,Industrial Waste,High,7.34,5.8,31.7,2021,No
+Maharashtra,Pune,Borewell,Mercury,Low,8.86,3.58,24.1,2018,Nan
+Bihar,Bhagalpur,River,Fluoride,Severe,6.79,5.52,24.2,2020,No
+Karnataka,Hubli,Canal,Industrial Waste,High,6.6,4.55,18.6,2020,No
+Uttar Pradesh,Kanpur,Reservoir,Fluoride,Low,6.99,4.45,20.3,2017,No
+Bihar,Muzaffarpur,Well,Chromium,Low,6.13,5.7,20.9,2015,Yes
+Assam,Jorhat,Pond,Sewage,Low,4.56,4.2,19.4,2023,No
+Haryana,Ambala,Reservoir,Sewage,High,7.16,3.72,24.5,2019,Yes
+Odisha,Cuttack,River,Pesticides,Medium,7.4,2.67,18.4,2016,No
+Madhya Pradesh,Indore,Borewell,Nitrate,Severe,7.02,3.94,31.9,2024,Yes
+Maharashtra,Nagpur,River,Cadmium,High,7.04,8.55,20.9,2021,No
+Uttar Pradesh,Agra,Reservoir,Lead,High,8.07,8.09,22.8,2016,No
+Karnataka,Bengaluru,Lake,Lead,Nan,7.07,7.39,23.9,2021,Yes
+West Bengal,Howrah,Borewell,Fluoride,Low,6.85,6.58,18.0,2022,Yes
+Rajasthan,Kota,Canal,Cadmium,Medium,6.09,3.31,29.8,2024,Yes
+Bihar,Gaya,Well,Pesticides,Medium,5.87,4.39,22.1,2019,No
+Karnataka,Bengaluru,Borewell,Plastic Waste,Severe,6.91,4.42,19.2,2022,Yes
+Uttar Pradesh,Noida,Pond,Pesticides,High,6.55,6.54,16.5,2015,Yes
+Tamil Nadu,Coimbatore,Groundwater,Fluoride,High,8.3,4.67,21.9,2016,No
+Delhi,Dwarka,Groundwater,Pesticides,High,7.38,5.69,25.9,2020,No
+Kerala,Kollam,Borewell,Industrial Waste,High,7.65,5.37,22.6,2024,Yes
+West Bengal,Durgapur,Reservoir,Fluoride,Low,5.27,6.54,23.1,2023,No
+Assam,Jorhat,Groundwater,Mercury,High,7.85,3.64,26.0,2016,Yes
+Punjab,Jalandhar,Groundwater,Mercury,Severe,7.09,8.29,17.8,2023,Yes
+West Bengal,Asansol,Lake,Mercury,Medium,5.64,8.29,33.0,2022,No
+Karnataka,Mysuru,Pond,Plastic Waste,Low,6.1,2.34,24.5,2016,Yes
+Gujarat,Ahmedabad,Canal,Chromium,High,7.15,5.69,24.7,2016,Yes
+Bihar,Darbhanga,River,Industrial Waste,Low,7.19,5.88,18.5,2022,No
+Maharashtra,Nagpur,Borewell,Arsenic,Severe,6.0,2.37,29.5,2024,Yes
+Maharashtra,Aurangabad,Pond,Pesticides,Medium,6.46,4.88,13.6,2021,Yes
+West Bengal,Howrah,Well,Fluoride,High,6.87,2.92,21.6,2018,No
+Odisha,Bhubaneswar,Groundwater,Mercury,Medium,5.23,7.11,17.9,2015,Yes
+Assam,Jorhat,Well,Industrial Waste,Medium,7.45,4.54,26.6,2016,No
+Uttar Pradesh,Agra,Canal,Fluoride,Low,7.27,5.38,24.5,2021,No
+Maharashtra,Nashik,Groundwater,Chromium,Severe,5.31,3.42,14.1,2019,Yes
+Gujarat,Surat,Reservoir,Chromium,Medium,7.68,3.84,28.3,2018,No
+Punjab,Jalandhar,Pond,Nitrate,High,6.32,6.19,29.6,2024,Yes
+Kerala,Thiruvananthapuram,Lake,Industrial Waste,High,7.61,2.01,20.2,2015,Yes
+Kerala,Kochi,Groundwater,Fluoride,Medium,8.21,5.15,31.4,2015,Yes
+Maharashtra,Mumbai,Borewell,Lead,Severe,7.56,2.06,24.5,2022,Yes
+Karnataka,Mysuru,Borewell,Arsenic,High,6.6,5.93,17.5,2018,Yes
+Rajasthan,Jodhpur,Well,Fluoride,Severe,6.97,2.59,24.2,2023,No
+Maharashtra,Nashik,Borewell,Plastic Waste,Low,6.88,5.43,16.5,2024,No
+Kerala,Thrissur,Borewell,Arsenic,High,6.72,7.04,26.8,2018,Yes
+Karnataka,Belgaum,River,Pesticides,Medium,5.25,5.49,16.0,2022,Yes
+Karnataka,Belgaum,Lake,Pesticides,Low,6.08,8.84,30.1,2017,No
+Tamil Nadu,Trichy,Groundwater,Mercury,High,8.45,6.38,27.7,2020,Yes
+West Bengal,Siliguri,Well,Plastic Waste,Medium,6.88,6.2,23.5,2020,Yes
+Punjab,Patiala,Pond,Sewage,Low,7.35,5.95,23.0,2018,Yes
+Rajasthan,Jodhpur,Canal,Plastic Waste,Medium,7.54,7.97,25.8,2016,Yes
+Bihar,Bhagalpur,Pond,Cadmium,Medium,7.5,3.76,24.5,2017,Yes
+Madhya Pradesh,Jabalpur,Groundwater,Lead,High,8.13,6.61,24.4,2019,No
+Punjab,Ludhiana,Well,Plastic Waste,Severe,7.43,5.02,14.8,2015,No
+Punjab,Patiala,Canal,Mercury,High,6.87,7.47,13.0,2021,Yes
+Uttar Pradesh,Lucknow,River,Chromium,Low,6.63,3.71,27.3,2016,Yes
+Odisha,Cuttack,Well,Lead,Medium,6.99,4.79,14.5,2024,Yes
+Maharashtra,Aurangabad,Canal,Mercury,High,5.71,4.56,26.5,2015,No
+Uttar Pradesh,Agra,Lake,Arsenic,Severe,7.24,6.42,16.1,2017,No
+Bihar,Darbhanga,River,Cadmium,High,7.28,2.42,17.3,2017,Yes
+Delhi,Dwarka,Canal,Cadmium,Medium,6.27,5.84,20.1,2024,No
+Punjab,Patiala,Reservoir,Fluoride,High,7.85,5.43,11.2,2016,No
+Tamil Nadu,Madurai,Groundwater,Chromium,Severe,7.54,5.63,22.9,2020,No
+Karnataka,Mysuru,Well,Nitrate,High,8.28,6.03,27.6,2016,No
+Maharashtra,Pune,Canal,Sewage,High,7.18,6.83,24.9,2023,No
+Delhi,Rohini,Pond,Nitrate,Severe,7.19,5.74,16.0,2018,No
+Rajasthan,Jodhpur,Groundwater,Sewage,Low,6.25,7.11,28.6,2020,Yes
+Odisha,Sambalpur,Borewell,Pesticides,Medium,6.29,6.1,15.2,2022,No
+Punjab,Amritsar,Reservoir,Mercury,High,7.15,5.52,32.2,2021,No
+Madhya Pradesh,Indore,Reservoir,Fluoride,Medium,9.13,8.01,25.2,2020,No
+Tamil Nadu,Salem,Well,Sewage,Severe,6.94,6.09,25.6,2016,No
+Gujarat,Surat,Pond,Cadmium,Low,6.83,6.84,27.2,2017,No
+Delhi,Karol Bagh,Pond,Nitrate,Medium,5.51,6.27,25.0,2016,No
+Bihar,Muzaffarpur,Borewell,Fluoride,Severe,6.08,7.78,19.7,2019,No
+Bihar,Muzaffarpur,Pond,Arsenic,High,8.33,3.44,23.0,2023,Yes
+Haryana,Ambala,Reservoir,Lead,Medium,6.27,5.36,25.7,2024,No
+Gujarat,Surat,Reservoir,Fluoride,Medium,6.17,5.96,19.5,2015,No
+Punjab,Jalandhar,Borewell,Pesticides,Low,6.99,7.35,28.4,2021,No
+Kerala,Thrissur,Lake,Industrial Waste,Low,6.3,5.87,21.7,2020,Yes
+Assam,Nagaon,Well,Mercury,Low,6.99,9.24,23.8,2016,Yes
+Gujarat,Bhavnagar,River,Arsenic,Severe,7.29,3.25,28.6,2023,Yes
+Delhi,Saket,Borewell,Chromium,Severe,7.16,7.92,25.8,2024,Yes
+Madhya Pradesh,Gwalior,Pond,Nitrate,Low,7.14,4.46,24.2,2024,No
+Assam,Guwahati,Well,Nitrate,Medium,7.3,5.27,23.7,2021,Yes
+Uttar Pradesh,Varanasi,Reservoir,Mercury,Low,6.7,4.1,30.7,2018,No
+Rajasthan,Udaipur,Borewell,Cadmium,Medium,7.46,5.4,17.0,2017,No
+Delhi,Saket,Lake,Fluoride,Severe,7.0,7.46,35.8,2015,Yes
+Punjab,Amritsar,Lake,Lead,High,4.5,6.44,17.9,2021,No
+Odisha,Cuttack,Pond,Sewage,Severe,6.66,3.63,15.8,2016,Yes
+Punjab,Jalandhar,Canal,Cadmium,High,7.24,4.84,24.7,2017,Yes
+Uttar Pradesh,Noida,Lake,Industrial Waste,Low,6.19,10.36,25.2,2024,No
+Punjab,Amritsar,Borewell,Cadmium,Medium,7.68,2.5,26.7,2023,No
+Madhya Pradesh,Ujjain,Groundwater,Fluoride,Low,7.87,6.66,30.8,2024,Yes
+Tamil Nadu,Coimbatore,Groundwater,Arsenic,High,7.25,3.47,36.2,2016,No
+Bihar,Gaya,Lake,Industrial Waste,Medium,9.15,5.82,22.6,2024,Yes
+West Bengal,Howrah,Well,Chromium,High,6.25,2.41,25.2,2015,Yes
+Assam,Jorhat,Reservoir,Pesticides,High,6.95,2.78,27.2,2020,Yes
+Assam,Guwahati,Borewell,Arsenic,Severe,7.88,1.21,21.2,2019,No
+Rajasthan,Udaipur,Borewell,Sewage,Low,7.2,4.95,22.9,2018,Yes
+Gujarat,Ahmedabad,River,Nitrate,Low,7.84,4.61,18.2,2019,Yes
+Tamil Nadu,Chennai,Canal,Lead,Low,7.14,4.02,29.6,2024,No
+Tamil Nadu,Coimbatore,Lake,Cadmium,Medium,7.42,5.86,25.6,2023,Yes
+Madhya Pradesh,Jabalpur,Groundwater,Lead,High,6.38,6.98,19.2,2018,Yes
+Madhya Pradesh,Ujjain,Borewell,Arsenic,Low,9.29,6.46,24.7,2023,Yes
+Maharashtra,Nashik,Well,Fluoride,High,6.89,5.68,22.5,2023,Yes
+Maharashtra,Aurangabad,Canal,Plastic Waste,High,7.83,4.81,24.9,2018,Yes
+Madhya Pradesh,Gwalior,Reservoir,Cadmium,Medium,5.65,3.85,30.6,2017,Yes
+Odisha,Berhampur,Borewell,Fluoride,Low,5.46,3.49,30.2,2020,No
+Maharashtra,Nagpur,Canal,Industrial Waste,Medium,6.37,6.55,25.3,2021,Yes
+Rajasthan,Jaipur,Groundwater,Sewage,High,6.23,4.77,25.4,2017,No
+Gujarat,Ahmedabad,Nan,Fluoride,Severe,6.99,1.99,24.7,2020,No
+Odisha,Bhubaneswar,Canal,Arsenic,High,6.82,5.38,24.5,2015,Yes
+Tamil Nadu,Coimbatore,River,Nitrate,High,6.5,0.5,34.3,2021,Yes
+Madhya Pradesh,Indore,Reservoir,Mercury,Severe,6.61,4.94,25.1,2017,Yes
+Tamil Nadu,Madurai,Borewell,Pesticides,High,7.48,6.15,32.8,2022,Yes
+Karnataka,Hubli,Pond,Industrial Waste,Low,6.23,7.06,27.8,2023,Yes
+Haryana,Panipat,Canal,Industrial Waste,Medium,6.87,4.66,16.0,2017,Yes
+Punjab,Chandigarh,River,Arsenic,High,6.72,7.16,26.4,2023,Yes
+Uttar Pradesh,Kanpur,Lake,Industrial Waste,Low,7.72,7.16,18.7,2017,Yes
+Rajasthan,Jodhpur,Groundwater,Sewage,Nan,6.25,4.49,27.7,2016,Yes
+Kerala,Kollam,Nan,Nitrate,High,7.19,1.97,17.4,2021,No
+Assam,Jorhat,Canal,Nan,Severe,6.58,5.31,37.2,2017,Yes
+Odisha,Cuttack,Pond,Pesticides,Medium,8.35,3.14,26.0,2018,Yes
+Uttar Pradesh,Noida,Groundwater,Cadmium,High,7.8,6.54,26.5,2021,Yes
+Madhya Pradesh,Indore,Well,Fluoride,Severe,5.18,3.57,33.6,2018,No
+West Bengal,Kolkata,Borewell,Fluoride,Severe,6.29,5.49,22.9,2019,No
+West Bengal,Siliguri,Reservoir,Chromium,Medium,7.42,8.24,19.3,2022,Yes
+Uttar Pradesh,Agra,Canal,Sewage,High,5.13,4.92,32.2,2019,Yes
+Uttar Pradesh,Noida,Reservoir,Pesticides,High,6.56,5.43,26.5,2019,Yes
+Assam,Jorhat,Reservoir,Pesticides,Low,6.28,4.88,27.9,2022,No
+West Bengal,Kolkata,River,Pesticides,High,4.5,6.21,24.2,2023,Yes
+Assam,Silchar,Nan,Nitrate,Low,6.57,5.17,18.5,2024,No
+Karnataka,Bengaluru,Groundwater,Sewage,Low,5.8,5.16,28.6,2024,No
+Haryana,Gurugram,Pond,Mercury,Severe,5.71,5.09,12.1,2018,Yes
+Odisha,Rourkela,River,Sewage,Severe,8.33,7.04,23.2,2018,Yes
+Delhi,Karol Bagh,Canal,Arsenic,High,7.82,6.24,22.8,2022,Yes
+Maharashtra,Pune,Groundwater,Chromium,Severe,8.07,3.38,32.3,2020,No
+Bihar,Bhagalpur,Lake,Chromium,Medium,6.77,6.56,21.6,2017,Yes
+Maharashtra,Nagpur,Reservoir,Pesticides,High,7.53,6.43,28.1,2022,Yes
+Punjab,Ludhiana,River,Arsenic,High,5.84,6.03,24.7,2015,Yes
+Rajasthan,Udaipur,Pond,Fluoride,High,8.08,4.4,23.3,2020,No
+Rajasthan,Jaipur,Pond,Chromium,High,7.73,3.28,25.1,2018,No
+Karnataka,Bengaluru,Groundwater,Fluoride,Severe,6.89,6.26,19.6,2017,No
+West Bengal,Kolkata,Borewell,Chromium,Low,7.08,5.69,29.0,2018,No
+West Bengal,Durgapur,Borewell,Nitrate,Low,7.54,6.19,20.0,2019,Yes
+Gujarat,Surat,River,Chromium,Medium,8.1,2.67,19.3,2019,Yes
+Bihar,Bhagalpur,Pond,Plastic Waste,High,7.68,6.73,33.2,2022,Yes
+Uttar Pradesh,Varanasi,Lake,Chromium,Low,5.87,5.11,25.9,2018,Yes
+Haryana,Karnal,Borewell,Mercury,Severe,8.8,11.0,27.0,2023,No
+Haryana,Nan,River,Arsenic,Severe,6.65,3.52,31.1,2018,No
+Uttar Pradesh,Nan,Groundwater,Pesticides,Severe,6.53,5.43,26.0,2018,No
+Maharashtra,Nagpur,Canal,Cadmium,Severe,7.55,3.13,27.9,2024,Yes
+Odisha,Rourkela,River,Sewage,Severe,8.4,7.09,20.2,2019,No
+Punjab,Ludhiana,Borewell,Arsenic,Low,5.53,7.67,27.9,2023,Yes
+Uttar Pradesh,Noida,Reservoir,Industrial Waste,Medium,6.76,2.72,32.0,2021,Yes
+Bihar,Gaya,Well,Plastic Waste,High,7.28,4.56,30.8,2021,No
+West Bengal,Durgapur,Lake,Fluoride,Medium,7.98,5.88,25.0,2024,No
+Bihar,Darbhanga,Reservoir,Arsenic,High,7.78,3.08,24.6,2024,Yes
+Gujarat,Surat,Well,Pesticides,Low,8.27,5.32,24.1,2019,Yes
+Punjab,Chandigarh,Reservoir,Industrial Waste,Severe,8.37,1.66,27.8,2015,Yes
+Karnataka,Mysuru,Well,Chromium,Low,6.4,6.8,17.7,2015,No
+Bihar,Bhagalpur,Reservoir,Cadmium,Medium,6.6,4.25,14.2,2024,No
+Delhi,New Delhi,Well,Mercury,High,7.66,5.51,14.8,2015,No
+Gujarat,Surat,Borewell,Mercury,Severe,5.13,5.46,29.6,2023,No
+Delhi,New Delhi,Well,Sewage,Severe,7.33,8.81,22.9,2022,No
+West Bengal,Kolkata,Well,Lead,Severe,5.48,4.05,28.8,2021,Yes
+Maharashtra,Aurangabad,Canal,Lead,Medium,6.94,5.43,24.4,2020,Yes
+Kerala,Kochi,Canal,Lead,Low,7.62,8.26,27.0,2018,No
+Assam,Guwahati,Well,Cadmium,Low,8.61,5.52,22.9,2015,No
+Maharashtra,Aurangabad,Well,Sewage,Low,7.97,4.36,22.5,2016,No
+West Bengal,Kolkata,Lake,Pesticides,Severe,6.44,6.84,24.2,2017,Yes
+Haryana,Ambala,Pond,Pesticides,Low,8.06,7.86,28.3,2017,No
+Bihar,Muzaffarpur,Reservoir,Chromium,High,6.63,6.91,16.6,2020,Yes
+Gujarat,Surat,Lake,Lead,Severe,8.07,2.3,25.6,2017,Yes
+West Bengal,Asansol,River,Lead,Medium,8.58,0.98,20.2,2020,No
+Karnataka,Bengaluru,Well,Fluoride,Low,6.31,4.6,21.4,2019,No
+West Bengal,Kolkata,Groundwater,Fluoride,Severe,7.85,5.74,23.3,2024,No
+Tamil Nadu,Salem,Lake,Arsenic,Medium,6.44,5.2,21.6,2016,Yes
+Madhya Pradesh,Ujjain,River,Mercury,Severe,8.14,3.98,26.7,2017,No
+Rajasthan,Bikaner,Reservoir,Fluoride,Severe,6.55,2.71,24.3,2024,Yes
+Odisha,Sambalpur,Well,Plastic Waste,Medium,6.8,5.62,16.9,2021,No
+Bihar,Bhagalpur,Canal,Mercury,Medium,6.36,5.71,25.2,2017,Yes
+Haryana,Faridabad,Canal,Nitrate,Severe,6.58,5.98,21.8,2023,No
+Delhi,Karol Bagh,Reservoir,Industrial Waste,Low,7.27,5.97,24.0,2016,Yes
+Maharashtra,Nashik,Well,Arsenic,Severe,8.2,6.5,24.2,2021,No
+Odisha,Sambalpur,Pond,Plastic Waste,Low,8.95,4.34,28.6,2017,No
+Delhi,Rohini,Lake,Arsenic,Medium,6.17,5.8,16.9,2021,No
+Rajasthan,Udaipur,Pond,Cadmium,Medium,6.99,7.08,26.4,2022,No
+Rajasthan,Kota,Groundwater,Pesticides,Low,6.65,2.68,16.5,2024,No
+Karnataka,Mangalore,Canal,Lead,Severe,6.33,6.67,31.1,2018,No
+Assam,Nagaon,Pond,Arsenic,Medium,5.74,5.35,35.3,2018,No
+Tamil Nadu,Salem,Canal,Arsenic,Low,8.31,4.44,26.2,2023,No
+Delhi,New Delhi,Borewell,Cadmium,Low,6.75,6.55,25.4,2023,Yes
+Rajasthan,Jaipur,Lake,Fluoride,High,5.98,5.38,18.6,2016,Yes
+Assam,Nagaon,Borewell,Industrial Waste,Severe,5.11,6.63,28.4,2020,No
+Maharashtra,Nashik,Groundwater,Chromium,High,7.31,8.2,24.4,2023,No
+Gujarat,Bhavnagar,Reservoir,Cadmium,Low,7.67,6.04,26.3,2018,Yes
+Kerala,Kollam,Borewell,Arsenic,High,6.77,5.96,30.0,2024,No
+Maharashtra,Nagpur,Groundwater,Nitrate,Low,8.81,5.75,22.2,2015,No
+Karnataka,Bengaluru,Lake,Pesticides,Medium,6.46,7.12,32.5,2024,Yes
+Assam,Silchar,Reservoir,Lead,Medium,5.54,0.99,25.5,2017,Yes
+Punjab,Chandigarh,Pond,Plastic Waste,Medium,7.19,6.15,19.4,2018,No
+Karnataka,Mysuru,Groundwater,Pesticides,Severe,7.93,2.77,9.8,2024,Yes
+West Bengal,Siliguri,Groundwater,Lead,Low,6.87,4.07,22.5,2022,Yes
+Punjab,Jalandhar,Canal,Mercury,Medium,7.34,4.42,22.5,2017,No
+Punjab,Amritsar,Well,Mercury,Severe,7.85,5.6,26.1,2018,Yes
+Tamil Nadu,Coimbatore,Well,Mercury,Low,6.24,6.85,27.3,2016,Yes
+Madhya Pradesh,Ujjain,Canal,Nan,Severe,7.69,8.61,21.7,2023,Yes
+Odisha,Sambalpur,Lake,Arsenic,High,7.73,7.26,24.0,2019,No
+Delhi,New Delhi,Well,Lead,Medium,6.34,2.95,25.1,2020,Nan
+Bihar,Muzaffarpur,River,Nitrate,Low,7.33,6.21,14.4,2023,Yes
+Haryana,Gurugram,Well,Nitrate,High,4.99,5.91,21.2,2022,No
+Gujarat,Rajkot,Pond,Sewage,Low,7.72,4.5,24.1,2018,Yes
+Karnataka,Bengaluru,Groundwater,Cadmium,Low,5.4,5.35,19.8,2016,No
+Maharashtra,Nashik,Borewell,Nitrate,High,8.35,4.61,21.5,2017,Yes
+Delhi,Saket,Pond,Plastic Waste,Nan,6.42,2.51,26.5,2022,No
+Haryana,Faridabad,Pond,Nitrate,Severe,7.42,9.05,26.3,2017,No
+West Bengal,Siliguri,Groundwater,Sewage,Severe,5.86,6.37,19.6,2020,No
+Delhi,New Delhi,Borewell,Plastic Waste,Medium,5.51,7.24,26.7,2018,Yes
+West Bengal,Asansol,Pond,Mercury,High,6.3,7.45,17.3,2024,Yes
+Rajasthan,Jaipur,Lake,Mercury,High,5.97,6.98,23.7,2017,No
+Tamil Nadu,Chennai,Groundwater,Chromium,High,8.59,10.53,24.5,2017,Yes
+Odisha,Sambalpur,Groundwater,Plastic Waste,High,7.83,4.98,25.3,2021,No
+Madhya Pradesh,Gwalior,Reservoir,Pesticides,Medium,5.4,6.24,18.9,2016,Yes
+Kerala,Thiruvananthapuram,River,Arsenic,Low,8.1,3.92,32.6,2015,No
+Rajasthan,Jodhpur,Pond,Mercury,High,8.31,7.23,34.8,2015,No
+Gujarat,Ahmedabad,Groundwater,Plastic Waste,Severe,7.35,3.91,24.8,2018,No
+Assam,Jorhat,Groundwater,Mercury,Low,6.43,7.74,30.1,2020,No
+Uttar Pradesh,Agra,Reservoir,Pesticides,Severe,7.62,1.78,34.6,2019,No
+West Bengal,Howrah,Well,Chromium,High,8.5,7.7,23.0,2023,No
+Kerala,Kollam,Well,Cadmium,High,6.93,3.68,13.6,2018,Yes
+Tamil Nadu,Trichy,Canal,Nan,Severe,6.61,6.25,27.0,2017,No
+Tamil Nadu,Madurai,Borewell,Sewage,Severe,8.87,6.28,17.6,2016,Yes
+Kerala,Thrissur,Well,Lead,Severe,7.63,6.26,26.5,2015,No
+Rajasthan,Jodhpur,Well,Mercury,Severe,7.09,7.49,22.7,2019,Yes
+Punjab,Jalandhar,Canal,Arsenic,Low,8.69,7.21,21.1,2021,Yes
+Karnataka,Belgaum,Pond,Sewage,Low,4.98,5.85,33.6,2019,Yes
+Odisha,Sambalpur,Reservoir,Nitrate,Severe,6.13,5.18,26.5,2015,No
+Rajasthan,Jaipur,Well,Nitrate,Medium,6.93,6.89,20.1,2018,Yes
+Uttar Pradesh,Noida,Canal,Industrial Waste,High,6.22,5.48,24.7,2017,No
+Rajasthan,Jodhpur,Reservoir,Lead,High,8.68,4.14,15.7,2019,Yes
+Gujarat,Rajkot,Well,Lead,High,8.57,6.8,20.2,2021,No
+Gujarat,Ahmedabad,Nan,Nitrate,Low,6.82,6.04,24.9,2024,No
+Uttar Pradesh,Kanpur,River,Plastic Waste,Low,7.26,5.79,31.3,2016,Yes
+Gujarat,Vadodara,Well,Pesticides,Low,6.38,7.59,29.3,2018,Yes
+Odisha,Bhubaneswar,Canal,Industrial Waste,High,6.86,3.22,26.4,2020,No
+Maharashtra,Pune,Well,Mercury,Low,6.44,4.98,31.1,2018,No
+Gujarat,Surat,Borewell,Nitrate,Low,6.46,4.32,20.5,2015,No
+Madhya Pradesh,Ujjain,Lake,Chromium,High,6.91,4.52,26.0,2020,No
+Rajasthan,Jodhpur,Borewell,Cadmium,Severe,7.87,5.48,21.0,2017,Yes
+Tamil Nadu,Trichy,Canal,Arsenic,Medium,6.22,5.63,27.7,2023,Yes
+Madhya Pradesh,Gwalior,Canal,Fluoride,High,8.0,5.86,25.3,2022,No
+Madhya Pradesh,Jabalpur,Reservoir,Sewage,Low,6.01,5.82,31.0,2016,Yes
+Assam,Nagaon,Reservoir,Chromium,Severe,8.05,4.78,27.5,2020,Yes
+Maharashtra,Aurangabad,Canal,Plastic Waste,Medium,7.78,5.81,29.8,2023,Yes
+Assam,Silchar,Reservoir,Chromium,Medium,6.33,1.96,23.9,2023,No
+Rajasthan,Bikaner,Canal,Industrial Waste,Severe,7.71,5.05,21.0,2016,No
+Rajasthan,Jodhpur,Nan,Cadmium,Severe,6.05,4.38,33.6,2023,Yes
+Punjab,Jalandhar,Borewell,Industrial Waste,Severe,7.06,6.43,16.2,2019,No
+Haryana,Ambala,Pond,Fluoride,High,7.66,3.73,22.6,2023,Yes
+Gujarat,Rajkot,Borewell,Industrial Waste,Low,7.98,5.62,18.6,2020,No
+Odisha,Cuttack,Well,Arsenic,High,7.18,6.45,23.4,2023,Yes
+Gujarat,Vadodara,Canal,Arsenic,Severe,8.04,4.02,28.8,2015,Yes
+West Bengal,Asansol,River,Cadmium,Medium,7.03,5.55,28.7,2022,Yes
+Bihar,Bhagalpur,Canal,Lead,Severe,7.22,7.76,27.9,2024,Yes
+Haryana,Gurugram,Lake,Plastic Waste,Low,7.58,4.81,14.1,2024,Yes
+Tamil Nadu,Coimbatore,Reservoir,Sewage,Medium,6.97,7.13,35.7,2017,Yes
+Assam,Guwahati,Lake,Chromium,Medium,5.56,3.48,24.5,2019,No
+Gujarat,Bhavnagar,Groundwater,Fluoride,Severe,8.3,4.93,22.8,2020,Yes
+Maharashtra,Pune,Groundwater,Mercury,High,7.57,4.05,28.5,2015,Yes
+Kerala,Thiruvananthapuram,Borewell,Mercury,High,6.01,2.91,32.0,2015,Yes
+Punjab,Amritsar,Pond,Industrial Waste,High,7.95,3.41,22.2,2023,No
+Nan,Bhavnagar,Well,Lead,High,6.59,6.11,26.3,2020,No
+Odisha,Sambalpur,Pond,Sewage,High,7.37,6.7,17.3,2024,Yes
+Uttar Pradesh,Agra,Canal,Nitrate,Medium,7.08,7.74,24.6,2023,No
+Rajasthan,Kota,Groundwater,Cadmium,High,6.34,5.16,24.9,2022,No
+Madhya Pradesh,Jabalpur,Borewell,Industrial Waste,Severe,6.93,4.08,29.1,2020,No
+Delhi,Dwarka,Groundwater,Mercury,Severe,6.26,10.81,30.2,2023,Yes
+Bihar,Patna,River,Sewage,High,7.44,5.4,29.4,2024,No
+Kerala,Thrissur,Borewell,Plastic Waste,Low,7.19,6.3,26.1,2022,Yes
+Bihar,Bhagalpur,Nan,Fluoride,High,6.32,6.33,20.6,2015,Yes
+Assam,Dibrugarh,Nan,Chromium,Low,6.94,9.28,22.8,2023,Yes
+Kerala,Kozhikode,Canal,Lead,Severe,6.47,2.18,21.9,2024,No
+Rajasthan,Udaipur,Lake,Plastic Waste,Low,8.05,6.28,24.8,2015,No
+Delhi,Rohini,Canal,Arsenic,High,6.76,8.51,30.7,2020,Yes
+Assam,Nagaon,Pond,Nitrate,High,8.31,8.34,21.4,2021,Yes
+Uttar Pradesh,Varanasi,Borewell,Sewage,High,7.38,2.3,29.3,2020,Yes
+Punjab,Chandigarh,Pond,Arsenic,High,5.24,4.94,28.4,2015,No
+Nan,Lucknow,Pond,Cadmium,Low,6.11,3.48,20.2,2022,No
+Assam,Nagaon,Reservoir,Cadmium,Severe,7.96,5.04,30.3,2024,Yes
+Maharashtra,Mumbai,Reservoir,Nitrate,Medium,6.8,7.24,20.8,2022,No
+Tamil Nadu,Coimbatore,Groundwater,Nitrate,Severe,7.18,3.66,25.0,2016,Yes
+Bihar,Gaya,Pond,Nitrate,High,7.13,4.28,27.1,2018,No
+Bihar,Bhagalpur,Reservoir,Sewage,Medium,6.95,7.53,24.6,2023,Yes
+Punjab,Jalandhar,Well,Plastic Waste,Medium,5.97,5.7,23.8,2022,Yes
+Haryana,Karnal,Groundwater,Pesticides,High,7.07,4.72,30.4,2018,Yes
+Maharashtra,Mumbai,Pond,Lead,Severe,7.29,2.97,21.8,2020,Yes
+Madhya Pradesh,Jabalpur,River,Pesticides,Severe,9.18,6.28,17.1,2021,Yes
+Tamil Nadu,Coimbatore,Pond,Pesticides,Low,4.5,8.51,19.5,2023,Yes
+Haryana,Ambala,River,Plastic Waste,Low,7.34,3.76,22.4,2016,No
+Gujarat,Vadodara,Borewell,Sewage,Severe,6.95,6.49,17.3,2024,Yes
+Haryana,Faridabad,Canal,Arsenic,Medium,5.69,4.94,20.2,2015,No
+West Bengal,Howrah,Groundwater,Arsenic,Severe,7.03,6.6,25.9,2021,No
+Uttar Pradesh,Varanasi,Reservoir,Nitrate,Medium,8.73,2.75,18.2,2022,Yes
+Madhya Pradesh,Ujjain,Lake,Nan,High,7.64,5.08,27.5,2022,Yes
+Assam,Silchar,Borewell,Nitrate,High,8.43,4.08,27.5,2019,No
+Madhya Pradesh,Gwalior,Lake,Pesticides,High,7.08,4.58,11.2,2015,Yes
+Assam,Guwahati,River,Sewage,Severe,8.57,7.18,22.8,2023,Yes
+Karnataka,Mysuru,Groundwater,Fluoride,Medium,6.44,5.58,24.3,2023,No
+Karnataka,Belgaum,Well,Mercury,Severe,5.58,6.97,17.1,2022,Yes
+Karnataka,Mangalore,Lake,Lead,Medium,7.75,4.36,25.5,2015,Yes
+Karnataka,Mangalore,Lake,Mercury,High,4.5,9.26,23.3,2017,Yes
+Maharashtra,Aurangabad,Pond,Chromium,Low,6.99,8.33,22.3,2023,Yes
+Bihar,Bhagalpur,Well,Lead,Medium,5.61,1.93,16.5,2017,Yes
+Delhi,Karol Bagh,Canal,Nitrate,Severe,6.56,4.44,28.2,2024,Yes
+Assam,Dibrugarh,River,Nitrate,Severe,6.96,2.97,23.3,2024,Yes
+Bihar,Gaya,Borewell,Mercury,Low,7.88,8.02,20.9,2023,No
+Gujarat,Rajkot,Pond,Cadmium,High,4.85,4.61,29.5,2017,No
+West Bengal,Siliguri,Groundwater,Mercury,Medium,7.11,5.19,24.1,2015,Yes
+Madhya Pradesh,Gwalior,Reservoir,Chromium,Medium,8.83,5.76,26.6,2019,No
+Odisha,Bhubaneswar,Pond,Chromium,Low,6.86,4.92,15.1,2020,Yes
+Punjab,Jalandhar,Canal,Nitrate,High,6.27,4.6,28.6,2024,No
+Gujarat,Rajkot,Lake,Chromium,Medium,7.0,6.29,30.0,2022,No
+Gujarat,Bhavnagar,Lake,Cadmium,Medium,8.26,8.27,31.9,2016,No
+Haryana,Faridabad,Lake,Plastic Waste,Severe,7.07,6.84,26.4,2020,No
+Tamil Nadu,Madurai,River,Pesticides,High,5.58,3.61,29.0,2016,No
+Gujarat,Vadodara,Reservoir,Chromium,Severe,7.86,7.63,18.2,2017,Yes
+Karnataka,Belgaum,Well,Arsenic,Medium,6.55,4.09,20.2,2018,No
+Uttar Pradesh,Lucknow,Borewell,Lead,Severe,6.18,2.3,21.3,2017,No
+Karnataka,Hubli,Canal,Pesticides,Severe,6.34,3.88,20.8,2022,Yes
+Maharashtra,Nagpur,River,Arsenic,Medium,8.03,8.34,18.9,2022,Yes
+Delhi,Rohini,Borewell,Nan,Low,7.17,6.41,31.2,2017,Yes
+Madhya Pradesh,Jabalpur,Pond,Plastic Waste,Medium,6.93,5.43,18.7,2019,Yes
+Gujarat,Rajkot,Reservoir,Mercury,Severe,6.88,7.53,19.6,2021,No
+Odisha,Rourkela,Groundwater,Cadmium,Medium,7.32,9.73,20.4,2020,Yes
+Rajasthan,Kota,Canal,Lead,Medium,6.01,6.98,28.4,2015,Yes
+Tamil Nadu,Coimbatore,Lake,Fluoride,Low,7.04,5.51,20.7,2015,No
+Punjab,Amritsar,Borewell,Arsenic,Severe,7.62,3.22,32.5,2016,Yes
+Haryana,Karnal,Well,Industrial Waste,Medium,7.22,2.06,15.4,2016,Yes
+Assam,Silchar,Borewell,Plastic Waste,Severe,7.91,2.67,29.4,2018,Yes
+Madhya Pradesh,Gwalior,Canal,Pesticides,Medium,7.38,2.72,21.3,2019,Yes
+Gujarat,Bhavnagar,Pond,Chromium,Medium,7.7,4.82,31.8,2018,Yes
+Delhi,Dwarka,Groundwater,Arsenic,Low,7.69,7.71,23.5,2015,No
+Uttar Pradesh,Kanpur,River,Lead,Low,7.12,4.51,26.5,2024,No
+Odisha,Bhubaneswar,Canal,Fluoride,Medium,6.79,5.86,21.5,2017,Yes
+Haryana,Ambala,River,Pesticides,Low,6.98,2.32,38.0,2018,No
+Gujarat,Bhavnagar,Well,Cadmium,Low,6.44,6.21,26.5,2021,No
+Kerala,Kozhikode,Pond,Sewage,Low,6.25,4.35,19.9,2018,No
+Maharashtra,Mumbai,River,Plastic Waste,Severe,7.85,4.51,14.6,2016,Yes
+Kerala,Thrissur,Groundwater,Pesticides,Medium,6.79,6.85,25.4,2023,No
+Punjab,Amritsar,Borewell,Nitrate,Medium,6.13,3.02,20.9,2022,No
+Gujarat,Bhavnagar,Reservoir,Sewage,Medium,7.07,0.5,30.2,2022,Yes
+West Bengal,Asansol,Canal,Arsenic,Medium,6.72,5.76,20.5,2018,No
+Delhi,Rohini,Groundwater,Industrial Waste,High,5.82,6.62,30.6,2024,No
+Odisha,Bhubaneswar,Groundwater,Industrial Waste,Low,6.58,1.44,25.7,2018,Yes
+Uttar Pradesh,Noida,Well,Industrial Waste,Nan,8.48,5.05,26.9,2015,No
+Rajasthan,Jodhpur,Canal,Industrial Waste,High,6.24,3.72,13.2,2016,No
+Gujarat,Surat,Groundwater,Mercury,Medium,6.74,5.29,24.4,2019,No
+Uttar Pradesh,Lucknow,Canal,Pesticides,Severe,8.85,8.66,22.8,2020,Yes
+Assam,Nagaon,Groundwater,Nitrate,Severe,7.17,3.08,19.1,2019,No
+Maharashtra,Nashik,Groundwater,Mercury,Low,7.44,3.97,25.5,2019,Yes
+Kerala,Thrissur,Pond,Mercury,Low,7.13,7.67,19.9,2019,No
+Maharashtra,Nagpur,Well,Arsenic,Low,5.8,4.42,25.6,2019,Yes
+West Bengal,Asansol,Groundwater,Plastic Waste,Severe,8.24,4.29,23.7,2020,No
+Gujarat,Rajkot,Reservoir,Nitrate,Medium,6.84,6.68,28.8,2024,No
+West Bengal,Asansol,Borewell,Arsenic,Severe,5.89,3.64,21.8,2017,No
+Karnataka,Hubli,Groundwater,Cadmium,Severe,7.52,4.23,28.3,2023,Yes
+Odisha,Rourkela,Lake,Chromium,Medium,5.98,7.35,15.0,2016,Yes
+Gujarat,Surat,River,Fluoride,Medium,6.77,7.35,28.0,2020,No
+Haryana,Ambala,Groundwater,Plastic Waste,High,7.39,6.35,20.5,2022,Yes
+Maharashtra,Nagpur,Well,Sewage,Medium,5.92,2.81,13.4,2022,No
+Punjab,Patiala,Lake,Industrial Waste,Medium,5.88,5.6,20.5,2022,No
+Madhya Pradesh,Jabalpur,Groundwater,Cadmium,Severe,6.99,3.79,37.2,2024,Yes
+Assam,Silchar,Groundwater,Lead,Medium,7.69,2.59,25.5,2022,No
+Delhi,Karol Bagh,Groundwater,Sewage,High,5.83,3.89,15.8,2020,No
+Kerala,Kollam,Groundwater,Nitrate,Low,7.35,3.11,29.2,2016,No
+Tamil Nadu,Coimbatore,Pond,Pesticides,Low,8.68,1.65,20.5,2016,No
+Karnataka,Bengaluru,Reservoir,Pesticides,Medium,8.34,2.62,19.9,2024,Yes
+Haryana,Ambala,Pond,Industrial Waste,Low,6.34,4.0,12.7,2018,No
+Rajasthan,Jaipur,Canal,Sewage,Severe,8.88,3.67,22.2,2015,Yes
+Assam,Guwahati,Well,Chromium,Low,6.45,4.55,18.7,2024,Yes
+Gujarat,Bhavnagar,Canal,Plastic Waste,High,7.41,4.61,23.1,2024,Yes
+Punjab,Nan,Lake,Plastic Waste,High,7.22,4.67,19.8,2019,Yes
+Tamil Nadu,Salem,Canal,Pesticides,High,7.54,3.97,36.4,2017,No
+Nan,Muzaffarpur,Reservoir,Industrial Waste,High,5.44,8.19,24.2,2018,No
+Kerala,Thiruvananthapuram,Borewell,Arsenic,Low,6.1,7.27,22.9,2023,No
+Rajasthan,Kota,Canal,Industrial Waste,Severe,7.25,4.38,23.0,2023,Yes
+Punjab,Chandigarh,Groundwater,Plastic Waste,High,7.44,5.62,14.1,2024,Yes
+Haryana,Panipat,Borewell,Mercury,Severe,8.12,4.79,29.3,2015,No
+Odisha,Bhubaneswar,Borewell,Fluoride,Medium,5.28,7.87,24.4,2022,No
+West Bengal,Durgapur,Lake,Fluoride,Medium,4.94,4.09,27.8,2017,No
+Rajasthan,Kota,River,Sewage,Severe,6.23,4.34,27.5,2016,No
+Tamil Nadu,Trichy,Reservoir,Pesticides,Low,7.19,1.82,22.8,2023,Yes
+Rajasthan,Bikaner,Canal,Fluoride,Low,6.9,5.43,20.2,2018,Yes
+Punjab,Ludhiana,River,Industrial Waste,Low,8.1,7.47,20.9,2015,Yes
+Haryana,Gurugram,Borewell,Arsenic,Severe,7.66,5.53,19.2,2019,No
+Delhi,Dwarka,Pond,Arsenic,Low,6.55,5.19,27.6,2018,Yes
+Assam,Nagaon,Borewell,Lead,Medium,6.62,5.03,23.1,2017,Yes
+Uttar Pradesh,Agra,Canal,Cadmium,Severe,6.63,5.39,26.0,2016,Yes
+Tamil Nadu,Trichy,Reservoir,Cadmium,Medium,6.0,3.4,30.4,2022,No
+Punjab,Chandigarh,Groundwater,Chromium,Medium,6.71,5.76,14.8,2020,No
+Uttar Pradesh,Noida,Reservoir,Fluoride,Low,8.18,5.88,23.2,2023,No
+Delhi,Karol Bagh,Borewell,Chromium,Severe,7.79,5.5,26.0,2016,Yes
+Karnataka,Mysuru,River,Arsenic,Low,5.65,6.87,24.4,2018,No
+Assam,Guwahati,Reservoir,Mercury,Low,7.86,5.87,25.5,2017,No
+Bihar,Patna,Borewell,Mercury,Severe,6.04,8.59,19.5,2024,No
+Madhya Pradesh,Gwalior,Groundwater,Plastic Waste,Low,7.91,5.22,38.0,2018,No
+Uttar Pradesh,Kanpur,Well,Arsenic,Medium,7.89,7.64,36.9,2023,No
+Tamil Nadu,Chennai,Well,Lead,Severe,7.76,6.48,22.8,2018,Yes
+Assam,Dibrugarh,Lake,Cadmium,Severe,7.6,5.45,30.8,2024,Yes
+Haryana,Ambala,Canal,Fluoride,Low,6.4,8.87,29.4,2017,Yes
+Bihar,Patna,Lake,Nitrate,Low,5.98,6.06,17.6,2015,Yes
+Bihar,Muzaffarpur,Groundwater,Nitrate,Low,7.24,3.2,18.6,2022,No
+Assam,Guwahati,Well,Chromium,Medium,7.53,5.32,23.7,2024,No
+Gujarat,Vadodara,Reservoir,Chromium,High,8.08,2.77,26.5,2020,No
+Uttar Pradesh,Agra,Pond,Arsenic,Low,6.34,8.48,22.8,2017,Yes
+Haryana,Gurugram,Canal,Fluoride,Medium,9.05,4.39,16.3,2016,No
+Madhya Pradesh,Ujjain,Groundwater,Cadmium,Medium,7.33,4.79,24.1,2018,No
+West Bengal,Siliguri,River,Industrial Waste,Low,7.24,6.79,23.7,2023,No
+Gujarat,Bhavnagar,Reservoir,Arsenic,Low,8.03,7.87,23.4,2020,No
+Punjab,Jalandhar,Borewell,Mercury,Low,7.48,7.63,27.6,2016,No
+Karnataka,Mangalore,Lake,Cadmium,Low,7.36,6.66,21.6,2022,Nan
+Delhi,Dwarka,Lake,Chromium,High,6.71,2.65,29.7,2021,No
+Gujarat,Vadodara,Pond,Industrial Waste,High,6.99,6.16,24.0,2020,No
+Assam,Guwahati,Pond,Pesticides,Severe,5.72,7.02,27.8,2020,Yes
+Delhi,Saket,Reservoir,Pesticides,Severe,6.58,4.37,10.9,2019,Yes
+Assam,Nagaon,Reservoir,Cadmium,Low,6.16,3.56,18.4,2019,Nan
+Haryana,Panipat,Groundwater,Plastic Waste,Severe,8.45,3.76,25.1,2020,Yes
+Karnataka,Hubli,Well,Fluoride,High,5.02,5.1,25.2,2023,No
+West Bengal,Siliguri,Reservoir,Cadmium,Medium,6.76,4.89,28.8,2018,Yes
+West Bengal,Siliguri,River,Sewage,Severe,7.3,3.1,22.8,2017,Yes
+Odisha,Berhampur,Reservoir,Mercury,Low,6.73,4.4,23.1,2015,No
+Punjab,Patiala,Pond,Mercury,Severe,5.92,6.96,30.8,2023,No
+Kerala,Kozhikode,Borewell,Pesticides,Low,6.3,6.18,30.2,2017,No
+Kerala,Thrissur,Lake,Plastic Waste,Severe,6.11,3.84,21.2,2020,Yes
+Uttar Pradesh,Noida,River,Cadmium,High,7.09,3.22,15.0,2021,No
+Maharashtra,Pune,Lake,Industrial Waste,Medium,7.08,4.16,29.0,2023,Yes
+West Bengal,Kolkata,Borewell,Nan,Low,6.01,9.63,33.3,2016,Yes
+Bihar,Patna,Groundwater,Nitrate,Severe,6.1,3.84,19.2,2021,Yes
+Tamil Nadu,Salem,Lake,Mercury,Medium,7.9,4.98,27.8,2020,Yes
+Rajasthan,Jaipur,Pond,Fluoride,Low,5.9,5.12,19.7,2020,Yes
+Assam,Nagaon,Reservoir,Chromium,Medium,6.66,6.78,26.2,2015,No
+West Bengal,Kolkata,Canal,Chromium,Low,7.02,7.93,16.4,2016,Yes
+Uttar Pradesh,Noida,Borewell,Arsenic,Low,7.82,6.47,26.1,2023,Yes
+Assam,Silchar,Lake,Arsenic,High,6.5,6.64,25.0,2019,No
+Delhi,Karol Bagh,Groundwater,Sewage,Low,8.44,6.82,24.0,2024,Yes
+Bihar,Gaya,Groundwater,Fluoride,Severe,5.84,4.59,25.0,2019,No
+Punjab,Ludhiana,Nan,Industrial Waste,High,7.51,3.66,23.9,2020,No
+Madhya Pradesh,Indore,River,Nitrate,Low,6.99,6.96,25.7,2018,No
+Karnataka,Hubli,Groundwater,Arsenic,High,7.75,5.65,23.5,2016,No
+Kerala,Kollam,Lake,Lead,Severe,7.19,3.85,32.7,2024,No
+Delhi,Karol Bagh,Lake,Mercury,Medium,6.18,5.06,25.5,2017,No
+Haryana,Ambala,Pond,Lead,Severe,7.11,4.6,27.3,2023,Yes
+Madhya Pradesh,Ujjain,River,Nitrate,Low,6.88,6.96,28.0,2018,Yes
+Tamil Nadu,Trichy,Groundwater,Industrial Waste,Severe,6.77,4.68,26.4,2017,Yes
+Tamil Nadu,Salem,Groundwater,Arsenic,Severe,7.82,4.51,23.4,2024,No
+Bihar,Gaya,Canal,Arsenic,High,7.56,8.01,24.6,2018,No
+Tamil Nadu,Chennai,Reservoir,Mercury,Nan,7.3,8.11,28.4,2015,Yes
+Haryana,Karnal,Lake,Chromium,Low,9.09,5.47,26.5,2017,Yes
+Maharashtra,Nashik,Reservoir,Fluoride,Severe,6.19,6.39,17.4,2018,No
+Delhi,Karol Bagh,Groundwater,Fluoride,Medium,7.69,3.63,33.7,2023,No
+Bihar,Darbhanga,Borewell,Pesticides,Medium,6.72,3.99,19.6,2016,Yes
+Delhi,New Delhi,River,Pesticides,Medium,7.77,6.25,26.3,2019,Yes
+Madhya Pradesh,Jabalpur,River,Cadmium,Medium,7.9,6.01,32.8,2019,Yes
+Haryana,Gurugram,Reservoir,Fluoride,Low,6.03,4.13,29.2,2021,No
+Karnataka,Belgaum,Pond,Nitrate,High,5.34,3.9,23.7,2021,No
+Kerala,Kollam,River,Cadmium,Low,6.46,1.68,21.4,2017,Yes
+Karnataka,Mysuru,River,Arsenic,Severe,6.43,7.64,31.1,2019,No
+Rajasthan,Kota,Borewell,Arsenic,Medium,7.99,6.14,24.3,2019,Yes
+Kerala,Kochi,Reservoir,Mercury,High,7.79,8.15,21.0,2023,Yes
+Odisha,Rourkela,Canal,Cadmium,High,6.63,3.51,22.9,2015,Yes
+Madhya Pradesh,Ujjain,Groundwater,Plastic Waste,Low,7.24,4.45,11.8,2023,No
+Madhya Pradesh,Jabalpur,Reservoir,Plastic Waste,Medium,7.23,5.27,21.5,2018,Yes
+Bihar,Bhagalpur,Lake,Sewage,Medium,5.06,6.3,20.8,2020,Yes
+Haryana,Panipat,Groundwater,Cadmium,Medium,6.14,5.28,24.5,2015,Yes
+Nan,Ambala,Canal,Arsenic,High,7.01,6.93,28.9,2022,Yes
+Delhi,Saket,Lake,Sewage,High,7.45,4.93,18.9,2021,Yes
+Kerala,Kozhikode,Lake,Pesticides,Severe,7.64,5.92,28.8,2019,No
+Uttar Pradesh,Kanpur,Canal,Chromium,Low,8.32,5.12,20.7,2023,No
+Bihar,Muzaffarpur,Lake,Mercury,High,8.32,4.98,29.4,2021,Yes
+Madhya Pradesh,Gwalior,Canal,Industrial Waste,High,8.17,5.43,24.2,2015,No
+West Bengal,Asansol,Pond,Arsenic,Medium,6.68,3.11,21.9,2016,Yes
+Maharashtra,Nashik,Well,Fluoride,Low,6.35,2.14,23.6,2021,Yes
+Rajasthan,Kota,Borewell,Arsenic,High,8.08,2.76,21.2,2018,No
+Assam,Dibrugarh,Borewell,Fluoride,Severe,6.68,5.09,25.5,2024,Yes
+Tamil Nadu,Chennai,Well,Mercury,Severe,6.82,5.37,23.8,2019,Yes
+Uttar Pradesh,Noida,Well,Industrial Waste,High,6.04,7.21,32.6,2019,No
+Bihar,Muzaffarpur,Well,Chromium,Low,6.99,6.73,22.4,2019,Yes
+Rajasthan,Jaipur,Borewell,Chromium,Severe,6.99,3.26,26.2,2018,Yes
+Punjab,Ludhiana,Pond,Fluoride,Medium,7.46,8.18,35.4,2015,Yes
+Odisha,Cuttack,River,Chromium,Low,7.52,5.09,19.2,2018,No
+Tamil Nadu,Coimbatore,Pond,Nitrate,Severe,6.12,5.61,26.2,2015,Yes
+Delhi,Rohini,Pond,Mercury,Medium,6.73,4.86,21.2,2020,No
+Uttar Pradesh,Agra,Lake,Lead,High,9.0,5.21,25.5,2023,Yes
+Kerala,Thiruvananthapuram,Groundwater,Cadmium,High,8.71,3.79,19.8,2017,No
+Maharashtra,Nashik,Groundwater,Pesticides,Medium,6.49,6.1,28.7,2024,No
+Maharashtra,Aurangabad,Borewell,Nitrate,High,6.35,4.44,25.2,2017,Yes
+Odisha,Rourkela,River,Cadmium,Severe,6.69,6.74,20.9,2022,Yes
+Madhya Pradesh,Gwalior,Reservoir,Chromium,High,6.97,6.97,29.5,2017,Yes
+Kerala,Kozhikode,Borewell,Chromium,Low,5.61,5.21,21.6,2024,No
+Rajasthan,Jodhpur,Lake,Pesticides,High,7.4,5.43,21.6,2016,Yes
+Kerala,Thiruvananthapuram,River,Arsenic,Severe,8.08,4.77,13.8,2024,No
+Delhi,New Delhi,Borewell,Arsenic,Low,8.3,5.89,19.8,2017,Yes
+Maharashtra,Mumbai,Reservoir,Lead,High,7.11,3.19,28.4,2017,Yes
+Tamil Nadu,Madurai,Canal,Sewage,Low,6.5,4.44,20.9,2024,No
+Madhya Pradesh,Indore,Canal,Lead,High,5.48,7.0,28.4,2023,Yes
+Madhya Pradesh,Bhopal,River,Pesticides,Low,6.05,6.62,23.4,2015,No
+Karnataka,Mysuru,Lake,Industrial Waste,Low,8.12,3.1,22.3,2018,No
+Tamil Nadu,Coimbatore,Groundwater,Plastic Waste,Severe,6.62,6.31,22.7,2016,No
+Maharashtra,Nashik,Borewell,Nitrate,High,6.65,7.3,31.0,2019,Yes
+Assam,Nagaon,Lake,Mercury,High,5.67,4.15,31.6,2017,Yes
+Karnataka,Belgaum,Canal,Mercury,Low,7.23,4.51,20.6,2018,Yes
+Karnataka,Mysuru,Canal,Chromium,Medium,6.27,8.2,30.8,2024,Yes
+Assam,Jorhat,Canal,Pesticides,Low,5.81,5.13,20.0,2020,Yes
+Delhi,Rohini,Borewell,Arsenic,Low,5.0,6.4,11.5,2017,No
+Maharashtra,Pune,Lake,Fluoride,Severe,6.03,6.1,26.6,2019,No
+Punjab,Amritsar,Borewell,Fluoride,Medium,7.31,7.74,20.1,2017,No
+Haryana,Faridabad,Well,Pesticides,High,8.47,4.99,32.0,2019,Yes
+West Bengal,Kolkata,Canal,Sewage,Severe,6.67,5.43,9.8,2020,No
+Gujarat,Ahmedabad,Well,Industrial Waste,Medium,8.48,7.43,20.4,2019,No
+Maharashtra,Nashik,Groundwater,Sewage,Severe,8.14,3.75,23.4,2016,No
+Bihar,Darbhanga,Borewell,Lead,Severe,5.77,5.84,20.7,2017,No
+West Bengal,Siliguri,Pond,Mercury,Medium,6.19,6.65,22.4,2016,No
+Kerala,Kochi,Lake,Cadmium,Severe,7.48,4.19,29.2,2022,Yes
+Maharashtra,Aurangabad,Groundwater,Sewage,High,7.79,5.64,24.9,2022,No
+West Bengal,Asansol,Groundwater,Fluoride,Medium,7.43,7.45,22.3,2021,Yes
+Uttar Pradesh,Kanpur,River,Arsenic,Low,6.88,3.78,16.0,2019,Yes
+Madhya Pradesh,Gwalior,Lake,Sewage,Low,7.79,6.15,15.4,2017,Yes
+Karnataka,Mangalore,Borewell,Lead,Severe,6.86,3.67,25.7,2023,No
+West Bengal,Kolkata,Well,Arsenic,Severe,5.8,1.58,20.5,2018,No
+Bihar,Patna,Well,Sewage,Severe,7.46,4.73,16.6,2023,No
+Odisha,Berhampur,Well,Plastic Waste,High,6.64,9.08,19.8,2023,Yes
+Uttar Pradesh,Lucknow,Reservoir,Mercury,Low,8.13,7.56,19.1,2021,No
+Tamil Nadu,Coimbatore,Canal,Chromium,Low,6.94,4.86,30.1,2020,No
+Uttar Pradesh,Lucknow,Borewell,Sewage,Low,6.42,3.55,32.4,2016,No
+Assam,Silchar,Canal,Plastic Waste,Low,5.98,6.13,19.8,2017,No
+Maharashtra,Aurangabad,Groundwater,Pesticides,Medium,8.17,6.56,21.9,2024,Yes
+Uttar Pradesh,Kanpur,Groundwater,Sewage,Low,6.63,4.62,21.8,2022,No
+Punjab,Ludhiana,Reservoir,Arsenic,Low,7.94,4.41,33.1,2022,No
+Madhya Pradesh,Bhopal,Groundwater,Arsenic,High,8.15,7.45,18.6,2019,Yes
+Karnataka,Belgaum,Lake,Sewage,Low,8.47,5.17,23.9,2022,Yes
+Tamil Nadu,Madurai,Lake,Chromium,Severe,6.58,4.76,29.8,2023,No
+Gujarat,Surat,River,Plastic Waste,Severe,6.83,4.47,22.6,2018,No
+Odisha,Bhubaneswar,Pond,Mercury,Nan,9.37,6.04,22.1,2017,Yes
+Haryana,Ambala,Groundwater,Arsenic,High,6.88,4.74,22.5,2021,No
+Kerala,Kochi,Borewell,Nitrate,Low,5.62,3.47,28.9,2024,Yes
+Rajasthan,Kota,Borewell,Mercury,Medium,8.0,3.63,27.1,2022,No
+Kerala,Kollam,Borewell,Lead,Medium,6.55,3.03,25.6,2016,No
+West Bengal,Asansol,River,Plastic Waste,Low,8.06,6.37,23.0,2020,No
+Odisha,Rourkela,Lake,Lead,High,6.61,6.8,22.1,2021,No
+Bihar,Darbhanga,River,Sewage,Low,7.55,6.57,22.5,2018,No
+Haryana,Faridabad,Lake,Arsenic,High,6.56,2.96,21.4,2022,Yes
+Assam,Nagaon,Groundwater,Plastic Waste,Low,7.52,8.02,28.6,2024,No
+Haryana,Gurugram,Borewell,Mercury,Severe,8.17,7.23,15.0,2017,No
+Gujarat,Vadodara,Pond,Chromium,Medium,6.43,8.26,21.3,2023,Yes
+Uttar Pradesh,Kanpur,Pond,Cadmium,Severe,8.0,7.05,25.3,2022,No
+Assam,Jorhat,River,Sewage,Severe,6.45,2.32,32.7,2015,No
+Punjab,Patiala,Pond,Chromium,Severe,5.95,4.86,19.7,2023,No
+Delhi,Nan,Lake,Pesticides,High,6.73,7.98,23.2,2021,Yes
+Karnataka,Mysuru,Well,Nitrate,Medium,7.12,4.81,17.4,2024,No
+Odisha,Sambalpur,River,Cadmium,High,8.39,4.5,22.7,2017,Yes
+Punjab,Nan,Reservoir,Plastic Waste,Medium,6.99,5.39,26.5,2017,No
+Madhya Pradesh,Bhopal,Well,Industrial Waste,Severe,6.86,3.85,24.5,2017,Yes
+Tamil Nadu,Chennai,River,Nitrate,High,7.42,5.43,22.6,2024,Yes
+Assam,Dibrugarh,Pond,Plastic Waste,Low,7.21,7.6,27.1,2022,No
+Bihar,Patna,Groundwater,Mercury,Severe,6.63,7.34,22.1,2020,Yes
+Tamil Nadu,Trichy,Borewell,Cadmium,Medium,7.26,5.95,22.4,2018,Yes
+Delhi,Saket,Pond,Industrial Waste,Severe,7.52,5.3,23.1,2022,No
+Delhi,New Delhi,Borewell,Mercury,Severe,7.24,7.81,11.9,2019,No
+Uttar Pradesh,Agra,Borewell,Lead,Medium,5.77,8.4,28.1,2017,Yes
+Haryana,Gurugram,Well,Industrial Waste,Low,7.93,4.89,19.8,2021,No
+Assam,Jorhat,Reservoir,Industrial Waste,Medium,7.42,8.89,30.7,2023,No
+Maharashtra,Pune,Lake,Plastic Waste,Severe,8.22,6.87,24.2,2021,No
+Kerala,Kochi,Reservoir,Nitrate,Low,7.91,5.84,24.3,2015,Yes
+Maharashtra,Aurangabad,River,Lead,Low,4.5,4.24,19.6,2020,No
+Assam,Guwahati,Groundwater,Sewage,Low,6.41,3.54,20.1,2023,No
+Madhya Pradesh,Indore,Groundwater,Lead,High,5.42,3.37,13.8,2016,Yes
+Rajasthan,Udaipur,Reservoir,Industrial Waste,Nan,6.32,4.4,17.0,2024,No
+Gujarat,Rajkot,Well,Cadmium,Medium,6.88,4.33,13.0,2019,Yes
+Kerala,Kozhikode,Groundwater,Pesticides,Medium,7.14,6.98,23.0,2022,Yes
+Tamil Nadu,Salem,Canal,Nitrate,Severe,5.9,4.44,25.8,2019,No
+Haryana,Karnal,Groundwater,Fluoride,Low,7.43,7.99,30.3,2021,Yes
+Madhya Pradesh,Bhopal,Reservoir,Pesticides,Medium,8.33,6.38,22.9,2015,Yes
+Assam,Silchar,River,Plastic Waste,Severe,7.58,4.32,21.4,2020,Yes
+Kerala,Thrissur,Groundwater,Sewage,Severe,5.17,5.59,22.8,2020,No
+Madhya Pradesh,Jabalpur,Borewell,Nitrate,Low,7.81,2.56,19.5,2021,Yes
+Karnataka,Mangalore,Groundwater,Cadmium,Medium,7.53,0.73,30.8,2020,No
+Karnataka,Bengaluru,Borewell,Mercury,Severe,7.47,5.88,27.1,2015,No
+Haryana,Panipat,River,Pesticides,Nan,6.99,5.26,21.4,2024,No
+Delhi,Dwarka,Pond,Plastic Waste,Medium,8.0,4.48,19.9,2016,Yes
+Tamil Nadu,Coimbatore,Lake,Fluoride,Medium,6.46,7.6,15.7,2015,No
+Delhi,Rohini,Pond,Pesticides,Low,6.48,4.4,23.5,2024,Yes
+Haryana,Karnal,Pond,Arsenic,Severe,6.68,5.09,27.6,2021,Yes
+Bihar,Bhagalpur,River,Cadmium,Severe,6.05,5.73,19.1,2016,No
+West Bengal,Howrah,Reservoir,Arsenic,Low,6.63,5.5,31.7,2023,Yes
+Kerala,Thrissur,Well,Plastic Waste,Medium,7.47,6.25,31.0,2018,No
+Tamil Nadu,Chennai,Nan,Sewage,Medium,8.15,4.44,26.7,2016,Yes
+Odisha,Rourkela,River,Cadmium,High,5.47,5.4,25.9,2021,Yes
+Uttar Pradesh,Agra,Lake,Chromium,Severe,6.64,6.38,26.8,2019,Yes
+Odisha,Cuttack,Well,Cadmium,Medium,5.78,5.77,23.1,2016,No
+Kerala,Thiruvananthapuram,Pond,Pesticides,Low,5.97,7.46,21.1,2017,No
+Rajasthan,Jodhpur,Well,Pesticides,Low,7.47,6.39,24.0,2015,No
+Haryana,Gurugram,Canal,Arsenic,Severe,6.72,7.39,19.8,2024,Yes
+Rajasthan,Udaipur,Reservoir,Lead,Medium,7.28,7.65,17.7,2015,No
+Assam,Dibrugarh,Well,Sewage,Low,7.31,5.66,25.8,2023,Yes
+Tamil Nadu,Madurai,Well,Lead,Low,8.01,4.55,21.4,2020,Yes
+Punjab,Ludhiana,Borewell,Industrial Waste,Severe,7.64,5.34,31.2,2024,No
+Madhya Pradesh,Jabalpur,Canal,Industrial Waste,Low,6.39,7.26,23.3,2023,Yes
+Rajasthan,Bikaner,Borewell,Fluoride,High,6.78,3.98,34.9,2015,Yes
+Gujarat,Bhavnagar,Lake,Sewage,Medium,8.89,4.55,24.2,2017,No
+Haryana,Karnal,River,Lead,Severe,7.81,7.52,21.4,2016,No
+Tamil Nadu,Trichy,Groundwater,Arsenic,Severe,7.11,6.43,27.6,2015,Yes
+Delhi,New Delhi,Groundwater,Lead,Medium,6.78,6.63,24.2,2024,Yes
+Odisha,Cuttack,Reservoir,Lead,Low,7.2,5.4,25.4,2017,Yes
+West Bengal,Howrah,River,Lead,High,7.66,7.76,24.2,2020,No
+Delhi,New Delhi,Pond,Plastic Waste,Medium,7.3,7.84,27.3,2020,Yes
+Assam,Jorhat,Well,Pesticides,Low,5.09,5.32,21.0,2023,Yes
+Gujarat,Ahmedabad,River,Sewage,High,6.61,5.83,26.2,2019,No
+Maharashtra,Pune,Lake,Plastic Waste,High,7.54,4.5,21.9,2016,Yes
+Delhi,New Delhi,Reservoir,Chromium,Low,6.99,4.52,23.8,2020,No
+Maharashtra,Aurangabad,Lake,Cadmium,High,6.42,3.33,18.8,2020,No
+Bihar,Darbhanga,Lake,Plastic Waste,Medium,9.43,5.43,29.5,2018,No
+Karnataka,Bengaluru,River,Cadmium,Medium,5.43,6.1,18.8,2024,Yes
+Delhi,New Delhi,Pond,Cadmium,Low,8.22,5.24,20.7,2023,No
+Kerala,Kollam,Canal,Mercury,Severe,7.62,1.85,19.6,2021,No
+Bihar,Patna,Canal,Pesticides,Medium,6.34,5.17,30.9,2022,Yes
+Rajasthan,Jodhpur,Reservoir,Fluoride,High,6.62,2.07,31.2,2022,No
+Rajasthan,Bikaner,Lake,Arsenic,Low,6.81,3.72,23.3,2017,Yes
+Madhya Pradesh,Gwalior,Lake,Fluoride,Medium,7.62,2.6,21.6,2017,Yes
+Maharashtra,Pune,Reservoir,Chromium,Severe,8.48,7.13,20.5,2024,No
+Delhi,New Delhi,Canal,Fluoride,High,7.62,8.02,22.5,2017,No
+Odisha,Cuttack,Canal,Mercury,High,7.28,2.1,34.1,2020,No
+West Bengal,Howrah,Reservoir,Cadmium,High,6.88,3.01,28.5,2019,Yes
+Uttar Pradesh,Nan,Well,Nitrate,Medium,6.49,4.02,25.2,2021,Yes
+Punjab,Amritsar,Canal,Cadmium,Medium,8.02,3.51,19.9,2016,Yes
+Kerala,Kozhikode,Pond,Pesticides,Low,5.74,5.69,22.4,2017,No
+Delhi,Rohini,Well,Fluoride,Severe,6.51,3.53,24.7,2021,No
+Uttar Pradesh,Kanpur,Borewell,Sewage,Medium,6.77,8.21,10.7,2023,Yes
+Kerala,Kochi,Borewell,Mercury,Low,6.8,6.16,28.6,2024,Yes
+Gujarat,Vadodara,Groundwater,Industrial Waste,High,7.84,4.75,27.5,2017,Yes
+Tamil Nadu,Trichy,Well,Chromium,Severe,5.08,6.32,19.1,2024,Yes
+Karnataka,Hubli,Groundwater,Industrial Waste,Severe,7.36,8.9,24.9,2022,No
+Rajasthan,Jodhpur,Groundwater,Fluoride,Medium,6.99,4.26,21.5,2015,Yes
+Tamil Nadu,Coimbatore,Well,Lead,Severe,8.01,5.52,23.1,2020,No
+Haryana,Karnal,River,Plastic Waste,High,6.88,3.44,24.3,2024,No
+Bihar,Muzaffarpur,River,Cadmium,Low,6.59,7.44,23.8,2020,Nan
+Tamil Nadu,Trichy,Pond,Sewage,Severe,8.72,2.98,26.8,2022,Yes
+Tamil Nadu,Chennai,Canal,Chromium,Low,6.25,4.28,20.0,2024,Yes
+Bihar,Muzaffarpur,Well,Industrial Waste,Severe,6.35,5.12,25.6,2016,Yes
+Tamil Nadu,Madurai,Canal,Chromium,Severe,6.04,0.5,26.2,2020,Yes
+Madhya Pradesh,Indore,Lake,Pesticides,High,4.86,6.71,28.9,2017,Yes
+Punjab,Chandigarh,Well,Fluoride,Severe,7.58,7.89,25.0,2022,No
+Tamil Nadu,Trichy,Reservoir,Lead,Severe,6.83,6.06,23.7,2023,Yes
+Delhi,Dwarka,Well,Industrial Waste,Low,7.46,6.47,29.4,2016,Yes
+Kerala,Kochi,Canal,Nitrate,Severe,7.83,5.56,22.2,2020,No
+Odisha,Bhubaneswar,Lake,Nitrate,High,7.18,6.73,28.8,2017,Yes
+Assam,Jorhat,Reservoir,Chromium,Medium,7.7,5.22,25.5,2024,No
+Bihar,Bhagalpur,Canal,Chromium,High,6.97,8.94,17.4,2019,No
+Bihar,Bhagalpur,Canal,Arsenic,High,6.67,4.74,27.1,2015,Yes
+Odisha,Cuttack,River,Fluoride,High,6.99,7.22,20.0,2020,No
+Tamil Nadu,Salem,Pond,Chromium,High,5.98,4.56,26.4,2020,Yes
+Kerala,Kochi,Groundwater,Plastic Waste,High,6.59,5.26,25.5,2015,No
+West Bengal,Asansol,Groundwater,Plastic Waste,Medium,8.64,6.9,26.8,2018,Yes
+West Bengal,Howrah,River,Fluoride,High,8.16,4.93,27.0,2018,No
+Haryana,Karnal,Groundwater,Fluoride,Severe,7.58,3.07,22.5,2019,No
+Rajasthan,Udaipur,Canal,Nitrate,Severe,7.78,3.34,22.3,2015,No
+Rajasthan,Jaipur,Lake,Plastic Waste,Low,7.29,7.81,30.5,2021,Yes
+Uttar Pradesh,Kanpur,Pond,Plastic Waste,Severe,8.07,4.88,28.5,2018,No
+Haryana,Faridabad,Borewell,Pesticides,Medium,5.3,5.88,24.0,2015,No
+Madhya Pradesh,Jabalpur,Groundwater,Mercury,Severe,7.43,5.37,19.8,2020,Yes
+Madhya Pradesh,Ujjain,Canal,Mercury,Medium,6.49,7.34,34.4,2023,Yes
+Karnataka,Belgaum,Groundwater,Chromium,Medium,6.76,5.89,19.9,2017,No
+Rajasthan,Kota,Reservoir,Cadmium,High,6.87,7.24,25.2,2020,No
+Karnataka,Mangalore,Canal,Pesticides,Nan,8.4,1.99,17.4,2018,No
+Gujarat,Ahmedabad,Reservoir,Industrial Waste,High,7.42,3.7,25.5,2015,Yes
+Karnataka,Hubli,Well,Arsenic,Severe,6.14,6.07,19.0,2022,No
+Rajasthan,Jaipur,Pond,Plastic Waste,Low,7.71,6.62,27.1,2022,Yes
+Maharashtra,Nagpur,Pond,Cadmium,Medium,8.01,1.99,28.9,2024,No
+West Bengal,Durgapur,Reservoir,Fluoride,High,7.28,5.43,22.7,2020,Yes
+West Bengal,Siliguri,Pond,Sewage,Low,5.7,4.66,29.4,2020,No
+Assam,Guwahati,Well,Nitrate,High,7.31,5.01,17.9,2016,Nan
+Odisha,Bhubaneswar,Lake,Arsenic,Low,7.64,6.65,32.5,2017,No
+Karnataka,Bengaluru,Well,Chromium,Severe,6.08,5.0,19.2,2022,Yes
+Rajasthan,Kota,Canal,Industrial Waste,Severe,7.6,8.99,19.6,2015,No
+Haryana,Ambala,Pond,Industrial Waste,High,5.02,6.29,24.2,2023,No
+Gujarat,Surat,River,Plastic Waste,Medium,7.12,3.54,19.7,2015,Yes
+Tamil Nadu,Salem,River,Nitrate,High,6.72,6.1,28.9,2022,No
+Gujarat,Surat,Borewell,Mercury,Low,7.43,5.64,17.6,2021,No
+West Bengal,Durgapur,Reservoir,Cadmium,Medium,6.69,4.87,22.4,2017,No
+Gujarat,Vadodara,River,Pesticides,Severe,8.72,4.35,22.7,2018,Yes
+Assam,Jorhat,Borewell,Fluoride,High,8.08,5.52,24.3,2020,Yes
+Tamil Nadu,Madurai,Pond,Pesticides,High,7.31,4.87,23.6,2018,No
+Karnataka,Mysuru,River,Plastic Waste,Severe,5.48,5.32,19.1,2021,Yes
+Haryana,Karnal,Pond,Nitrate,High,6.75,3.63,23.0,2022,Yes
+Haryana,Panipat,Reservoir,Industrial Waste,Low,6.15,6.36,32.6,2023,Yes
+Odisha,Bhubaneswar,Nan,Lead,Medium,7.48,1.58,21.4,2023,Yes
+Delhi,Karol Bagh,Lake,Pesticides,Severe,4.5,6.68,25.0,2022,No
+West Bengal,Durgapur,Borewell,Sewage,Severe,6.67,5.43,20.4,2018,No
+Odisha,Bhubaneswar,Well,Fluoride,Low,7.75,6.94,16.9,2016,No
+Karnataka,Mysuru,Groundwater,Industrial Waste,Medium,7.07,6.08,19.1,2021,No
+Assam,Nagaon,Well,Industrial Waste,Severe,6.27,6.16,20.3,2022,No
+Kerala,Thrissur,Reservoir,Chromium,Medium,7.65,8.25,33.5,2024,No
+Karnataka,Bengaluru,Canal,Nitrate,Medium,7.88,6.04,20.1,2022,Yes
+Gujarat,Vadodara,Borewell,Pesticides,Medium,6.8,2.91,28.8,2015,No
+Punjab,Patiala,River,Cadmium,High,5.65,6.81,27.5,2024,No
+Punjab,Amritsar,Pond,Mercury,Low,6.83,5.89,28.4,2017,Yes
+Odisha,Sambalpur,Well,Industrial Waste,High,6.37,3.6,23.7,2021,No
+Delhi,Karol Bagh,Reservoir,Fluoride,High,6.49,3.2,28.4,2021,No
+Assam,Dibrugarh,River,Chromium,Medium,8.14,6.0,19.8,2022,Yes
+Odisha,Cuttack,Groundwater,Sewage,Medium,9.31,1.45,27.0,2020,Yes
+West Bengal,Kolkata,Well,Mercury,High,6.99,2.97,23.6,2017,Yes
+Karnataka,Bengaluru,Well,Industrial Waste,Medium,6.52,6.15,20.3,2018,No
+Rajasthan,Udaipur,Canal,Plastic Waste,High,6.3,3.26,15.1,2021,Yes
+Haryana,Gurugram,River,Cadmium,High,7.34,4.03,25.6,2018,No
+Odisha,Sambalpur,Borewell,Fluoride,High,6.22,5.27,19.4,2020,No
+Rajasthan,Udaipur,Borewell,Chromium,High,6.8,3.07,32.8,2017,No
+Rajasthan,Jaipur,Groundwater,Mercury,Severe,8.24,3.97,26.4,2022,Yes
+Odisha,Berhampur,Reservoir,Mercury,Severe,8.71,5.03,17.1,2019,No
+Rajasthan,Jaipur,Reservoir,Plastic Waste,Low,7.01,3.14,18.7,2022,No
+West Bengal,Kolkata,Pond,Pesticides,Low,5.57,6.87,27.9,2023,Yes
+Madhya Pradesh,Jabalpur,Canal,Mercury,Medium,6.35,3.19,28.9,2021,Yes
+Haryana,Ambala,Groundwater,Arsenic,High,6.72,5.73,12.1,2018,Yes
+Bihar,Muzaffarpur,Pond,Mercury,Low,9.06,3.0,15.8,2024,Yes
+Kerala,Kozhikode,River,Chromium,Low,6.68,5.25,27.7,2021,No
+Uttar Pradesh,Kanpur,Borewell,Sewage,Severe,6.08,5.71,31.1,2016,Yes
+Uttar Pradesh,Noida,Well,Plastic Waste,High,6.32,1.56,30.0,2016,Yes
+Kerala,Kollam,Pond,Fluoride,Low,7.34,5.8,26.5,2022,Yes
+Nan,Kolkata,Lake,Arsenic,Medium,5.65,2.84,32.4,2015,Yes
+Odisha,Cuttack,Well,Industrial Waste,Severe,6.43,5.43,25.5,2023,No
+West Bengal,Siliguri,Reservoir,Cadmium,Severe,6.11,4.48,24.5,2023,No
+Madhya Pradesh,Indore,River,Nitrate,Low,6.72,6.6,23.8,2020,Yes
+Karnataka,Mangalore,River,Plastic Waste,Low,7.55,5.46,24.6,2019,No
+Gujarat,Rajkot,Canal,Industrial Waste,Low,6.62,4.62,21.3,2016,No
+Bihar,Gaya,Reservoir,Fluoride,Low,7.39,4.17,22.3,2023,Yes
+Rajasthan,Jaipur,Pond,Arsenic,Medium,6.65,5.81,24.8,2022,Yes
+Odisha,Sambalpur,Lake,Mercury,Low,7.67,5.67,23.2,2023,Yes
+Haryana,Panipat,Groundwater,Plastic Waste,High,5.93,4.78,25.3,2018,Yes
+Haryana,Faridabad,Canal,Lead,High,7.0,5.58,21.7,2017,No
+Odisha,Sambalpur,River,Cadmium,Severe,7.66,6.61,19.3,2015,Yes
+Odisha,Berhampur,Reservoir,Plastic Waste,Nan,6.99,4.64,25.5,2018,Yes
+Karnataka,Belgaum,Well,Sewage,Severe,6.38,6.19,28.0,2015,Yes
+Punjab,Ludhiana,River,Fluoride,High,7.77,5.08,24.2,2016,Yes
+Rajasthan,Kota,Reservoir,Fluoride,Low,6.32,5.77,24.2,2023,No
+Kerala,Kollam,Pond,Arsenic,Severe,7.53,9.06,16.2,2024,No
+Tamil Nadu,Chennai,Lake,Fluoride,High,7.3,5.84,27.5,2023,No
+Delhi,Dwarka,Pond,Lead,Low,6.05,4.6,21.4,2020,Yes
+Delhi,Saket,Groundwater,Sewage,Low,7.4,4.56,18.7,2022,No
+Assam,Silchar,Groundwater,Arsenic,Low,6.23,8.03,27.5,2017,Yes
+Bihar,Patna,Pond,Chromium,Low,6.82,5.11,29.5,2019,Yes
+Haryana,Nan,Reservoir,Industrial Waste,High,5.8,4.81,26.2,2021,No
+West Bengal,Durgapur,Borewell,Chromium,Medium,6.5,3.03,23.6,2022,No
+Bihar,Muzaffarpur,Canal,Chromium,Low,6.0,4.36,19.3,2015,Yes
+Maharashtra,Nagpur,Well,Lead,High,8.89,8.37,27.4,2022,Yes
+Haryana,Panipat,Pond,Plastic Waste,High,7.18,7.47,26.4,2018,No
+Punjab,Jalandhar,Canal,Lead,High,8.45,7.11,22.7,2021,No
+Delhi,Saket,Pond,Mercury,Nan,7.28,5.41,27.1,2016,No
+Assam,Jorhat,River,Arsenic,Severe,6.71,5.71,29.4,2019,Yes
+Gujarat,Rajkot,Pond,Mercury,Low,5.26,5.54,27.1,2018,No
+Madhya Pradesh,Jabalpur,Borewell,Mercury,Severe,6.29,4.74,17.2,2022,No
+Karnataka,Belgaum,Well,Lead,High,6.42,3.12,32.2,2020,No
+Gujarat,Rajkot,River,Pesticides,Medium,7.38,5.9,17.6,2022,No
+Assam,Dibrugarh,Reservoir,Lead,Severe,6.78,4.14,19.6,2021,Yes
+Punjab,Chandigarh,Pond,Lead,Medium,7.53,4.86,21.1,2021,Yes
+Haryana,Faridabad,Borewell,Nitrate,High,7.76,4.33,21.8,2022,No
+Maharashtra,Mumbai,Groundwater,Sewage,High,8.93,6.64,13.9,2020,No
+Assam,Guwahati,Lake,Fluoride,Low,7.1,2.91,28.6,2020,No
+Gujarat,Surat,Canal,Nitrate,Low,5.99,3.17,29.8,2019,Yes
+Karnataka,Mangalore,Well,Sewage,Severe,6.61,8.2,28.3,2022,Yes
+Kerala,Thiruvananthapuram,River,Plastic Waste,High,8.56,3.96,21.2,2020,Yes
+Tamil Nadu,Coimbatore,Groundwater,Lead,High,7.77,6.96,18.2,2022,No
+Uttar Pradesh,Lucknow,Groundwater,Mercury,Severe,5.9,6.52,20.8,2023,Yes
+Gujarat,Surat,Groundwater,Fluoride,Medium,6.73,5.93,18.2,2016,Yes
+Odisha,Sambalpur,Canal,Lead,Medium,6.08,5.74,20.5,2017,Yes
+Punjab,Ludhiana,Lake,Arsenic,Severe,6.93,2.18,28.5,2021,Yes
+Delhi,Saket,Lake,Pesticides,Low,5.55,8.65,30.9,2021,No
+Assam,Guwahati,Borewell,Fluoride,Low,5.74,6.56,35.0,2015,No
+Karnataka,Hubli,River,Cadmium,High,7.12,5.09,30.9,2018,Yes
+Haryana,Panipat,Pond,Industrial Waste,Medium,7.5,8.84,21.6,2022,Yes
+Punjab,Jalandhar,Well,Nitrate,Medium,6.62,4.12,27.7,2022,No
+Uttar Pradesh,Agra,Well,Industrial Waste,Medium,6.67,2.97,24.1,2020,Yes
+Haryana,Karnal,River,Pesticides,Low,7.94,5.36,27.4,2023,No
+Karnataka,Bengaluru,Lake,Arsenic,Medium,8.63,8.45,24.3,2020,Yes
+Delhi,Saket,Pond,Lead,Low,7.49,4.67,21.7,2021,Yes
+Maharashtra,Mumbai,Groundwater,Lead,Severe,6.75,0.65,23.7,2015,No
+Punjab,Chandigarh,Canal,Arsenic,Severe,8.42,7.27,28.3,2021,Yes
+Maharashtra,Nashik,Pond,Nitrate,Medium,7.32,4.25,28.5,2019,No
+Rajasthan,Jaipur,Reservoir,Lead,Medium,8.85,5.77,16.9,2022,No
+Karnataka,Mangalore,Reservoir,Chromium,High,6.37,3.63,27.3,2018,No
+Odisha,Cuttack,Lake,Lead,Severe,7.08,3.56,18.1,2022,Yes
+Uttar Pradesh,Noida,Borewell,Pesticides,High,8.03,4.1,31.8,2024,No
+Kerala,Kozhikode,Groundwater,Mercury,Severe,5.89,5.19,31.2,2021,Yes
+Odisha,Berhampur,Pond,Arsenic,Severe,6.44,3.07,21.0,2022,Yes
+Karnataka,Mangalore,Groundwater,Arsenic,Severe,7.17,3.21,25.4,2020,No
+Rajasthan,Bikaner,Reservoir,Nitrate,Severe,6.87,6.52,32.2,2017,No
+Delhi,Dwarka,Borewell,Mercury,Medium,7.1,5.61,19.4,2016,Yes
+Assam,Dibrugarh,Pond,Pesticides,High,7.34,3.88,19.7,2017,No
+Uttar Pradesh,Kanpur,Canal,Sewage,Medium,6.86,5.45,19.3,2018,No
+Karnataka,Nan,Reservoir,Chromium,High,6.57,10.8,27.6,2016,No
+Assam,Jorhat,Reservoir,Fluoride,Low,7.01,5.76,21.4,2019,Yes
+Madhya Pradesh,Nan,Borewell,Chromium,Severe,7.8,6.83,22.6,2015,Yes
+Gujarat,Bhavnagar,Borewell,Cadmium,Low,6.86,4.91,18.8,2019,Yes
+Madhya Pradesh,Indore,Well,Nan,High,7.56,5.36,25.0,2019,No
+Madhya Pradesh,Bhopal,Canal,Industrial Waste,High,6.75,4.96,18.0,2017,No
+Odisha,Sambalpur,Borewell,Nitrate,Severe,7.51,6.57,28.3,2020,Yes
+Madhya Pradesh,Indore,Borewell,Lead,Severe,7.2,7.69,21.4,2018,Yes
+Punjab,Amritsar,Reservoir,Pesticides,Low,6.85,5.64,27.8,2022,No
+Gujarat,Surat,Well,Mercury,Low,9.32,4.05,32.2,2018,No
+Odisha,Rourkela,River,Chromium,High,5.82,4.88,24.2,2019,No
+West Bengal,Asansol,Canal,Lead,Severe,5.73,3.16,30.6,2023,No
+Kerala,Kozhikode,Well,Arsenic,Severe,6.15,8.41,22.4,2017,Yes
+Maharashtra,Nagpur,River,Mercury,Severe,7.48,4.05,22.9,2024,Yes
+Tamil Nadu,Trichy,Canal,Mercury,Low,7.13,7.03,27.5,2021,Yes
+Rajasthan,Udaipur,Borewell,Arsenic,Severe,7.05,4.94,29.7,2017,Yes
+Tamil Nadu,Trichy,Groundwater,Fluoride,Low,6.2,6.42,24.2,2024,Yes
+Assam,Silchar,Borewell,Industrial Waste,High,7.03,7.07,27.7,2024,Yes
+Bihar,Darbhanga,Reservoir,Fluoride,Severe,6.56,7.2,27.5,2021,No
+Maharashtra,Pune,Canal,Arsenic,High,7.04,6.8,22.2,2022,No
+Karnataka,Belgaum,River,Arsenic,Low,6.52,2.77,25.6,2024,No
+Karnataka,Belgaum,Well,Lead,Medium,7.0,5.19,21.7,2021,No
+Maharashtra,Pune,Groundwater,Arsenic,High,6.71,5.88,29.1,2023,Yes
+Uttar Pradesh,Kanpur,Reservoir,Mercury,High,6.02,3.55,27.4,2017,Yes
+Gujarat,Vadodara,River,Sewage,Low,7.75,4.37,28.3,2017,No
+Punjab,Chandigarh,Canal,Fluoride,High,6.29,3.1,14.8,2021,No
+Bihar,Darbhanga,Groundwater,Chromium,High,6.27,6.99,24.2,2020,No
+Maharashtra,Mumbai,Lake,Plastic Waste,Medium,6.25,5.43,26.9,2017,Yes
+Bihar,Patna,Pond,Industrial Waste,Severe,6.8,9.18,20.6,2020,Yes
+Karnataka,Belgaum,Well,Mercury,High,7.07,9.67,14.7,2018,No
+West Bengal,Kolkata,River,Nitrate,Low,7.74,5.66,22.5,2018,Yes
+Odisha,Rourkela,Lake,Chromium,Low,5.96,0.5,20.0,2019,No
+Gujarat,Vadodara,Reservoir,Fluoride,Medium,5.87,2.74,31.9,2018,Yes
+Gujarat,Surat,Well,Pesticides,Severe,7.46,4.19,34.8,2017,Yes
+Haryana,Panipat,Groundwater,Industrial Waste,Low,7.1,7.31,26.6,2015,No
+Bihar,Muzaffarpur,Canal,Lead,Low,7.19,3.17,21.3,2024,Yes
+Kerala,Thrissur,Well,Mercury,Severe,6.89,8.22,27.2,2022,Yes
+Madhya Pradesh,Bhopal,River,Lead,Low,6.24,4.45,21.6,2024,No
+Karnataka,Belgaum,Groundwater,Plastic Waste,Severe,5.51,5.43,22.7,2021,No
+Maharashtra,Mumbai,Well,Industrial Waste,Low,6.32,6.93,16.6,2021,Yes
+Karnataka,Belgaum,Borewell,Plastic Waste,High,7.71,7.15,19.1,2019,No
+Uttar Pradesh,Varanasi,Pond,Industrial Waste,Medium,6.05,5.04,25.5,2015,No
+Karnataka,Belgaum,Reservoir,Cadmium,Medium,6.47,3.24,26.0,2018,No
+Bihar,Patna,Canal,Sewage,High,5.96,2.46,15.0,2018,Yes
+Tamil Nadu,Coimbatore,Reservoir,Lead,Severe,5.6,5.86,24.5,2019,No
+West Bengal,Asansol,Groundwater,Pesticides,Severe,8.45,7.87,32.2,2016,Yes
+Punjab,Patiala,Lake,Sewage,Low,7.55,6.53,26.0,2021,Yes
+Odisha,Berhampur,Borewell,Industrial Waste,Low,7.26,4.4,25.8,2020,Yes
+Odisha,Cuttack,Canal,Pesticides,Severe,6.5,5.24,28.2,2016,No
+Karnataka,Mangalore,Canal,Cadmium,High,7.13,9.67,26.0,2015,Yes
+Tamil Nadu,Salem,Well,Nitrate,Low,7.56,4.83,25.9,2022,No
+Maharashtra,Mumbai,River,Industrial Waste,Low,6.66,5.92,27.2,2016,Yes
+Bihar,Gaya,Pond,Pesticides,Severe,7.84,6.21,24.2,2020,Yes
+Nan,Nagaon,Lake,Mercury,Medium,7.37,5.08,19.5,2021,Yes
+Tamil Nadu,Salem,River,Cadmium,High,5.76,6.44,33.3,2020,Yes
+Karnataka,Mangalore,Canal,Chromium,Medium,8.75,3.7,20.6,2019,Yes
+Gujarat,Bhavnagar,Lake,Industrial Waste,High,6.61,5.04,23.7,2020,No
+Assam,Nagaon,River,Pesticides,Medium,7.77,3.53,28.5,2023,Yes
+Odisha,Berhampur,Reservoir,Industrial Waste,Medium,5.31,2.68,20.8,2018,No
+Odisha,Bhubaneswar,Lake,Plastic Waste,Medium,6.31,8.5,22.1,2017,Yes
+Odisha,Sambalpur,Lake,Fluoride,High,7.17,6.31,32.5,2023,Yes
+Uttar Pradesh,Kanpur,Lake,Sewage,High,7.1,10.19,25.0,2023,Yes
+Uttar Pradesh,Kanpur,Groundwater,Cadmium,High,8.75,2.36,24.5,2019,Yes
+Bihar,Gaya,Canal,Arsenic,Nan,7.38,4.65,23.9,2018,No
+Assam,Silchar,Canal,Mercury,High,6.11,1.44,24.2,2018,Yes
+Haryana,Faridabad,Borewell,Cadmium,Severe,6.26,7.64,23.3,2017,Yes
+Madhya Pradesh,Jabalpur,Canal,Fluoride,Low,7.7,4.51,19.9,2019,No
+Bihar,Patna,Pond,Nitrate,Medium,7.45,2.45,23.1,2020,Yes
+Haryana,Karnal,Well,Pesticides,High,6.52,4.88,22.1,2019,No
+Maharashtra,Nagpur,Pond,Industrial Waste,Low,6.83,5.27,24.2,2023,Yes
+Madhya Pradesh,Jabalpur,Reservoir,Lead,Medium,7.72,7.05,16.9,2016,No
+Gujarat,Rajkot,Borewell,Cadmium,Medium,7.07,3.95,31.6,2015,Yes
+Odisha,Bhubaneswar,Reservoir,Mercury,Nan,7.7,3.94,29.7,2023,Yes
+Delhi,Dwarka,Canal,Fluoride,High,6.3,5.85,19.1,2016,Yes
+Gujarat,Rajkot,Borewell,Fluoride,Severe,8.16,4.36,29.6,2018,Yes
+Madhya Pradesh,Jabalpur,River,Cadmium,Low,7.55,5.44,28.2,2023,No
+Gujarat,Ahmedabad,Groundwater,Plastic Waste,High,7.77,3.29,31.3,2023,No
+Assam,Dibrugarh,Borewell,Pesticides,Severe,6.78,7.24,29.9,2018,Yes
+Punjab,Chandigarh,Canal,Cadmium,High,7.04,3.87,29.9,2020,No
+Punjab,Jalandhar,River,Cadmium,Low,9.25,5.58,20.8,2022,No
+Assam,Silchar,Canal,Nitrate,High,6.85,7.93,12.2,2024,No
+Karnataka,Bengaluru,Groundwater,Cadmium,High,6.56,7.38,27.4,2016,No
+Delhi,Rohini,Groundwater,Fluoride,Medium,5.83,6.31,22.2,2017,No
+Rajasthan,Udaipur,Canal,Cadmium,Medium,6.87,5.2,24.2,2022,Yes
+Punjab,Amritsar,Reservoir,Sewage,Severe,5.91,6.29,17.1,2018,Yes
+Assam,Dibrugarh,Reservoir,Sewage,High,7.4,2.92,19.8,2020,Yes
+Kerala,Nan,Groundwater,Arsenic,Medium,6.95,7.63,25.7,2016,No
+West Bengal,Asansol,River,Chromium,Low,6.04,2.75,20.5,2022,No
+Karnataka,Hubli,Canal,Arsenic,Severe,7.39,6.75,24.9,2016,No
+Maharashtra,Mumbai,Well,Industrial Waste,Severe,6.42,7.09,17.2,2021,No
+Gujarat,Vadodara,Groundwater,Plastic Waste,High,8.67,5.31,17.8,2015,No
+Bihar,Bhagalpur,Groundwater,Pesticides,Low,6.09,2.13,22.2,2021,Yes
+Rajasthan,Kota,Groundwater,Plastic Waste,High,7.32,8.16,21.4,2023,No
+Gujarat,Surat,Well,Arsenic,Severe,7.64,5.25,20.8,2019,Yes
+Maharashtra,Aurangabad,Canal,Lead,High,9.07,4.85,21.8,2016,No
+Delhi,New Delhi,River,Sewage,Severe,7.76,5.31,21.6,2019,No
+Karnataka,Mangalore,Pond,Plastic Waste,High,8.23,6.75,25.4,2019,No
+Uttar Pradesh,Noida,Reservoir,Chromium,Low,7.15,7.59,24.2,2022,No
+Kerala,Kozhikode,Reservoir,Plastic Waste,Severe,5.61,6.39,28.2,2019,Yes
+Nan,Dibrugarh,Lake,Lead,Low,6.93,7.55,25.8,2016,No
+Assam,Dibrugarh,Reservoir,Pesticides,High,7.17,6.0,25.6,2018,Yes
+Gujarat,Surat,Groundwater,Nan,Medium,7.25,5.22,26.2,2019,Yes
+Maharashtra,Aurangabad,Pond,Chromium,Medium,7.02,6.35,17.2,2015,No
+Karnataka,Mangalore,Groundwater,Arsenic,High,7.25,4.89,23.8,2015,No
+Haryana,Gurugram,Canal,Industrial Waste,Medium,7.7,5.55,19.5,2024,Yes
+Odisha,Cuttack,Canal,Sewage,Medium,8.24,5.25,28.8,2022,Yes
+Punjab,Amritsar,Groundwater,Plastic Waste,High,7.49,6.49,22.7,2023,Yes
+Maharashtra,Nagpur,River,Fluoride,Severe,7.39,5.54,27.4,2015,Yes
+Kerala,Kollam,Borewell,Arsenic,High,7.8,4.41,23.0,2023,No
+Gujarat,Bhavnagar,Groundwater,Arsenic,Severe,7.95,5.68,22.9,2023,Yes
+Assam,Jorhat,Well,Mercury,Severe,6.47,6.09,30.3,2024,No
+Madhya Pradesh,Indore,Lake,Arsenic,Low,6.8,4.95,30.8,2018,No
+Madhya Pradesh,Bhopal,Lake,Sewage,Low,8.39,7.29,28.5,2018,Yes
+Bihar,Gaya,Pond,Sewage,Low,5.43,6.39,25.9,2015,No
+Maharashtra,Mumbai,Borewell,Industrial Waste,High,5.27,2.85,25.7,2018,No
+Madhya Pradesh,Gwalior,Groundwater,Lead,Severe,6.28,8.17,22.6,2022,Yes
+Madhya Pradesh,Gwalior,River,Nitrate,High,6.29,4.26,19.4,2021,Yes
+West Bengal,Howrah,Pond,Nitrate,Severe,5.37,6.03,24.7,2018,Yes
+Gujarat,Rajkot,River,Chromium,Medium,6.98,5.11,24.3,2023,No
+Punjab,Amritsar,Groundwater,Industrial Waste,Low,7.41,1.74,21.1,2017,Yes
+West Bengal,Howrah,Reservoir,Fluoride,High,5.78,6.84,27.2,2017,Yes
+Delhi,Rohini,River,Fluoride,Severe,7.76,4.54,23.5,2017,No
+Bihar,Patna,Pond,Lead,Medium,7.14,5.85,23.9,2017,No
+Haryana,Ambala,Canal,Chromium,Severe,6.44,7.12,19.9,2015,Yes
+Rajasthan,Kota,Lake,Pesticides,Severe,7.49,5.51,21.8,2021,No
+Haryana,Panipat,Lake,Chromium,Medium,6.21,6.84,20.8,2018,No
+Maharashtra,Aurangabad,Pond,Nan,High,8.12,6.14,15.0,2021,Yes
+Uttar Pradesh,Lucknow,Lake,Nitrate,Low,5.95,4.91,29.5,2023,No
+Odisha,Cuttack,Canal,Mercury,High,6.83,2.62,35.4,2018,No
+Uttar Pradesh,Varanasi,Canal,Nan,High,8.65,4.76,27.6,2019,No
+Assam,Silchar,Lake,Fluoride,High,6.49,3.38,24.2,2015,No
+Maharashtra,Nagpur,Lake,Arsenic,Severe,6.18,5.73,21.5,2015,No
+Madhya Pradesh,Gwalior,River,Cadmium,Medium,7.25,0.69,15.2,2019,Yes
+Delhi,Rohini,Borewell,Pesticides,Medium,7.59,4.79,32.0,2023,Yes
+Karnataka,Bengaluru,River,Nitrate,High,6.97,6.69,29.5,2023,Yes
+Gujarat,Rajkot,Well,Industrial Waste,Severe,6.49,2.93,29.9,2015,Yes
+West Bengal,Siliguri,Groundwater,Pesticides,High,6.82,5.13,20.3,2023,No
+Assam,Jorhat,Groundwater,Pesticides,Low,6.27,3.24,22.8,2022,No
+Kerala,Kozhikode,Canal,Mercury,High,8.31,5.02,37.6,2024,Yes
+West Bengal,Kolkata,River,Mercury,Severe,6.94,5.65,22.6,2021,Yes
+Haryana,Karnal,Reservoir,Industrial Waste,High,6.1,6.74,21.8,2018,Yes
+Gujarat,Nan,Lake,Arsenic,Low,7.08,4.7,24.0,2015,Yes
+Kerala,Kochi,Well,Pesticides,Severe,6.42,6.15,31.7,2021,Yes
+Tamil Nadu,Salem,Lake,Mercury,Severe,6.69,5.47,22.5,2017,No
+Kerala,Thrissur,Reservoir,Chromium,Low,7.14,6.99,19.7,2019,No
+Rajasthan,Jodhpur,River,Industrial Waste,High,5.16,7.59,22.3,2020,No
+Uttar Pradesh,Noida,Pond,Chromium,Medium,7.2,7.38,32.4,2017,Yes
+Gujarat,Bhavnagar,River,Fluoride,High,6.57,5.42,30.7,2015,No
+Karnataka,Hubli,Canal,Sewage,Medium,6.86,4.34,32.3,2023,No
+Bihar,Bhagalpur,Pond,Nitrate,Medium,6.65,8.63,26.1,2022,Yes
+Delhi,New Delhi,Canal,Nitrate,Severe,6.51,5.7,18.2,2017,No
+Punjab,Jalandhar,Borewell,Industrial Waste,Severe,5.76,4.88,29.7,2022,No
+Uttar Pradesh,Noida,Groundwater,Plastic Waste,Low,5.9,6.78,22.8,2017,No
+Kerala,Kozhikode,Pond,Chromium,Medium,7.36,3.35,26.2,2016,Yes
+Uttar Pradesh,Agra,Borewell,Fluoride,Medium,7.58,3.65,21.6,2017,No
+Karnataka,Mangalore,Well,Nitrate,Severe,6.96,6.78,38.0,2020,Yes
+Gujarat,Surat,Lake,Plastic Waste,Low,6.96,5.55,14.4,2022,Yes
+Maharashtra,Nashik,Reservoir,Arsenic,Low,7.91,4.26,35.3,2016,No
+Madhya Pradesh,Ujjain,Canal,Cadmium,Low,7.74,7.22,30.1,2017,Yes
+Kerala,Kozhikode,Pond,Industrial Waste,Medium,7.84,3.04,22.9,2016,Yes
+Assam,Jorhat,Groundwater,Lead,Low,6.05,5.97,21.1,2016,No
+Kerala,Kollam,Groundwater,Lead,Low,6.35,4.67,29.3,2018,Yes
+Odisha,Bhubaneswar,Reservoir,Fluoride,High,6.08,7.71,19.2,2023,Yes
+Uttar Pradesh,Noida,Pond,Chromium,Medium,7.57,5.02,26.8,2022,No
+Assam,Silchar,Borewell,Fluoride,Medium,6.61,5.43,22.5,2019,No
+Rajasthan,Udaipur,Reservoir,Arsenic,Medium,8.01,4.31,21.4,2020,Yes
+West Bengal,Howrah,Pond,Pesticides,Medium,6.11,5.95,18.1,2017,No
+Haryana,Karnal,Lake,Pesticides,Medium,6.81,7.43,35.8,2017,Yes
+Bihar,Darbhanga,Canal,Mercury,Severe,6.67,6.41,26.6,2022,Yes
+Delhi,New Delhi,Groundwater,Sewage,Medium,6.99,5.19,30.7,2023,No
+Odisha,Berhampur,Groundwater,Lead,High,8.07,5.35,18.4,2015,Yes
+Uttar Pradesh,Lucknow,River,Lead,Severe,6.99,5.66,18.8,2024,No
+Uttar Pradesh,Agra,Borewell,Lead,Severe,8.18,7.61,17.7,2023,No
+Haryana,Ambala,Pond,Mercury,Severe,6.66,5.41,25.2,2020,No
+West Bengal,Asansol,Well,Mercury,Low,7.95,7.07,22.4,2015,No
+Maharashtra,Pune,River,Cadmium,Severe,7.43,2.36,21.3,2017,No
+Punjab,Amritsar,Canal,Mercury,Low,7.4,4.58,24.2,2018,Yes
+Delhi,Rohini,Lake,Chromium,High,6.43,5.43,26.8,2022,Yes
+Assam,Dibrugarh,Pond,Sewage,Low,6.42,6.03,22.8,2017,No
+Gujarat,Surat,River,Plastic Waste,Severe,6.87,7.08,28.0,2021,Yes
+Bihar,Gaya,Reservoir,Plastic Waste,High,7.92,9.05,25.9,2024,Yes
+Odisha,Rourkela,Lake,Industrial Waste,High,6.99,3.48,23.7,2020,No
+Karnataka,Bengaluru,Lake,Arsenic,Medium,8.01,9.68,25.0,2015,Yes
+Gujarat,Ahmedabad,Groundwater,Cadmium,High,9.3,4.48,24.9,2018,No
+Assam,Dibrugarh,Reservoir,Plastic Waste,Medium,6.98,7.61,26.7,2024,No
+Rajasthan,Jodhpur,Reservoir,Plastic Waste,Severe,6.99,4.89,25.2,2016,Yes
+Rajasthan,Bikaner,Groundwater,Mercury,Medium,6.15,5.24,18.0,2024,No
+Uttar Pradesh,Agra,Canal,Nitrate,High,8.37,5.08,22.8,2021,No
+Madhya Pradesh,Jabalpur,Lake,Chromium,High,6.49,4.0,26.4,2015,No
+Maharashtra,Mumbai,Canal,Arsenic,Medium,6.79,4.46,31.4,2024,No
+Bihar,Bhagalpur,Canal,Lead,Medium,7.88,2.98,26.9,2015,No
+Odisha,Sambalpur,Reservoir,Plastic Waste,Low,6.65,7.41,27.1,2023,No
+Punjab,Ludhiana,Pond,Pesticides,Medium,7.33,6.2,23.7,2023,No
+Gujarat,Vadodara,Groundwater,Lead,Low,7.87,3.17,18.1,2024,No
+Madhya Pradesh,Bhopal,Well,Fluoride,Nan,5.73,7.26,22.6,2023,No
+West Bengal,Durgapur,Lake,Lead,Medium,6.84,7.09,27.3,2021,Yes
+Bihar,Darbhanga,River,Sewage,Severe,5.76,3.81,26.6,2019,No
+Delhi,Dwarka,Groundwater,Arsenic,Low,8.57,3.26,24.2,2021,Yes
+Delhi,Dwarka,Borewell,Arsenic,High,7.66,3.82,24.2,2024,No
+Kerala,Kochi,Borewell,Pesticides,Severe,8.11,3.57,27.4,2018,Yes
+Kerala,Kollam,Reservoir,Sewage,Low,6.16,2.81,20.7,2023,No
+West Bengal,Siliguri,Groundwater,Arsenic,Medium,7.76,4.84,9.5,2023,No
+Kerala,Kochi,Well,Industrial Waste,Medium,9.02,6.36,23.2,2020,No
+Bihar,Muzaffarpur,Lake,Pesticides,Severe,6.34,7.4,28.8,2020,No
+Assam,Nagaon,Borewell,Fluoride,Medium,5.5,5.38,17.9,2016,Yes
+Delhi,Karol Bagh,Borewell,Arsenic,Medium,7.17,4.54,26.4,2023,No
+Maharashtra,Nashik,Pond,Lead,Severe,7.56,8.45,25.9,2023,Yes
+Odisha,Bhubaneswar,Borewell,Mercury,Low,7.01,3.35,22.7,2020,No
+Assam,Jorhat,Borewell,Arsenic,Low,6.75,7.72,20.0,2017,Yes
+Rajasthan,Jodhpur,Groundwater,Nitrate,High,7.82,5.17,18.0,2018,Yes
+Delhi,New Delhi,Canal,Industrial Waste,Severe,9.25,3.6,22.2,2019,No
+Delhi,Saket,Canal,Lead,High,7.44,5.83,19.7,2022,Yes
+Karnataka,Hubli,Canal,Industrial Waste,High,6.63,7.31,18.4,2023,No
+Delhi,Karol Bagh,Lake,Industrial Waste,Medium,8.45,4.92,30.1,2022,Yes
+Kerala,Kollam,Borewell,Nitrate,Medium,6.96,3.62,26.4,2017,Yes
+Punjab,Chandigarh,Canal,Pesticides,Medium,6.66,7.12,24.2,2023,No
+Assam,Silchar,Lake,Industrial Waste,Low,8.03,6.11,21.9,2015,Yes
+Assam,Guwahati,River,Industrial Waste,Medium,6.71,7.05,19.1,2017,No
+Punjab,Amritsar,Lake,Pesticides,Severe,7.97,6.39,34.4,2023,Yes
+Uttar Pradesh,Varanasi,Pond,Arsenic,Severe,6.45,8.32,31.2,2016,No
+Tamil Nadu,Madurai,Reservoir,Plastic Waste,High,5.94,4.86,32.2,2018,Yes
+Maharashtra,Nagpur,Canal,Lead,Severe,7.37,2.44,29.1,2015,Yes
+Uttar Pradesh,Nan,River,Cadmium,Low,6.7,4.4,22.5,2020,No
+Odisha,Rourkela,Reservoir,Pesticides,Medium,6.8,5.0,25.5,2016,Yes
+West Bengal,Durgapur,Groundwater,Lead,Severe,6.84,11.0,25.5,2024,Nan
+Assam,Nagaon,Lake,Plastic Waste,Medium,5.48,4.65,14.1,2015,Yes
+Assam,Silchar,Reservoir,Nitrate,Low,6.37,5.44,32.9,2016,Yes
+Gujarat,Vadodara,Canal,Plastic Waste,Severe,7.68,4.46,11.0,2021,No
+Gujarat,Ahmedabad,Borewell,Pesticides,High,7.57,8.64,27.3,2017,Yes
+Tamil Nadu,Madurai,Borewell,Cadmium,High,6.48,3.42,28.3,2022,Yes
+Tamil Nadu,Madurai,Lake,Mercury,High,6.9,7.45,24.2,2018,Yes
+Tamil Nadu,Trichy,Borewell,Mercury,Medium,7.35,7.6,20.4,2017,Yes
+Gujarat,Ahmedabad,Reservoir,Nan,Medium,7.15,7.41,18.0,2024,Yes
+Rajasthan,Bikaner,Pond,Chromium,Medium,6.05,3.86,27.8,2024,Yes
+Madhya Pradesh,Jabalpur,River,Nitrate,High,7.36,6.91,15.1,2024,No
+Punjab,Jalandhar,Well,Fluoride,High,6.59,6.55,25.1,2024,Yes
+Kerala,Kozhikode,Pond,Mercury,High,7.2,3.52,21.1,2016,No
+Tamil Nadu,Coimbatore,Groundwater,Lead,Medium,6.99,2.32,25.6,2016,No
+Madhya Pradesh,Jabalpur,Pond,Sewage,High,6.69,6.0,21.5,2020,Yes
+Uttar Pradesh,Lucknow,Borewell,Fluoride,High,8.06,7.56,17.1,2024,No
+Karnataka,Mangalore,Pond,Plastic Waste,High,5.89,7.21,32.4,2018,Yes
+Odisha,Bhubaneswar,Reservoir,Nitrate,Medium,6.01,6.82,29.0,2020,No
+Madhya Pradesh,Bhopal,Borewell,Nitrate,Medium,7.68,1.78,24.1,2018,No
+Uttar Pradesh,Noida,Groundwater,Cadmium,Severe,7.42,3.38,24.9,2017,Yes
+Karnataka,Mangalore,Borewell,Arsenic,Medium,7.52,7.68,23.9,2017,No
+Bihar,Gaya,Borewell,Pesticides,High,5.74,5.31,29.6,2015,Nan
+Kerala,Kozhikode,Lake,Sewage,Medium,6.68,4.43,25.6,2019,Yes
+Tamil Nadu,Coimbatore,Reservoir,Pesticides,Low,4.5,4.34,20.9,2019,Yes
+Punjab,Ludhiana,Borewell,Industrial Waste,Medium,6.55,8.64,36.0,2021,No
+Odisha,Bhubaneswar,Nan,Industrial Waste,High,5.35,6.61,29.2,2020,Yes
+West Bengal,Nan,Canal,Industrial Waste,High,8.23,9.04,23.8,2022,Yes
+Uttar Pradesh,Varanasi,Lake,Fluoride,Medium,5.14,7.6,20.1,2023,Yes
+Kerala,Nan,Pond,Sewage,Low,5.43,7.85,15.7,2020,Yes
+Madhya Pradesh,Jabalpur,Groundwater,Sewage,Medium,7.15,7.2,26.5,2020,Yes
+Punjab,Patiala,Reservoir,Plastic Waste,Low,6.75,1.54,14.0,2022,No
+Punjab,Chandigarh,Borewell,Plastic Waste,High,6.79,5.64,21.4,2018,No
+Gujarat,Surat,Pond,Mercury,Medium,7.93,6.4,25.2,2020,No
+Kerala,Kozhikode,River,Fluoride,High,7.4,2.4,20.4,2024,Yes
+Karnataka,Mangalore,Reservoir,Mercury,High,6.26,4.21,34.2,2018,No
+Tamil Nadu,Trichy,Lake,Industrial Waste,High,6.82,5.17,16.8,2022,Yes
+Odisha,Berhampur,Groundwater,Lead,High,7.39,6.94,27.8,2018,No
+Maharashtra,Mumbai,Reservoir,Mercury,Medium,7.41,8.51,24.0,2024,Yes
+Bihar,Darbhanga,Well,Cadmium,Low,6.61,6.42,22.7,2016,Yes
+Rajasthan,Bikaner,Canal,Arsenic,Severe,7.23,6.96,22.7,2023,No
+West Bengal,Durgapur,Canal,Cadmium,Severe,7.74,3.58,23.7,2021,No
+Delhi,Dwarka,Borewell,Sewage,High,7.08,3.97,24.2,2015,No
+Punjab,Chandigarh,River,Chromium,High,6.8,5.84,18.3,2016,No
+Delhi,New Delhi,River,Chromium,Medium,6.21,2.97,22.9,2023,No
+Tamil Nadu,Trichy,Borewell,Nitrate,Medium,5.78,4.22,33.8,2023,Yes
+Assam,Nagaon,Pond,Plastic Waste,Medium,7.09,8.08,22.7,2019,Yes
+Maharashtra,Mumbai,Reservoir,Mercury,Severe,7.77,5.98,30.6,2018,No
+Madhya Pradesh,Bhopal,Canal,Cadmium,Medium,7.03,7.47,23.6,2015,No
+Kerala,Thiruvananthapuram,Pond,Sewage,Medium,7.1,7.62,24.3,2016,Yes
+Odisha,Sambalpur,Well,Arsenic,Low,6.72,6.23,23.8,2023,Yes
+Punjab,Amritsar,Canal,Sewage,Low,7.26,9.92,20.8,2022,No
+Maharashtra,Mumbai,Well,Mercury,High,7.56,2.67,20.4,2019,Yes
+Kerala,Kollam,Pond,Cadmium,Low,7.87,6.27,20.8,2015,Yes
+Punjab,Jalandhar,Reservoir,Nan,Medium,7.83,7.33,21.0,2015,Yes
+Delhi,Karol Bagh,Lake,Industrial Waste,Severe,7.03,5.17,30.1,2022,Yes
+Tamil Nadu,Madurai,River,Mercury,High,8.88,2.61,24.9,2018,No
+Tamil Nadu,Chennai,Well,Fluoride,Severe,7.24,4.02,21.4,2022,Yes
+West Bengal,Durgapur,Borewell,Fluoride,Medium,5.93,6.72,19.4,2015,Yes
+Assam,Jorhat,Well,Nan,Low,6.12,6.36,26.5,2018,No
+Assam,Guwahati,Canal,Pesticides,Severe,7.58,5.65,15.2,2019,No
+Assam,Guwahati,Groundwater,Nitrate,Medium,7.98,4.82,24.1,2023,Yes
+Delhi,New Delhi,Lake,Industrial Waste,Low,7.07,2.32,22.5,2021,No
+Maharashtra,Nagpur,Borewell,Sewage,Severe,7.37,6.98,33.5,2023,No
+Punjab,Ludhiana,Reservoir,Pesticides,Severe,6.23,6.71,24.8,2016,No
+Odisha,Cuttack,Borewell,Fluoride,Severe,7.33,5.72,28.7,2017,No
+Nan,Mangalore,Borewell,Fluoride,Severe,7.45,2.69,18.1,2023,Yes
+Tamil Nadu,Madurai,Well,Lead,Severe,5.1,2.94,24.9,2018,Yes
+Punjab,Ludhiana,Groundwater,Arsenic,High,6.67,4.19,25.6,2021,No
+Madhya Pradesh,Indore,Borewell,Cadmium,Medium,6.21,3.01,28.6,2023,Yes
+Tamil Nadu,Coimbatore,River,Chromium,High,6.87,5.43,24.1,2019,No
+Maharashtra,Pune,River,Chromium,Medium,6.34,5.65,26.3,2017,Yes
+Delhi,Rohini,Reservoir,Chromium,High,5.28,7.86,22.9,2023,No
+Bihar,Bhagalpur,Well,Nitrate,Severe,6.19,6.58,19.3,2015,Yes
+Maharashtra,Aurangabad,Reservoir,Nitrate,High,7.42,3.04,28.2,2024,No
+Assam,Jorhat,Canal,Fluoride,Severe,8.45,1.75,30.0,2019,No
+Uttar Pradesh,Agra,Reservoir,Lead,Severe,8.04,9.76,22.1,2023,Yes
+Punjab,Chandigarh,Groundwater,Mercury,High,7.36,9.62,15.2,2019,Yes
+Bihar,Bhagalpur,Pond,Cadmium,Low,8.39,9.11,34.3,2015,No
+Gujarat,Vadodara,Groundwater,Sewage,Medium,7.16,5.94,22.9,2024,No
+Tamil Nadu,Coimbatore,Borewell,Nitrate,Low,6.18,6.59,15.9,2015,Yes
+West Bengal,Howrah,Groundwater,Industrial Waste,High,6.91,4.75,19.3,2020,No
+Uttar Pradesh,Kanpur,Pond,Cadmium,Medium,8.01,8.38,31.6,2017,Yes
+Karnataka,Bengaluru,Canal,Arsenic,Severe,7.65,5.59,27.7,2016,No
+Assam,Jorhat,Borewell,Cadmium,High,7.8,5.22,14.9,2018,No
+Tamil Nadu,Madurai,Well,Lead,Severe,6.43,5.33,29.1,2017,No
+Rajasthan,Jaipur,Well,Chromium,Medium,6.6,5.14,25.8,2017,Yes
+Maharashtra,Nashik,Well,Nitrate,Medium,6.2,2.93,24.3,2017,No
+Punjab,Chandigarh,Reservoir,Fluoride,Medium,6.98,5.68,29.8,2019,No
+Gujarat,Ahmedabad,Groundwater,Industrial Waste,Low,6.35,5.82,21.3,2023,Yes
+Tamil Nadu,Chennai,Canal,Arsenic,Severe,8.6,3.35,28.6,2024,No
+Rajasthan,Bikaner,Pond,Arsenic,Severe,5.81,6.89,24.0,2022,No
+Delhi,Karol Bagh,Canal,Chromium,Low,8.71,5.39,20.5,2016,Yes
+Uttar Pradesh,Agra,Groundwater,Cadmium,Low,6.3,5.54,26.5,2017,Yes
+Rajasthan,Bikaner,Well,Arsenic,High,6.64,5.29,25.3,2015,No
+Bihar,Darbhanga,Well,Chromium,Severe,7.05,4.34,27.5,2022,No
+Bihar,Muzaffarpur,Well,Sewage,Medium,6.76,6.73,21.9,2020,No
+Maharashtra,Pune,Pond,Sewage,Low,7.22,8.34,23.5,2020,Yes
+Madhya Pradesh,Indore,Well,Fluoride,Medium,6.35,6.07,22.2,2023,No
+Gujarat,Rajkot,Groundwater,Industrial Waste,High,7.9,4.66,27.2,2015,Yes
+West Bengal,Siliguri,Reservoir,Plastic Waste,High,7.67,5.13,24.2,2022,Yes
+Karnataka,Mysuru,Borewell,Fluoride,Medium,6.59,7.35,22.1,2019,No
+Madhya Pradesh,Jabalpur,Groundwater,Pesticides,Low,8.16,2.79,21.2,2023,Yes
+Odisha,Rourkela,Well,Sewage,Medium,6.93,4.69,25.0,2016,Yes
+Tamil Nadu,Coimbatore,Reservoir,Lead,Low,5.87,5.83,28.7,2018,No
+Rajasthan,Kota,Canal,Nitrate,High,7.46,7.42,29.8,2016,Yes
+Rajasthan,Kota,Groundwater,Pesticides,High,8.05,3.83,25.2,2015,No
+Odisha,Sambalpur,Groundwater,Lead,Low,7.78,5.43,25.5,2024,No
+Bihar,Bhagalpur,Well,Sewage,Low,6.49,5.43,10.9,2018,No
+Odisha,Cuttack,Groundwater,Sewage,Low,6.96,5.83,20.6,2023,No
+Uttar Pradesh,Varanasi,Canal,Nitrate,Severe,8.17,3.51,22.2,2022,Yes
+West Bengal,Asansol,Canal,Industrial Waste,High,8.73,3.3,24.4,2018,Yes
+Rajasthan,Jaipur,Reservoir,Industrial Waste,Medium,6.51,7.05,22.1,2017,No
+Delhi,New Delhi,Lake,Fluoride,Medium,8.79,7.14,24.5,2023,Yes
+Rajasthan,Bikaner,Canal,Cadmium,High,7.54,9.65,16.6,2018,Yes
+Maharashtra,Mumbai,River,Fluoride,High,5.84,4.25,19.4,2016,No
+Odisha,Rourkela,Borewell,Fluoride,Severe,6.66,4.6,23.2,2022,No
+Rajasthan,Bikaner,Reservoir,Industrial Waste,Low,6.34,5.83,26.3,2024,Yes
+Kerala,Thrissur,Groundwater,Sewage,Medium,6.11,5.49,27.9,2017,No
+Haryana,Panipat,Canal,Plastic Waste,Medium,7.74,3.77,27.5,2018,No
+Rajasthan,Kota,Groundwater,Industrial Waste,Medium,6.34,6.74,27.7,2016,Yes
+Madhya Pradesh,Ujjain,Canal,Lead,Low,8.38,5.3,25.5,2023,Yes
+Punjab,Jalandhar,Well,Cadmium,Medium,6.87,7.23,35.1,2022,No
+Bihar,Patna,Borewell,Fluoride,High,7.17,8.74,30.2,2020,Yes
+Assam,Nagaon,Lake,Mercury,Low,6.74,5.04,22.8,2016,Yes
+Assam,Nagaon,Borewell,Fluoride,High,6.94,7.31,25.8,2020,Yes
+Gujarat,Ahmedabad,Groundwater,Pesticides,Low,7.52,5.38,21.7,2017,No
+Gujarat,Rajkot,Borewell,Nitrate,High,8.14,3.74,15.9,2020,No
+Delhi,Karol Bagh,Groundwater,Lead,Low,5.01,5.43,16.9,2017,Yes
+Karnataka,Bengaluru,Groundwater,Cadmium,Low,5.78,5.36,15.6,2020,No
+Tamil Nadu,Trichy,Groundwater,Fluoride,Low,6.98,4.26,25.0,2016,Yes
+Tamil Nadu,Madurai,Canal,Mercury,Medium,7.2,4.88,15.9,2023,Yes
+Assam,Jorhat,Reservoir,Nitrate,High,7.19,8.25,20.1,2015,No
+Assam,Jorhat,River,Lead,Low,6.15,6.99,23.0,2021,Nan
+Kerala,Thrissur,Borewell,Nitrate,Medium,5.11,9.18,24.8,2020,No
+Uttar Pradesh,Lucknow,Pond,Fluoride,Low,7.91,6.11,22.9,2017,Yes
+Odisha,Rourkela,Pond,Cadmium,Low,8.3,1.05,20.0,2023,Yes
+Karnataka,Bengaluru,Groundwater,Chromium,Low,5.6,6.97,26.1,2023,No
+Bihar,Muzaffarpur,Canal,Mercury,Severe,6.38,5.32,22.6,2018,No
+Tamil Nadu,Chennai,Pond,Sewage,High,8.07,10.05,21.3,2021,No
+West Bengal,Howrah,Groundwater,Lead,Severe,8.22,6.24,33.4,2023,No
+Madhya Pradesh,Gwalior,Reservoir,Chromium,Low,8.19,3.06,21.8,2021,Yes
+Bihar,Darbhanga,Groundwater,Fluoride,Medium,8.97,4.05,19.8,2017,No
+Haryana,Panipat,Lake,Industrial Waste,Medium,7.81,1.25,19.0,2019,Yes
+Madhya Pradesh,Jabalpur,Well,Nitrate,High,6.81,7.67,16.4,2021,No
+Assam,Nagaon,Groundwater,Nan,Low,6.12,4.7,25.9,2021,Yes
+Haryana,Faridabad,River,Pesticides,High,6.14,4.44,21.7,2020,No
+Assam,Jorhat,Well,Industrial Waste,Low,6.67,5.17,11.6,2017,No
+Madhya Pradesh,Indore,River,Sewage,Medium,7.03,5.98,18.4,2015,Yes
+Uttar Pradesh,Lucknow,Lake,Chromium,High,7.55,7.67,23.3,2017,Yes
+Tamil Nadu,Trichy,River,Industrial Waste,Severe,7.31,3.69,23.5,2021,Yes
+Maharashtra,Nagpur,Groundwater,Arsenic,Low,7.24,5.85,28.3,2023,No
+Punjab,Chandigarh,River,Industrial Waste,Low,6.25,5.38,20.4,2015,No
+Maharashtra,Nashik,River,Industrial Waste,Low,6.79,6.75,33.2,2019,Yes
+Assam,Guwahati,Reservoir,Nitrate,Severe,6.96,5.43,29.0,2021,Yes
+Assam,Dibrugarh,Canal,Mercury,Severe,6.52,7.36,16.9,2018,Yes
+Rajasthan,Udaipur,Groundwater,Fluoride,Low,6.9,3.64,24.2,2021,Yes
+Gujarat,Rajkot,Reservoir,Nitrate,Low,7.25,8.18,17.6,2015,No
+Uttar Pradesh,Noida,Reservoir,Pesticides,Severe,6.45,3.96,20.9,2021,No
+Delhi,Karol Bagh,River,Industrial Waste,Medium,6.45,3.63,27.5,2021,Yes
+Madhya Pradesh,Indore,Lake,Fluoride,Low,9.8,1.75,32.6,2024,No
+Karnataka,Mysuru,Reservoir,Mercury,Medium,6.85,6.01,22.8,2021,Yes
+Punjab,Patiala,Pond,Industrial Waste,High,7.98,4.67,23.3,2019,No
+Uttar Pradesh,Kanpur,Groundwater,Arsenic,High,7.59,4.05,25.5,2021,Yes
+Tamil Nadu,Coimbatore,Reservoir,Mercury,High,7.92,10.26,27.0,2022,Yes
+Haryana,Panipat,Pond,Lead,High,7.73,3.97,21.9,2022,No
+Odisha,Cuttack,Well,Cadmium,Low,6.41,4.43,26.4,2024,No
+Karnataka,Hubli,Well,Arsenic,High,6.57,3.24,23.4,2017,Yes
+Haryana,Faridabad,Groundwater,Plastic Waste,High,6.88,6.99,21.8,2024,Yes
+Haryana,Ambala,Groundwater,Pesticides,Severe,4.84,4.28,21.6,2020,Yes
+Karnataka,Mangalore,Nan,Fluoride,High,6.49,4.65,27.6,2019,Yes
+Tamil Nadu,Salem,Well,Industrial Waste,Severe,6.17,5.43,19.1,2017,Yes
+Odisha,Cuttack,Groundwater,Pesticides,Severe,5.98,6.35,19.4,2024,No
+Madhya Pradesh,Jabalpur,Groundwater,Nitrate,High,6.21,6.69,22.1,2024,Yes
+Delhi,Rohini,Lake,Nitrate,Severe,7.23,5.07,24.0,2024,Yes
+Rajasthan,Bikaner,River,Plastic Waste,Low,5.32,4.8,25.0,2022,No
+Kerala,Kochi,River,Arsenic,Medium,7.38,3.76,23.8,2017,Nan
+Tamil Nadu,Madurai,Borewell,Cadmium,Severe,6.62,4.47,25.6,2016,Yes
+Rajasthan,Jaipur,Groundwater,Mercury,Severe,6.25,4.41,21.3,2016,No
+Delhi,Karol Bagh,Reservoir,Mercury,High,8.05,2.86,20.7,2018,No
+Kerala,Thrissur,Groundwater,Arsenic,High,6.84,6.7,24.5,2016,No
+Gujarat,Bhavnagar,Lake,Cadmium,Low,5.86,5.2,24.3,2023,Yes
+Bihar,Bhagalpur,Pond,Arsenic,Low,8.87,7.07,22.4,2021,Yes
+Maharashtra,Nagpur,Borewell,Arsenic,High,8.5,7.33,14.8,2017,No
+Assam,Dibrugarh,Lake,Industrial Waste,Low,5.02,8.0,17.3,2021,No
+West Bengal,Siliguri,Reservoir,Fluoride,High,8.91,0.51,23.1,2015,No
+Odisha,Sambalpur,Borewell,Industrial Waste,High,6.88,4.82,38.0,2021,Yes
+Odisha,Berhampur,Canal,Nitrate,Low,7.48,6.66,15.5,2022,Yes
+Delhi,Saket,Borewell,Cadmium,Severe,6.28,1.77,24.8,2018,Yes
+Kerala,Kollam,Pond,Sewage,Low,7.51,3.61,30.8,2018,No
+Odisha,Sambalpur,Canal,Chromium,Low,6.52,4.38,21.2,2019,No
+Madhya Pradesh,Gwalior,Borewell,Sewage,Medium,5.84,3.54,36.8,2022,Yes
+Tamil Nadu,Chennai,Groundwater,Nitrate,Severe,4.93,2.77,30.8,2017,No
+Maharashtra,Aurangabad,River,Chromium,Severe,7.5,4.18,22.5,2024,Yes
+Maharashtra,Nashik,River,Nitrate,Severe,6.18,4.75,25.7,2017,No
+Odisha,Rourkela,River,Sewage,Low,8.41,4.03,31.7,2020,No
+Bihar,Muzaffarpur,River,Mercury,Severe,7.86,6.43,22.9,2016,Yes
+Odisha,Cuttack,Well,Mercury,High,5.23,6.68,28.1,2015,Yes
+Tamil Nadu,Trichy,River,Mercury,High,6.56,5.06,23.2,2024,Yes
+Odisha,Bhubaneswar,River,Lead,Medium,7.23,5.29,25.1,2015,No
+Rajasthan,Jaipur,Lake,Arsenic,Medium,7.49,5.51,30.1,2020,Yes
+Punjab,Chandigarh,Canal,Mercury,High,6.38,8.42,25.9,2022,Yes
+Uttar Pradesh,Noida,Canal,Plastic Waste,Medium,8.19,5.69,19.5,2022,No
+Haryana,Faridabad,Well,Mercury,Severe,7.2,5.52,24.5,2024,No
+Odisha,Bhubaneswar,Reservoir,Industrial Waste,High,5.51,4.56,20.3,2023,No
+Haryana,Panipat,Groundwater,Mercury,Medium,8.47,7.86,18.5,2020,No
+Odisha,Cuttack,Pond,Arsenic,Low,7.91,3.98,24.2,2021,Yes
+West Bengal,Durgapur,Lake,Fluoride,Severe,6.05,3.75,21.7,2024,No
+Punjab,Patiala,River,Sewage,Medium,6.91,8.1,20.7,2016,No
+Gujarat,Ahmedabad,Reservoir,Arsenic,Medium,7.75,1.91,25.9,2016,No
+Bihar,Darbhanga,Reservoir,Fluoride,Severe,6.5,4.94,22.3,2018,No
+Assam,Nagaon,Canal,Pesticides,Severe,5.01,7.11,30.4,2024,Yes
+Madhya Pradesh,Jabalpur,River,Industrial Waste,Low,7.27,5.43,15.3,2021,Yes
+Rajasthan,Kota,Reservoir,Mercury,Severe,5.36,6.87,23.5,2024,Yes
+Madhya Pradesh,Gwalior,Well,Nan,Medium,6.76,4.96,26.7,2020,No
+West Bengal,Howrah,Pond,Nitrate,High,7.63,4.57,18.9,2021,Yes
+Tamil Nadu,Chennai,River,Nitrate,High,6.55,5.35,25.7,2024,Yes
+Karnataka,Hubli,Groundwater,Cadmium,Medium,7.07,6.22,25.0,2022,No
+West Bengal,Nan,Groundwater,Cadmium,High,6.4,4.18,29.5,2021,No
+Tamil Nadu,Trichy,Lake,Pesticides,Severe,6.59,5.11,23.5,2022,No
+Assam,Dibrugarh,River,Pesticides,Severe,7.99,6.36,24.0,2017,Yes
+Nan,Ujjain,Borewell,Sewage,Low,7.5,7.45,29.3,2024,Yes
+Bihar,Muzaffarpur,Canal,Plastic Waste,High,8.32,5.45,37.0,2016,Yes
+Bihar,Patna,River,Fluoride,High,8.62,6.65,21.1,2016,Yes
+Kerala,Kozhikode,Groundwater,Lead,Low,6.98,7.66,18.5,2016,No
+Odisha,Berhampur,River,Pesticides,Low,7.94,4.54,30.6,2024,No
+Gujarat,Ahmedabad,Pond,Chromium,Low,6.7,6.12,31.8,2020,No
+West Bengal,Howrah,Borewell,Lead,Low,4.5,5.88,21.6,2022,No
+Bihar,Gaya,Reservoir,Fluoride,Low,7.62,3.99,24.3,2017,No
+Gujarat,Vadodara,Pond,Lead,Medium,5.94,7.29,20.5,2019,Yes
+Uttar Pradesh,Noida,Reservoir,Pesticides,High,7.05,5.98,31.6,2021,Yes
+Gujarat,Vadodara,Lake,Nitrate,Medium,7.92,5.95,29.2,2021,Yes
+West Bengal,Siliguri,Groundwater,Chromium,Low,7.29,2.25,12.0,2018,Yes
+Kerala,Kozhikode,Well,Plastic Waste,High,4.98,4.41,25.1,2017,No
+Bihar,Muzaffarpur,Groundwater,Lead,High,6.77,4.88,26.4,2024,Yes
+Karnataka,Hubli,Canal,Chromium,High,7.46,7.36,20.7,2023,No
+Rajasthan,Kota,Reservoir,Lead,High,7.73,7.05,21.1,2015,Yes
+Kerala,Kochi,Well,Fluoride,Medium,6.51,8.96,20.1,2023,Yes
+Punjab,Patiala,River,Lead,High,7.11,4.66,19.0,2022,Yes
+Assam,Nagaon,Reservoir,Sewage,Low,6.3,5.03,32.0,2016,No
+Assam,Dibrugarh,Reservoir,Arsenic,Low,6.84,4.33,30.6,2021,Yes
+Odisha,Cuttack,Reservoir,Cadmium,Severe,6.56,1.88,17.4,2018,No
+Delhi,Karol Bagh,Groundwater,Arsenic,Medium,8.95,2.94,14.7,2023,Yes
+Kerala,Thrissur,River,Nitrate,Severe,6.48,6.22,17.4,2017,Yes
+Haryana,Panipat,Borewell,Mercury,Medium,5.46,7.94,23.4,2021,Yes
+Madhya Pradesh,Bhopal,River,Nitrate,Medium,5.58,4.03,26.0,2024,Yes
+Kerala,Kochi,River,Nitrate,Low,6.83,6.08,18.3,2021,No
+Karnataka,Mysuru,Groundwater,Nitrate,Low,6.8,7.42,31.3,2018,Yes
+Punjab,Patiala,Lake,Industrial Waste,Low,6.56,2.82,18.4,2019,No
+Kerala,Kollam,Borewell,Cadmium,Low,7.57,4.65,20.1,2015,No
+Rajasthan,Jaipur,Borewell,Nitrate,Medium,7.27,8.5,13.4,2019,Yes
+Punjab,Ludhiana,Pond,Nitrate,Severe,5.8,6.8,30.5,2020,Yes
+Kerala,Kochi,Reservoir,Pesticides,Severe,7.7,3.86,23.9,2021,No
+Karnataka,Hubli,Canal,Pesticides,Medium,6.28,4.8,21.9,2015,No
+Assam,Dibrugarh,Pond,Fluoride,Low,6.32,5.9,14.3,2023,Yes
+Madhya Pradesh,Bhopal,Pond,Industrial Waste,Medium,7.69,4.55,24.0,2020,No
+Delhi,Saket,Reservoir,Industrial Waste,High,7.6,4.02,18.8,2024,No
+Odisha,Bhubaneswar,River,Industrial Waste,Severe,6.44,8.76,27.5,2023,No
+Tamil Nadu,Salem,Well,Lead,Severe,7.52,6.09,25.0,2021,Yes
+Tamil Nadu,Salem,Canal,Cadmium,Low,6.73,6.75,22.3,2022,Yes
+Delhi,Karol Bagh,Well,Pesticides,Low,7.3,8.08,29.4,2016,No
+Assam,Guwahati,Pond,Nitrate,High,7.3,6.69,34.1,2017,No
+Gujarat,Ahmedabad,River,Lead,Low,6.95,5.79,27.3,2022,No
+Tamil Nadu,Madurai,Well,Plastic Waste,Medium,6.94,2.77,22.2,2024,No
+Punjab,Amritsar,Reservoir,Sewage,Medium,6.87,1.24,25.8,2016,Yes
+Uttar Pradesh,Agra,Pond,Pesticides,High,7.59,3.75,27.9,2019,No
+Madhya Pradesh,Bhopal,River,Plastic Waste,Low,5.93,7.17,23.5,2023,No
+Kerala,Thiruvananthapuram,Groundwater,Plastic Waste,High,7.34,7.3,29.9,2023,Yes
+Uttar Pradesh,Kanpur,Groundwater,Arsenic,Low,6.67,4.79,19.4,2023,Yes
+Maharashtra,Aurangabad,Well,Cadmium,Severe,7.53,5.93,26.4,2024,Yes
+Rajasthan,Kota,Borewell,Sewage,High,7.77,5.28,27.0,2021,Yes
+Maharashtra,Nashik,Reservoir,Industrial Waste,High,7.71,3.86,31.0,2023,No
+Punjab,Jalandhar,Pond,Arsenic,Low,5.39,4.98,25.2,2016,No
+Kerala,Kollam,Lake,Fluoride,Medium,6.28,6.26,30.4,2017,No
+Delhi,Karol Bagh,Groundwater,Lead,Severe,7.55,6.51,24.2,2020,Yes
+Maharashtra,Aurangabad,Groundwater,Sewage,Severe,8.03,5.77,27.6,2019,No
+Punjab,Jalandhar,Well,Plastic Waste,Severe,6.67,6.84,23.5,2017,Yes
+Uttar Pradesh,Noida,Well,Cadmium,Low,7.36,3.23,28.6,2022,Yes
+Punjab,Chandigarh,Canal,Mercury,Severe,7.65,4.37,30.4,2019,Yes
+Kerala,Kollam,River,Mercury,Severe,6.26,3.59,20.4,2015,No
+Maharashtra,Nan,Groundwater,Mercury,High,5.33,6.59,25.5,2015,No
+Gujarat,Surat,River,Pesticides,Medium,7.64,2.39,30.7,2023,No
+Punjab,Patiala,Pond,Chromium,Severe,5.69,8.43,25.9,2016,Yes
+Gujarat,Surat,Groundwater,Nan,High,6.99,4.72,19.8,2016,Yes
+Gujarat,Bhavnagar,Reservoir,Nitrate,High,7.09,7.24,20.5,2015,Yes
+Madhya Pradesh,Indore,River,Cadmium,Severe,6.99,5.43,21.4,2018,Yes
+Madhya Pradesh,Jabalpur,Groundwater,Mercury,High,6.57,3.95,27.5,2022,No
+Uttar Pradesh,Agra,Canal,Plastic Waste,High,6.82,7.01,18.7,2021,Yes
+Kerala,Thrissur,Nan,Nitrate,Medium,6.64,11.0,27.4,2019,Yes
+Kerala,Kozhikode,Reservoir,Plastic Waste,Severe,8.43,4.58,19.1,2016,No
+Assam,Jorhat,River,Plastic Waste,High,8.35,4.94,29.2,2019,Yes
+Uttar Pradesh,Noida,Pond,Cadmium,High,7.09,6.11,19.0,2022,Yes
+Delhi,Rohini,River,Cadmium,High,7.56,5.0,23.2,2021,No
+Odisha,Nan,Well,Industrial Waste,Medium,7.29,4.9,23.5,2016,No
+Punjab,Amritsar,Canal,Chromium,Medium,8.15,6.53,24.5,2020,No
+Punjab,Ludhiana,Reservoir,Arsenic,Low,5.99,5.04,21.3,2017,Yes
+Uttar Pradesh,Nan,Well,Pesticides,Severe,6.28,4.59,20.0,2016,Yes
+Assam,Guwahati,River,Mercury,Severe,8.08,7.11,17.1,2021,Yes
+Karnataka,Mangalore,Groundwater,Mercury,High,6.21,5.3,21.7,2016,No
+Maharashtra,Nashik,Lake,Cadmium,Low,7.23,6.91,17.8,2020,Yes
+Uttar Pradesh,Agra,River,Arsenic,Medium,6.89,5.6,29.5,2019,No
+Uttar Pradesh,Agra,Pond,Chromium,Low,5.95,4.76,24.2,2015,Yes
+Delhi,Nan,Well,Nitrate,Severe,7.49,7.02,26.6,2015,Yes
+Uttar Pradesh,Kanpur,Reservoir,Pesticides,High,6.76,6.72,22.5,2016,No
+Kerala,Kochi,Pond,Fluoride,High,5.92,9.04,24.2,2021,No
+Karnataka,Bengaluru,Borewell,Sewage,Severe,7.17,7.86,23.6,2024,Yes
+Karnataka,Bengaluru,Groundwater,Lead,Medium,7.01,3.75,27.2,2024,No
+Maharashtra,Aurangabad,Groundwater,Lead,Severe,6.99,2.67,19.1,2024,Yes
+Madhya Pradesh,Indore,Pond,Chromium,High,6.45,5.75,31.9,2016,Yes
+Assam,Silchar,River,Nitrate,High,7.3,7.1,24.0,2021,No
+Gujarat,Vadodara,Borewell,Arsenic,Medium,4.73,5.23,29.3,2017,No
+Karnataka,Belgaum,Reservoir,Lead,High,7.54,4.79,18.9,2019,No
+Gujarat,Surat,River,Plastic Waste,Severe,7.1,5.21,27.4,2020,No
+West Bengal,Siliguri,Pond,Pesticides,High,7.13,4.99,23.5,2021,Nan
+Haryana,Faridabad,Well,Arsenic,High,6.99,8.11,31.6,2016,Yes
+Delhi,New Delhi,Groundwater,Chromium,Medium,6.37,4.76,21.4,2019,Yes
+Maharashtra,Aurangabad,Reservoir,Nitrate,High,6.82,6.42,30.4,2015,Yes
+Kerala,Kollam,Reservoir,Pesticides,High,7.22,1.75,26.8,2019,Yes
+Delhi,Saket,Lake,Chromium,High,6.93,4.96,19.0,2018,Yes
+Karnataka,Mysuru,Canal,Plastic Waste,High,7.08,5.47,36.9,2017,Yes
+Bihar,Darbhanga,Groundwater,Nitrate,Severe,6.51,4.22,24.5,2024,Yes
+Madhya Pradesh,Gwalior,Canal,Lead,Severe,6.3,3.5,32.8,2021,Yes
+Delhi,New Delhi,Groundwater,Arsenic,High,6.68,9.37,23.5,2019,No
+Delhi,Saket,Borewell,Lead,Severe,6.25,4.16,22.9,2020,Yes
+Rajasthan,Udaipur,Borewell,Cadmium,Medium,6.42,6.69,29.1,2017,Yes
+Gujarat,Vadodara,Canal,Industrial Waste,Severe,7.57,4.24,32.4,2019,Yes
+Haryana,Panipat,Reservoir,Arsenic,Severe,6.68,3.3,29.9,2017,No
+Punjab,Amritsar,Borewell,Plastic Waste,Medium,7.31,6.39,34.3,2021,Yes
+Uttar Pradesh,Noida,Lake,Pesticides,High,6.58,6.86,17.0,2021,Yes
+Madhya Pradesh,Indore,Borewell,Lead,Medium,7.38,5.39,15.5,2016,Yes
+Karnataka,Mysuru,Pond,Arsenic,Low,6.23,4.3,19.1,2023,No
+Odisha,Cuttack,River,Pesticides,Low,5.64,1.96,21.1,2017,Yes
+Delhi,Karol Bagh,Reservoir,Fluoride,Medium,7.12,5.7,27.6,2017,No
+Maharashtra,Mumbai,River,Industrial Waste,Medium,7.13,1.96,18.4,2017,No
+Odisha,Sambalpur,Canal,Cadmium,Medium,6.07,6.28,20.2,2020,No
+Gujarat,Vadodara,River,Chromium,Medium,6.03,4.77,24.4,2018,No
+Kerala,Kochi,Groundwater,Nitrate,Low,7.43,5.02,28.2,2021,No
+Madhya Pradesh,Gwalior,Well,Mercury,Medium,6.59,5.5,27.0,2015,Yes
+Haryana,Panipat,Groundwater,Industrial Waste,Low,8.58,4.84,19.8,2018,No
+Punjab,Jalandhar,Canal,Mercury,High,8.21,8.1,25.5,2018,No
+Haryana,Faridabad,Canal,Cadmium,High,6.9,3.16,25.2,2019,Yes
+Uttar Pradesh,Noida,Pond,Industrial Waste,Low,8.22,5.14,25.2,2023,Yes
+Rajasthan,Kota,Pond,Industrial Waste,Low,8.55,4.12,21.0,2015,Yes
+Uttar Pradesh,Varanasi,Well,Nitrate,Low,7.31,2.33,25.6,2015,Yes
+Uttar Pradesh,Noida,Borewell,Plastic Waste,Severe,7.5,5.93,17.9,2017,No
+Odisha,Berhampur,Well,Sewage,Medium,8.16,5.53,17.8,2023,Yes
+Tamil Nadu,Salem,Well,Chromium,High,7.31,10.02,14.8,2021,No
+Uttar Pradesh,Varanasi,Well,Lead,Severe,6.82,7.54,27.0,2021,No
+Punjab,Amritsar,Borewell,Lead,Medium,7.32,5.65,23.8,2016,No
+Maharashtra,Aurangabad,Well,Industrial Waste,Low,6.03,5.18,26.0,2024,No
+Maharashtra,Pune,Lake,Industrial Waste,Medium,8.28,5.33,19.6,2016,Yes
+Odisha,Berhampur,Lake,Chromium,High,7.5,5.9,30.8,2015,No
+Rajasthan,Jodhpur,Canal,Industrial Waste,Severe,7.9,4.29,31.0,2021,Yes
+Tamil Nadu,Coimbatore,River,Mercury,Severe,6.99,7.46,33.4,2016,No
+Delhi,New Delhi,Borewell,Arsenic,Severe,7.56,4.36,18.1,2019,No
+Odisha,Sambalpur,Groundwater,Fluoride,Low,7.15,6.5,18.1,2015,Yes
+Rajasthan,Bikaner,Groundwater,Plastic Waste,Severe,6.28,7.44,24.1,2018,Yes
+Bihar,Gaya,Pond,Arsenic,Medium,6.06,8.54,25.2,2018,No
+Karnataka,Belgaum,Well,Lead,Low,8.54,3.03,15.9,2015,No
+West Bengal,Kolkata,Canal,Plastic Waste,Medium,6.69,6.27,24.4,2018,Yes
+Uttar Pradesh,Varanasi,Groundwater,Mercury,High,7.59,3.45,23.0,2017,Yes
+West Bengal,Siliguri,Lake,Cadmium,High,6.86,4.51,24.8,2024,No
+Assam,Dibrugarh,Pond,Pesticides,Nan,6.01,6.73,26.0,2024,Yes
+Haryana,Gurugram,Well,Pesticides,Severe,5.4,7.77,19.5,2022,Yes
+Madhya Pradesh,Indore,Pond,Fluoride,High,7.44,8.75,23.0,2021,No
+Assam,Jorhat,Lake,Plastic Waste,Low,6.23,6.7,35.0,2016,Yes
+Madhya Pradesh,Indore,River,Mercury,Severe,5.9,6.58,27.5,2024,Yes
+Uttar Pradesh,Kanpur,Borewell,Mercury,High,7.48,7.71,20.8,2022,Yes
+Rajasthan,Udaipur,Borewell,Arsenic,High,6.18,4.46,27.8,2023,Yes
+Uttar Pradesh,Kanpur,Nan,Chromium,High,6.01,6.98,24.9,2023,No
+Haryana,Ambala,Reservoir,Nitrate,Severe,7.85,4.11,26.0,2018,No
+Haryana,Ambala,Reservoir,Nitrate,Severe,5.06,7.08,16.2,2015,No
+Rajasthan,Jaipur,Borewell,Plastic Waste,Low,4.72,4.99,29.5,2019,No
+Bihar,Gaya,Borewell,Pesticides,Nan,6.41,4.62,21.0,2020,No
+Uttar Pradesh,Kanpur,Reservoir,Mercury,Medium,7.76,7.07,19.2,2018,No
+Assam,Guwahati,Well,Plastic Waste,Low,5.93,4.78,26.7,2016,Yes
+Assam,Nagaon,River,Sewage,High,5.89,8.0,17.2,2019,No
+Karnataka,Belgaum,River,Industrial Waste,Low,7.24,7.1,24.4,2018,Yes
+Madhya Pradesh,Indore,Groundwater,Arsenic,Low,6.0,5.97,25.1,2016,Yes
+Tamil Nadu,Madurai,Borewell,Sewage,Low,6.47,5.2,24.4,2024,No
+Uttar Pradesh,Noida,Reservoir,Industrial Waste,Severe,8.35,4.99,14.1,2019,Yes
+Maharashtra,Aurangabad,Borewell,Chromium,High,6.66,6.29,24.9,2017,No
+Assam,Guwahati,Well,Cadmium,Severe,5.88,6.59,29.5,2021,Yes
+Odisha,Berhampur,Lake,Fluoride,Medium,6.27,5.1,18.8,2017,No
+Maharashtra,Nagpur,Lake,Fluoride,Low,6.3,7.04,25.2,2024,Yes
+Kerala,Kochi,Reservoir,Sewage,Severe,7.52,8.04,20.9,2021,Yes
+Delhi,Dwarka,Lake,Industrial Waste,High,6.83,6.04,23.8,2019,No
+Odisha,Cuttack,Borewell,Cadmium,Low,6.6,5.85,29.4,2016,No
+Delhi,Saket,River,Sewage,High,6.18,2.96,31.3,2019,Yes
+Bihar,Darbhanga,River,Nitrate,High,6.53,1.62,29.5,2021,Yes
+Gujarat,Rajkot,Well,Nitrate,Low,6.73,7.86,25.6,2017,No
+Gujarat,Vadodara,Borewell,Lead,Medium,6.42,4.06,21.6,2024,Yes
+Tamil Nadu,Salem,Well,Industrial Waste,Medium,7.9,0.63,27.4,2017,No
+Punjab,Jalandhar,Well,Fluoride,Medium,6.33,5.29,33.5,2020,Yes
+Punjab,Chandigarh,Groundwater,Mercury,Medium,7.45,6.64,26.0,2017,No
+Bihar,Gaya,Canal,Industrial Waste,Severe,6.99,6.59,20.2,2024,No
+Assam,Jorhat,Well,Chromium,Severe,6.61,9.43,22.8,2024,Yes
+Bihar,Patna,Pond,Arsenic,Low,7.17,6.16,23.8,2020,No
+Gujarat,Bhavnagar,River,Lead,Severe,6.96,5.94,22.8,2024,Yes
+Delhi,Rohini,Pond,Pesticides,Severe,6.18,8.53,28.2,2023,Yes
+Kerala,Thiruvananthapuram,Pond,Plastic Waste,Medium,7.18,7.36,24.2,2022,No
+Uttar Pradesh,Lucknow,Well,Mercury,Severe,6.04,6.27,23.1,2023,Yes
+West Bengal,Durgapur,Reservoir,Lead,Low,7.04,7.37,25.7,2015,Yes
+West Bengal,Durgapur,Well,Industrial Waste,High,9.63,5.17,18.3,2016,No
+West Bengal,Siliguri,Borewell,Fluoride,Low,8.01,5.91,22.4,2020,No
+Kerala,Thrissur,Reservoir,Pesticides,Severe,7.14,3.66,20.8,2019,No
+West Bengal,Asansol,Pond,Cadmium,High,7.19,4.15,22.4,2023,No
+Maharashtra,Nashik,Well,Industrial Waste,Medium,8.45,5.46,25.4,2020,No
+Gujarat,Rajkot,Pond,Cadmium,Medium,6.7,6.82,25.7,2023,No
+Bihar,Bhagalpur,Borewell,Cadmium,Medium,6.6,5.92,27.0,2020,Yes
+Odisha,Sambalpur,Well,Arsenic,Low,6.99,4.57,25.1,2024,No
+Uttar Pradesh,Kanpur,Borewell,Fluoride,Low,8.0,5.28,13.1,2023,Yes
+Tamil Nadu,Madurai,Reservoir,Nan,Low,5.9,6.34,18.1,2019,No
+Haryana,Faridabad,Pond,Plastic Waste,Low,6.78,1.36,19.9,2024,No
+Rajasthan,Udaipur,Reservoir,Pesticides,Low,7.43,5.1,27.6,2020,Yes
+West Bengal,Asansol,Canal,Sewage,High,7.47,6.08,24.8,2023,No
+Kerala,Kollam,Pond,Chromium,High,8.5,4.28,20.9,2016,Yes
+Bihar,Patna,Borewell,Pesticides,Nan,5.89,1.76,23.6,2022,Yes
+Delhi,Rohini,Canal,Sewage,High,6.94,7.52,22.3,2024,Yes
+Madhya Pradesh,Gwalior,Nan,Plastic Waste,Severe,6.36,5.3,19.5,2016,Yes
+Punjab,Patiala,Reservoir,Sewage,Low,7.22,6.35,24.2,2021,Yes
+Gujarat,Vadodara,Reservoir,Mercury,High,7.54,4.03,34.5,2022,No
+Madhya Pradesh,Ujjain,River,Lead,High,7.11,4.81,17.7,2018,Yes
+Kerala,Thiruvananthapuram,Reservoir,Nitrate,Severe,5.88,5.61,25.4,2020,Yes
+Delhi,Rohini,Canal,Chromium,Low,7.96,5.45,19.6,2018,No
+Gujarat,Bhavnagar,Canal,Pesticides,Medium,8.39,4.62,18.4,2023,Nan
+Bihar,Bhagalpur,Reservoir,Lead,High,8.5,6.05,26.9,2020,Yes
+Karnataka,Mangalore,River,Fluoride,High,8.74,5.74,23.5,2020,Yes
+Delhi,New Delhi,River,Sewage,Low,6.75,7.82,26.1,2021,No
+West Bengal,Durgapur,Well,Chromium,Low,8.08,4.61,14.6,2015,No
+Delhi,Rohini,Well,Sewage,High,7.62,7.46,27.5,2019,No
+Tamil Nadu,Salem,Pond,Arsenic,Medium,6.08,5.61,24.5,2015,No
+Haryana,Ambala,Pond,Lead,Medium,7.88,6.44,18.5,2018,Yes
+Madhya Pradesh,Jabalpur,Lake,Sewage,High,7.64,9.68,21.4,2024,Yes
+West Bengal,Durgapur,Pond,Industrial Waste,Severe,7.24,4.09,21.6,2018,Yes
+Gujarat,Ahmedabad,Groundwater,Pesticides,Medium,6.01,7.75,24.8,2015,No
+Rajasthan,Bikaner,River,Cadmium,Medium,6.84,5.72,26.8,2015,Yes
+Maharashtra,Aurangabad,Well,Fluoride,Severe,6.91,8.7,16.6,2017,Yes
+Haryana,Panipat,River,Chromium,Medium,7.77,4.61,25.4,2015,No
+Haryana,Karnal,Nan,Cadmium,Medium,7.4,6.89,19.4,2015,No
+Assam,Jorhat,River,Nan,High,7.06,5.73,35.5,2017,No
+Delhi,New Delhi,Well,Industrial Waste,Medium,7.45,6.7,26.1,2019,Yes
+West Bengal,Durgapur,Reservoir,Cadmium,High,6.12,5.79,30.6,2020,Yes
+Delhi,Saket,River,Sewage,Medium,7.16,8.07,16.6,2023,No
+Tamil Nadu,Madurai,Borewell,Sewage,High,7.02,6.48,18.1,2024,No
+Kerala,Kollam,River,Plastic Waste,High,8.07,3.76,21.9,2020,No
+Rajasthan,Jaipur,River,Industrial Waste,Severe,8.71,7.34,32.2,2016,Yes
+Gujarat,Bhavnagar,Borewell,Cadmium,Low,7.4,7.78,23.9,2015,Yes
+West Bengal,Kolkata,Reservoir,Lead,High,6.7,5.5,22.6,2017,No
+Madhya Pradesh,Bhopal,Groundwater,Mercury,Low,8.1,3.32,32.4,2015,Yes
+Gujarat,Rajkot,Borewell,Industrial Waste,Severe,7.18,4.41,22.0,2015,Yes
+Gujarat,Rajkot,Pond,Arsenic,Severe,8.03,6.03,30.3,2022,No
+Haryana,Panipat,River,Fluoride,Medium,5.28,5.34,35.1,2019,Yes
+Kerala,Kozhikode,Groundwater,Fluoride,Severe,6.74,7.64,29.1,2017,No
+Rajasthan,Udaipur,Pond,Lead,Severe,7.35,3.94,26.7,2024,Yes
+Delhi,Saket,Well,Sewage,High,5.84,2.99,21.1,2015,No
+Uttar Pradesh,Kanpur,Lake,Lead,Severe,7.39,4.79,26.7,2020,Yes
+Gujarat,Rajkot,Pond,Chromium,High,7.15,3.01,21.6,2023,Yes
+Bihar,Patna,Pond,Plastic Waste,Severe,6.99,7.64,27.4,2022,No
+Haryana,Faridabad,Well,Chromium,Low,7.98,6.35,23.9,2024,Yes
+Odisha,Bhubaneswar,Reservoir,Sewage,Low,6.75,3.2,26.6,2017,No
+Madhya Pradesh,Jabalpur,Pond,Plastic Waste,Severe,6.53,11.0,30.8,2019,No
+Gujarat,Bhavnagar,Lake,Industrial Waste,Low,5.78,5.9,26.8,2016,No
+Bihar,Darbhanga,Pond,Mercury,Medium,8.57,7.37,20.3,2023,Yes
+Tamil Nadu,Salem,Lake,Nan,Severe,6.58,5.33,24.2,2024,Yes
+Haryana,Ambala,Pond,Lead,Low,6.13,4.78,30.2,2016,No
+Gujarat,Ahmedabad,Pond,Chromium,Severe,7.11,8.23,25.9,2018,Yes
+Uttar Pradesh,Agra,Canal,Chromium,Severe,7.81,5.09,31.2,2016,No
+Kerala,Thiruvananthapuram,Pond,Industrial Waste,Medium,7.58,4.27,24.2,2018,No
+West Bengal,Durgapur,Groundwater,Fluoride,Medium,6.8,5.24,24.7,2021,No
+West Bengal,Durgapur,River,Plastic Waste,High,7.48,7.68,15.1,2022,Yes
+Maharashtra,Mumbai,Lake,Sewage,Medium,5.18,0.5,28.1,2020,Yes
+Bihar,Bhagalpur,Lake,Industrial Waste,High,7.35,7.11,27.2,2015,Yes
+Gujarat,Bhavnagar,Lake,Pesticides,Severe,6.99,3.25,32.2,2017,No
+Delhi,Karol Bagh,Borewell,Sewage,High,7.08,8.04,26.0,2021,No
+Haryana,Faridabad,Well,Nitrate,Medium,6.42,4.67,18.9,2017,No
+Rajasthan,Bikaner,Canal,Sewage,Severe,7.77,6.37,19.8,2021,Yes
+Madhya Pradesh,Gwalior,Lake,Chromium,Medium,5.39,4.38,26.9,2017,No
+Haryana,Gurugram,Canal,Fluoride,Severe,7.71,4.49,9.8,2015,No
+Gujarat,Surat,Lake,Fluoride,Low,5.99,3.54,26.8,2019,No
+Punjab,Amritsar,River,Pesticides,Severe,6.51,4.59,16.4,2019,Yes
+West Bengal,Asansol,Well,Lead,Low,7.41,6.53,26.2,2023,Yes
+Assam,Silchar,Reservoir,Fluoride,Medium,6.28,8.19,22.6,2021,Yes
+West Bengal,Asansol,Groundwater,Pesticides,Medium,5.87,4.5,17.0,2018,Yes
+Tamil Nadu,Coimbatore,Borewell,Nitrate,Medium,8.53,7.43,25.0,2018,No
+Kerala,Kochi,Pond,Mercury,Medium,7.65,5.08,31.3,2016,Yes
+Tamil Nadu,Salem,Canal,Fluoride,Medium,5.75,5.78,18.5,2017,No
+Madhya Pradesh,Indore,Groundwater,Mercury,Severe,6.55,6.48,22.8,2017,No
+Odisha,Berhampur,Reservoir,Chromium,Low,6.34,10.4,28.2,2017,No
+Uttar Pradesh,Lucknow,Pond,Fluoride,Low,7.3,4.15,31.8,2018,No
+Uttar Pradesh,Lucknow,Reservoir,Cadmium,Low,7.79,5.49,31.4,2015,Yes
+Punjab,Ludhiana,Reservoir,Pesticides,Severe,8.06,9.72,28.4,2019,No
+Delhi,Saket,Groundwater,Industrial Waste,Low,6.01,7.28,22.1,2019,No
+Tamil Nadu,Chennai,Borewell,Arsenic,High,6.94,6.28,27.7,2023,No
+Assam,Guwahati,Borewell,Arsenic,Medium,7.4,7.21,18.9,2020,No
+Maharashtra,Aurangabad,Pond,Nitrate,Medium,4.99,1.68,21.0,2022,Yes
+Maharashtra,Pune,Well,Plastic Waste,High,6.13,4.53,21.7,2016,Yes
+Rajasthan,Kota,Reservoir,Nitrate,Low,6.82,6.24,21.0,2016,No
+Madhya Pradesh,Indore,Pond,Lead,Severe,7.16,4.39,15.9,2015,No
+Uttar Pradesh,Agra,River,Cadmium,Low,6.47,3.82,23.1,2021,Yes
+Rajasthan,Jaipur,Lake,Chromium,High,6.99,6.76,17.3,2024,Yes
+Karnataka,Belgaum,Groundwater,Nitrate,Medium,5.2,5.23,20.7,2017,Yes
+West Bengal,Kolkata,Groundwater,Cadmium,Low,6.55,7.26,26.6,2023,Yes
+Tamil Nadu,Chennai,Reservoir,Pesticides,High,7.24,4.49,26.3,2020,No
+Odisha,Berhampur,Groundwater,Nitrate,High,7.08,5.14,23.2,2016,No
+Tamil Nadu,Salem,River,Chromium,Low,6.39,7.22,10.4,2024,No
+Maharashtra,Nashik,Pond,Nitrate,Severe,5.16,5.1,17.3,2019,No
+Bihar,Patna,Well,Pesticides,Severe,5.99,2.74,30.4,2024,No
+Bihar,Patna,Groundwater,Pesticides,Low,7.78,4.64,32.4,2021,Yes
+Tamil Nadu,Salem,Pond,Arsenic,High,8.06,6.23,19.2,2023,No
+Haryana,Gurugram,Well,Arsenic,Severe,7.37,8.39,22.6,2018,No
+Rajasthan,Jaipur,River,Lead,Low,7.27,6.62,18.3,2015,Yes
+Assam,Guwahati,Reservoir,Nitrate,High,4.76,7.8,25.7,2019,Yes
+Rajasthan,Bikaner,Reservoir,Lead,High,8.99,3.07,22.4,2015,No
+West Bengal,Durgapur,Reservoir,Pesticides,Medium,6.99,5.36,22.6,2023,No
+Haryana,Ambala,Well,Fluoride,Low,6.99,6.05,33.1,2022,No
+Karnataka,Mangalore,Groundwater,Cadmium,High,6.41,7.78,21.5,2018,No
+Delhi,Rohini,Reservoir,Fluoride,High,6.11,3.67,17.1,2024,No
+Tamil Nadu,Madurai,Lake,Fluoride,Low,7.56,3.58,23.3,2016,No
+Madhya Pradesh,Gwalior,Well,Mercury,Medium,6.95,6.4,21.3,2017,No
+Gujarat,Vadodara,Reservoir,Chromium,Severe,8.2,5.35,25.5,2019,No
+Rajasthan,Bikaner,Pond,Pesticides,Severe,6.94,3.36,29.3,2021,Yes
+Haryana,Faridabad,Pond,Lead,Severe,7.77,5.64,29.7,2023,No
+Haryana,Ambala,Canal,Sewage,Medium,6.24,2.36,24.8,2020,No
+Odisha,Rourkela,Borewell,Lead,Severe,5.83,6.71,25.8,2017,Yes
+Maharashtra,Nashik,Groundwater,Chromium,Low,8.95,4.95,25.1,2024,No
+Rajasthan,Bikaner,Borewell,Pesticides,Low,6.36,4.98,20.1,2017,Yes
+Haryana,Faridabad,Lake,Chromium,Severe,7.63,4.0,25.5,2021,No
+Madhya Pradesh,Indore,Reservoir,Fluoride,High,5.89,5.7,30.6,2023,Yes
+Karnataka,Mysuru,Reservoir,Lead,High,7.27,5.5,24.7,2019,Yes
+Karnataka,Mysuru,River,Chromium,Low,6.16,3.03,29.9,2015,Yes
+Madhya Pradesh,Bhopal,Well,Chromium,High,7.77,6.22,26.0,2022,No
+Karnataka,Hubli,Groundwater,Arsenic,High,7.17,5.21,21.2,2018,Yes
+Odisha,Cuttack,Canal,Mercury,Low,7.93,4.58,22.7,2022,Yes
+Kerala,Thiruvananthapuram,Reservoir,Sewage,Medium,6.77,7.45,23.4,2021,Yes
+Delhi,Dwarka,River,Fluoride,Medium,7.51,7.46,25.7,2024,No
+Delhi,Rohini,River,Chromium,Low,6.35,7.11,22.5,2024,No
+Gujarat,Rajkot,Lake,Mercury,Low,6.3,6.82,21.2,2022,No
+Tamil Nadu,Coimbatore,Well,Cadmium,High,7.02,6.06,32.5,2024,No
+Rajasthan,Jaipur,Borewell,Pesticides,Low,7.62,8.14,18.4,2020,No
+Maharashtra,Mumbai,Canal,Sewage,Medium,7.63,4.57,23.6,2015,Yes
+Delhi,Karol Bagh,Lake,Nitrate,Low,6.45,4.22,28.9,2023,No
+Gujarat,Bhavnagar,Well,Chromium,High,7.38,3.95,30.4,2019,Yes
+Assam,Nagaon,River,Pesticides,Medium,7.45,7.51,31.2,2016,No
+Delhi,Rohini,Borewell,Cadmium,Medium,6.1,5.87,24.3,2019,Yes
+Madhya Pradesh,Indore,Lake,Chromium,Low,7.0,6.91,20.0,2023,Yes
+Tamil Nadu,Salem,Canal,Cadmium,Severe,6.9,3.87,20.3,2022,Nan
+Tamil Nadu,Salem,River,Arsenic,Severe,7.74,8.53,26.0,2023,No
+Tamil Nadu,Coimbatore,Reservoir,Chromium,High,7.84,5.18,24.4,2016,Yes
+West Bengal,Howrah,Reservoir,Lead,High,8.28,6.57,20.5,2019,No
+Rajasthan,Bikaner,Canal,Pesticides,Medium,6.75,4.89,26.5,2021,Yes
+Bihar,Gaya,Lake,Arsenic,Medium,6.88,6.56,23.5,2024,No
+Karnataka,Mangalore,Well,Fluoride,High,7.67,8.52,25.7,2016,Yes
+Gujarat,Surat,Pond,Sewage,Medium,7.83,4.67,18.6,2024,Yes
+Bihar,Patna,Reservoir,Pesticides,Low,7.13,5.54,22.2,2024,Yes
+Madhya Pradesh,Ujjain,Reservoir,Nitrate,Medium,6.26,4.64,28.4,2020,Yes
+Rajasthan,Jodhpur,Reservoir,Pesticides,Low,7.56,6.77,34.8,2021,No
+Bihar,Darbhanga,Reservoir,Lead,High,7.28,11.0,29.6,2023,No
+Uttar Pradesh,Kanpur,Canal,Chromium,Medium,5.88,6.1,23.2,2024,Yes
+West Bengal,Howrah,Pond,Lead,High,6.5,3.72,27.7,2023,No
+Tamil Nadu,Madurai,Reservoir,Nitrate,Low,7.41,3.91,20.9,2023,No
+Kerala,Kozhikode,Reservoir,Pesticides,Severe,7.8,4.12,22.7,2023,No
+Haryana,Faridabad,Canal,Sewage,Severe,6.26,4.92,26.1,2016,No
+Odisha,Cuttack,Borewell,Lead,High,6.6,3.91,16.8,2021,Yes
+Odisha,Cuttack,Lake,Arsenic,Medium,5.14,4.93,28.7,2018,No
+Bihar,Patna,Canal,Nitrate,Low,5.0,4.57,22.5,2020,No
+Karnataka,Hubli,River,Nitrate,Low,6.97,6.32,21.4,2016,No
+Tamil Nadu,Coimbatore,Groundwater,Pesticides,Medium,5.88,5.92,21.0,2019,No
+Karnataka,Mysuru,Borewell,Fluoride,High,6.74,8.23,29.7,2020,Yes
+Punjab,Nan,Pond,Fluoride,High,6.78,7.51,24.9,2015,No
+Maharashtra,Aurangabad,Canal,Chromium,Medium,9.15,1.72,27.4,2017,Yes
+West Bengal,Siliguri,Reservoir,Nan,Medium,7.24,6.03,22.8,2024,No
+Maharashtra,Pune,Canal,Sewage,Severe,6.75,7.72,19.3,2020,Yes
+Rajasthan,Jodhpur,Canal,Sewage,Low,5.0,7.97,18.6,2020,Yes
+Kerala,Thiruvananthapuram,Canal,Pesticides,Low,7.49,5.9,18.0,2018,No
+Gujarat,Vadodara,Well,Plastic Waste,Severe,6.54,5.45,15.2,2019,Yes
+Rajasthan,Udaipur,Reservoir,Pesticides,Severe,6.39,6.69,28.5,2023,No
+Delhi,Dwarka,River,Cadmium,Medium,7.5,3.95,24.2,2018,No
+Madhya Pradesh,Jabalpur,Reservoir,Mercury,High,6.29,5.29,26.5,2021,No
+Tamil Nadu,Coimbatore,Canal,Plastic Waste,High,7.22,4.65,27.1,2016,No
+Bihar,Nan,Pond,Fluoride,Low,9.08,5.17,23.5,2022,Yes
+Punjab,Jalandhar,Groundwater,Plastic Waste,Low,7.79,5.1,24.1,2021,Yes
+Assam,Dibrugarh,Groundwater,Mercury,Medium,7.02,6.13,21.3,2015,Yes
+Uttar Pradesh,Lucknow,Canal,Fluoride,High,7.22,9.23,19.4,2023,No
+Maharashtra,Nagpur,Reservoir,Arsenic,Low,6.59,8.11,25.6,2018,Yes
+Haryana,Panipat,River,Industrial Waste,Low,7.03,1.51,18.2,2017,No
+Karnataka,Bengaluru,Lake,Lead,Medium,7.18,6.29,26.0,2017,No
+Gujarat,Surat,Lake,Fluoride,High,6.19,5.55,24.0,2022,Yes
+Punjab,Amritsar,Groundwater,Chromium,Low,6.57,5.35,25.2,2018,No
+West Bengal,Asansol,Reservoir,Lead,Severe,6.63,8.77,29.9,2022,No
+Kerala,Thiruvananthapuram,Reservoir,Arsenic,High,7.95,4.54,22.1,2020,No
+Nan,Chandigarh,Reservoir,Mercury,Severe,7.43,6.81,20.5,2022,No
+Bihar,Gaya,Pond,Sewage,Low,6.68,6.11,22.5,2017,No
+Rajasthan,Bikaner,Borewell,Arsenic,Low,5.64,2.25,16.1,2017,Yes
+Delhi,Rohini,Lake,Lead,Low,5.74,2.76,26.3,2023,Yes
+Madhya Pradesh,Jabalpur,River,Sewage,Medium,6.81,6.6,24.8,2020,No
+Haryana,Karnal,Well,Cadmium,Medium,6.28,5.05,25.6,2024,Yes
+West Bengal,Howrah,River,Pesticides,Severe,5.64,7.59,28.9,2017,Yes
+Gujarat,Ahmedabad,Reservoir,Nitrate,High,7.78,2.45,28.1,2024,No
+Tamil Nadu,Chennai,Lake,Plastic Waste,Low,6.42,5.65,24.1,2019,Yes
+Karnataka,Hubli,Reservoir,Chromium,Severe,7.48,1.55,24.2,2018,Yes
+Karnataka,Hubli,Well,Industrial Waste,Low,8.08,4.32,18.8,2021,Yes
+West Bengal,Nan,Well,Nitrate,Severe,7.97,1.59,18.0,2020,Yes
+West Bengal,Kolkata,Well,Fluoride,Severe,6.31,4.96,31.9,2023,No
+Maharashtra,Pune,Borewell,Fluoride,Severe,8.07,4.03,18.2,2020,No
+Rajasthan,Kota,Borewell,Lead,Low,6.17,3.69,20.2,2018,No
+Kerala,Thiruvananthapuram,Groundwater,Lead,Medium,7.75,7.12,26.3,2016,Yes
+Bihar,Patna,Lake,Cadmium,Low,7.57,8.41,17.0,2019,Yes
+Haryana,Ambala,Pond,Arsenic,Severe,7.18,8.44,20.3,2015,Yes
+Kerala,Kollam,Reservoir,Mercury,Medium,5.78,3.88,19.2,2018,No
+Punjab,Ludhiana,Reservoir,Sewage,Medium,6.75,7.02,23.8,2022,No
+Tamil Nadu,Madurai,River,Sewage,High,7.97,7.2,26.4,2019,Yes
+Gujarat,Vadodara,River,Chromium,Severe,8.16,4.79,18.5,2019,Yes
+Delhi,New Delhi,Groundwater,Cadmium,Low,5.59,0.5,26.9,2017,No
+Odisha,Bhubaneswar,Lake,Plastic Waste,Severe,6.59,6.03,20.1,2016,Yes
+Maharashtra,Mumbai,Well,Chromium,High,5.58,3.81,21.2,2023,No
+Rajasthan,Udaipur,Borewell,Mercury,Severe,6.47,5.72,33.8,2018,Yes
+Gujarat,Bhavnagar,Pond,Mercury,Low,6.95,4.82,30.7,2023,No
+Maharashtra,Mumbai,River,Sewage,High,5.66,7.76,21.5,2024,Yes
+Assam,Silchar,Pond,Lead,Severe,7.92,9.89,30.9,2019,No
+Madhya Pradesh,Bhopal,Reservoir,Plastic Waste,Low,7.89,5.73,21.6,2015,Yes
+Odisha,Rourkela,Lake,Plastic Waste,Low,7.12,2.1,24.3,2015,No
+Assam,Jorhat,Well,Pesticides,Severe,8.52,5.76,10.5,2024,No
+Uttar Pradesh,Agra,Lake,Pesticides,Nan,8.63,5.11,19.8,2022,Yes
+West Bengal,Asansol,Canal,Pesticides,Low,7.57,6.73,28.7,2023,No
+West Bengal,Asansol,River,Cadmium,Severe,7.23,6.12,20.6,2015,No
+Bihar,Bhagalpur,Pond,Mercury,Medium,6.17,5.51,16.6,2022,No
+Haryana,Ambala,River,Plastic Waste,Medium,6.07,5.58,18.6,2023,Yes
+West Bengal,Howrah,Lake,Arsenic,High,8.11,2.63,21.0,2023,Yes
+Tamil Nadu,Trichy,Borewell,Cadmium,Severe,7.37,5.4,19.1,2018,Yes
+Rajasthan,Bikaner,Well,Fluoride,High,7.54,4.52,23.2,2015,No
+Odisha,Cuttack,River,Sewage,Severe,6.52,6.56,30.2,2015,Yes
+Bihar,Bhagalpur,Well,Lead,Medium,7.8,6.53,17.6,2024,Yes
+Madhya Pradesh,Jabalpur,Reservoir,Plastic Waste,Medium,6.81,3.64,28.1,2015,No
+West Bengal,Kolkata,Pond,Sewage,Low,7.44,6.88,24.7,2018,No
+Uttar Pradesh,Kanpur,River,Sewage,Medium,7.05,3.44,25.8,2022,Yes
+Madhya Pradesh,Indore,Lake,Nitrate,Low,5.83,4.73,28.8,2022,Yes
+Maharashtra,Aurangabad,Well,Chromium,High,5.37,3.79,8.3,2017,No
+Uttar Pradesh,Agra,River,Plastic Waste,Severe,6.54,3.59,31.4,2020,No
+Uttar Pradesh,Lucknow,Reservoir,Sewage,Low,6.71,4.79,16.7,2016,Yes
+Punjab,Jalandhar,Borewell,Sewage,High,6.11,6.53,20.4,2019,No
+West Bengal,Howrah,Well,Nitrate,Low,6.46,8.83,23.9,2015,No
+Assam,Jorhat,Pond,Chromium,Severe,7.19,3.26,24.9,2021,No
+Assam,Jorhat,Lake,Arsenic,Low,7.63,7.03,22.5,2015,No
+Haryana,Karnal,Canal,Chromium,Low,7.19,5.58,20.7,2024,Yes
+Karnataka,Mangalore,Pond,Arsenic,Medium,7.01,4.09,27.2,2021,Yes
+Uttar Pradesh,Agra,Lake,Nitrate,High,8.32,3.9,24.3,2019,No
+Gujarat,Ahmedabad,River,Pesticides,High,6.96,3.83,23.4,2023,Yes
+Madhya Pradesh,Gwalior,Nan,Fluoride,Medium,6.83,5.34,12.9,2017,No
+Delhi,Karol Bagh,Reservoir,Fluoride,Low,7.45,3.73,32.0,2018,Yes
+Delhi,Rohini,Well,Industrial Waste,Severe,7.18,4.16,17.4,2018,No
+Odisha,Bhubaneswar,Groundwater,Lead,High,6.86,2.99,27.0,2019,Yes
+Odisha,Sambalpur,Lake,Plastic Waste,High,7.72,7.93,29.3,2024,Yes
+Assam,Jorhat,Pond,Cadmium,Severe,6.71,5.77,19.8,2024,No
+Karnataka,Mangalore,River,Arsenic,Medium,6.61,1.68,20.3,2015,Yes
+Odisha,Sambalpur,River,Mercury,Medium,6.69,6.17,23.4,2015,No
+Rajasthan,Jodhpur,Pond,Mercury,High,5.99,5.43,16.6,2016,No
+Karnataka,Mysuru,River,Lead,Medium,6.54,7.12,30.3,2018,Yes
+Assam,Silchar,Reservoir,Fluoride,High,8.19,6.99,24.8,2024,No
+Madhya Pradesh,Ujjain,Groundwater,Industrial Waste,High,8.06,4.72,22.4,2017,Yes
+Haryana,Karnal,Reservoir,Pesticides,Medium,5.92,5.91,27.1,2024,No
+Bihar,Muzaffarpur,Canal,Fluoride,Severe,7.08,0.5,23.1,2021,No
+Uttar Pradesh,Lucknow,Lake,Chromium,Severe,4.69,5.16,36.1,2016,Yes
+Kerala,Thiruvananthapuram,Canal,Arsenic,High,7.94,4.9,17.3,2018,Yes
+Assam,Guwahati,Pond,Mercury,High,6.67,5.39,21.8,2020,No
+Kerala,Kochi,Borewell,Arsenic,Severe,7.96,4.57,31.0,2020,Yes
+Punjab,Jalandhar,Borewell,Industrial Waste,Medium,6.99,5.77,24.5,2023,No
+Odisha,Bhubaneswar,River,Arsenic,Low,7.58,9.24,35.0,2022,Yes
+Uttar Pradesh,Kanpur,Canal,Nitrate,Low,7.34,5.75,13.3,2018,Yes
+Rajasthan,Bikaner,Borewell,Nitrate,High,5.57,5.82,26.3,2023,No
+Assam,Nagaon,Lake,Nitrate,Low,7.05,8.97,24.4,2016,No
+Odisha,Rourkela,Groundwater,Arsenic,Severe,8.84,6.45,25.5,2015,Yes
+Haryana,Panipat,Reservoir,Lead,Low,6.66,4.37,32.2,2022,Yes
+Punjab,Amritsar,Reservoir,Mercury,Low,8.84,3.7,18.7,2021,Yes
+West Bengal,Siliguri,Reservoir,Arsenic,High,7.2,4.92,27.0,2024,Yes
+Gujarat,Rajkot,Groundwater,Cadmium,Low,6.15,4.58,18.7,2020,Yes
+Kerala,Kochi,Reservoir,Chromium,Medium,9.33,3.34,27.5,2021,No
+Tamil Nadu,Trichy,Canal,Chromium,Severe,9.32,5.61,24.1,2019,No
+Odisha,Cuttack,Pond,Pesticides,Severe,7.14,4.85,23.7,2015,No
+West Bengal,Durgapur,Well,Nitrate,Medium,6.93,9.05,17.1,2016,Yes
+Bihar,Bhagalpur,Reservoir,Nitrate,Severe,7.04,10.25,29.8,2019,No
+Madhya Pradesh,Indore,Groundwater,Lead,Medium,6.93,8.64,28.3,2017,Yes
+Karnataka,Mysuru,River,Sewage,Low,5.49,6.06,26.4,2016,No
+Karnataka,Bengaluru,Lake,Sewage,High,6.98,6.08,23.9,2023,Yes
+Punjab,Ludhiana,Well,Sewage,Severe,7.28,4.41,26.3,2023,Yes
+Tamil Nadu,Trichy,River,Mercury,Low,7.66,3.21,29.2,2020,No
+Maharashtra,Nashik,Reservoir,Cadmium,Severe,5.8,1.92,25.7,2021,Yes
+Maharashtra,Nashik,River,Nitrate,Low,6.21,4.02,22.9,2024,No
+Kerala,Thiruvananthapuram,Well,Cadmium,Low,6.37,2.73,23.3,2016,No
+Bihar,Darbhanga,Lake,Lead,High,7.6,3.53,22.1,2019,No
+Uttar Pradesh,Agra,River,Fluoride,Medium,6.41,4.91,34.0,2019,No
+Karnataka,Mysuru,Canal,Pesticides,High,5.0,5.09,24.2,2018,Yes
+West Bengal,Siliguri,River,Lead,Severe,8.45,3.28,21.0,2022,Yes
+Tamil Nadu,Trichy,Reservoir,Industrial Waste,Severe,5.71,5.73,20.6,2015,No
+Assam,Nagaon,Well,Plastic Waste,Medium,7.58,4.08,19.1,2018,Yes
+Punjab,Jalandhar,Lake,Sewage,High,7.3,5.65,27.4,2015,No
+Assam,Nagaon,Pond,Lead,Low,6.91,5.12,28.9,2020,Nan
+Madhya Pradesh,Bhopal,Borewell,Industrial Waste,Severe,6.73,0.81,22.2,2024,No
+Odisha,Berhampur,River,Arsenic,High,7.7,5.43,21.9,2016,Yes
+Madhya Pradesh,Jabalpur,Reservoir,Lead,Medium,7.74,8.0,26.8,2024,Yes
+Gujarat,Surat,Groundwater,Pesticides,Severe,6.74,6.08,19.9,2024,No
+Uttar Pradesh,Kanpur,Borewell,Fluoride,Low,6.59,4.26,26.3,2016,No
+Delhi,Rohini,Borewell,Fluoride,Low,7.55,7.55,16.9,2019,Yes
+Haryana,Faridabad,River,Pesticides,High,6.84,7.95,23.1,2022,Yes
+Karnataka,Belgaum,Pond,Fluoride,Severe,6.23,4.53,27.8,2023,No
+Odisha,Berhampur,Pond,Pesticides,Medium,7.56,3.27,16.5,2020,No
+Madhya Pradesh,Bhopal,Groundwater,Lead,Severe,7.21,5.05,30.0,2020,No
+Bihar,Gaya,Reservoir,Pesticides,Medium,6.36,6.72,20.3,2023,Yes
+Odisha,Sambalpur,River,Mercury,Severe,7.35,5.43,34.1,2024,Yes
+Uttar Pradesh,Lucknow,Well,Lead,Severe,7.45,5.77,25.8,2019,No
+Punjab,Chandigarh,Canal,Nitrate,High,6.84,6.21,27.5,2022,Yes
+West Bengal,Kolkata,Canal,Nitrate,Severe,7.87,6.77,33.3,2016,No
+Assam,Guwahati,Reservoir,Cadmium,Severe,5.74,5.41,32.5,2020,Yes
+Punjab,Chandigarh,River,Fluoride,Severe,7.15,7.87,19.0,2016,Yes
+Gujarat,Ahmedabad,Groundwater,Pesticides,Medium,6.25,9.36,18.1,2022,No
+Uttar Pradesh,Varanasi,Well,Fluoride,Low,6.07,3.06,27.7,2019,No
+Uttar Pradesh,Lucknow,Pond,Industrial Waste,High,6.41,4.05,24.4,2017,Yes
+Odisha,Cuttack,Reservoir,Arsenic,Low,5.63,6.85,21.9,2018,No
+Delhi,Rohini,Groundwater,Arsenic,Medium,6.92,3.21,18.2,2021,No
+Kerala,Thiruvananthapuram,Well,Nitrate,Severe,7.16,7.01,23.5,2022,No
+Rajasthan,Jaipur,Well,Nitrate,High,6.88,8.06,28.6,2020,Yes
+Madhya Pradesh,Bhopal,Lake,Sewage,Severe,7.32,6.41,25.5,2017,Yes
+Haryana,Karnal,Canal,Mercury,High,5.13,8.55,25.1,2021,No
+Madhya Pradesh,Indore,Lake,Industrial Waste,High,6.04,6.12,22.1,2021,Yes
+Assam,Silchar,Well,Plastic Waste,Low,6.6,9.2,19.9,2017,No
+Tamil Nadu,Chennai,River,Fluoride,Medium,6.99,5.75,24.1,2019,No
+Haryana,Faridabad,River,Sewage,Medium,8.09,7.34,27.0,2015,No
+Bihar,Gaya,Groundwater,Sewage,Low,6.31,5.57,27.4,2018,Yes
+Tamil Nadu,Chennai,River,Fluoride,Severe,7.31,5.41,24.2,2019,Yes
+Gujarat,Surat,River,Cadmium,Low,5.28,5.38,17.2,2023,No
+Odisha,Sambalpur,Pond,Cadmium,Low,7.44,6.64,29.5,2020,Yes
+Madhya Pradesh,Jabalpur,Borewell,Mercury,Medium,4.5,7.34,31.2,2019,Yes
+Uttar Pradesh,Lucknow,Well,Cadmium,High,7.68,6.01,24.5,2021,No
+Odisha,Cuttack,Well,Cadmium,High,7.91,4.27,28.0,2017,Yes
+Punjab,Jalandhar,Lake,Arsenic,High,7.13,5.62,28.1,2021,Yes
+Haryana,Karnal,Borewell,Sewage,Low,7.5,6.3,19.9,2016,No
+Bihar,Bhagalpur,Pond,Arsenic,High,7.55,3.2,32.8,2015,No
+Kerala,Kochi,River,Plastic Waste,Medium,7.72,9.44,28.4,2016,No
+Punjab,Chandigarh,River,Arsenic,High,7.6,7.61,24.9,2018,Yes
+Tamil Nadu,Salem,Pond,Industrial Waste,Low,8.05,8.2,19.9,2023,No
+Uttar Pradesh,Kanpur,River,Lead,Severe,8.13,6.82,26.7,2016,Yes
+Bihar,Bhagalpur,Borewell,Lead,High,5.16,4.46,29.3,2019,Yes
+Rajasthan,Jodhpur,Canal,Nitrate,Medium,7.51,6.66,24.7,2018,No
+Assam,Guwahati,Pond,Arsenic,Medium,5.45,6.75,29.8,2018,No
+Uttar Pradesh,Lucknow,Lake,Chromium,Medium,7.37,3.81,29.6,2016,No
+Odisha,Bhubaneswar,Borewell,Pesticides,Severe,7.47,8.26,23.5,2021,No
+Tamil Nadu,Salem,Borewell,Lead,Severe,6.66,5.28,22.0,2019,Yes
+Tamil Nadu,Chennai,Canal,Mercury,Severe,6.94,6.36,28.4,2019,Yes
+Gujarat,Surat,Lake,Nan,Medium,5.48,3.74,37.8,2015,No
+Uttar Pradesh,Varanasi,Borewell,Sewage,Medium,6.99,7.74,13.6,2020,Yes
+Karnataka,Belgaum,Reservoir,Arsenic,Severe,7.59,2.79,29.3,2023,No
+Karnataka,Bengaluru,Reservoir,Pesticides,Severe,6.81,5.27,14.6,2024,No
+Karnataka,Hubli,Canal,Industrial Waste,High,6.89,4.68,23.2,2017,No
+Gujarat,Bhavnagar,Borewell,Fluoride,High,6.59,8.61,19.6,2023,Yes
+Karnataka,Bengaluru,Lake,Mercury,High,8.68,6.35,18.0,2023,No
+Punjab,Patiala,Canal,Pesticides,Low,6.67,4.01,24.4,2017,No
+Punjab,Patiala,Canal,Lead,Medium,6.33,5.31,27.1,2018,No
+Nan,Salem,Pond,Lead,Medium,7.07,6.37,25.3,2021,No
+Delhi,Karol Bagh,Canal,Chromium,Severe,7.61,8.18,21.1,2024,Nan
+Gujarat,Vadodara,Well,Lead,Medium,6.8,6.61,27.8,2018,No
+Punjab,Jalandhar,Canal,Nan,Medium,7.51,5.25,27.9,2024,No
+Tamil Nadu,Chennai,Nan,Chromium,Severe,7.47,4.19,24.9,2015,Yes
+Karnataka,Bengaluru,Pond,Industrial Waste,Medium,6.12,4.66,26.3,2018,Yes
+Haryana,Panipat,River,Sewage,Medium,6.09,5.43,21.2,2021,No
+Assam,Nagaon,Borewell,Fluoride,High,5.61,5.98,23.8,2015,Yes
+Punjab,Ludhiana,River,Cadmium,High,5.58,4.05,23.6,2021,No
+Haryana,Faridabad,Groundwater,Industrial Waste,Medium,6.6,7.81,24.3,2018,Yes
+Kerala,Kollam,Pond,Mercury,Low,7.23,3.77,19.2,2018,Yes
+Haryana,Panipat,Pond,Arsenic,Nan,8.62,5.43,14.7,2023,No
+Tamil Nadu,Coimbatore,Well,Pesticides,Medium,6.98,6.0,20.0,2022,No
+Madhya Pradesh,Ujjain,Reservoir,Plastic Waste,Severe,5.34,7.89,21.5,2024,No
+Odisha,Berhampur,Lake,Nitrate,Severe,6.7,7.09,28.4,2015,No
+Punjab,Amritsar,River,Lead,Medium,6.23,7.82,24.3,2022,Yes
+Maharashtra,Nagpur,Reservoir,Fluoride,Low,7.94,7.05,23.9,2022,No
+Kerala,Kochi,Groundwater,Plastic Waste,Medium,7.84,5.88,12.2,2020,No
+Delhi,Rohini,Well,Nitrate,Medium,6.3,7.93,28.4,2016,Yes
+Rajasthan,Kota,Borewell,Industrial Waste,Severe,6.57,4.01,20.6,2024,Yes
+Punjab,Jalandhar,River,Pesticides,Low,5.77,3.83,28.0,2019,Yes
+Punjab,Patiala,Canal,Sewage,Severe,8.37,6.82,32.9,2018,No
+Punjab,Ludhiana,Lake,Industrial Waste,Severe,5.09,4.41,30.5,2023,No
+Bihar,Patna,Well,Lead,High,4.85,6.84,24.7,2019,No
+Haryana,Karnal,Reservoir,Industrial Waste,Medium,5.8,6.75,21.0,2018,No
+West Bengal,Nan,Well,Chromium,Low,6.36,6.96,26.7,2015,No
+West Bengal,Asansol,Well,Cadmium,High,7.66,6.65,25.3,2022,Yes
+Maharashtra,Aurangabad,Reservoir,Arsenic,Severe,6.14,5.72,32.1,2020,No
+Maharashtra,Mumbai,Borewell,Nitrate,High,6.71,9.07,16.2,2015,Yes
+Kerala,Kozhikode,Reservoir,Sewage,High,6.37,5.89,23.4,2019,No
+Maharashtra,Nashik,Pond,Cadmium,Severe,7.85,4.42,19.7,2019,No
+Kerala,Kollam,Pond,Lead,Medium,6.32,1.61,26.3,2018,Yes
+Odisha,Sambalpur,Pond,Sewage,Severe,6.39,8.74,24.2,2017,No
+Maharashtra,Aurangabad,Borewell,Industrial Waste,High,7.39,7.02,26.0,2022,No
+Odisha,Rourkela,Borewell,Lead,Nan,6.9,4.96,16.6,2015,Yes
+Assam,Jorhat,Pond,Fluoride,Low,5.73,6.95,25.2,2017,No
+Punjab,Patiala,Groundwater,Sewage,Medium,6.49,5.36,31.7,2022,No
+Bihar,Darbhanga,Borewell,Fluoride,Low,6.57,4.32,32.8,2016,No
+Rajasthan,Jaipur,River,Lead,Low,8.23,5.07,23.4,2020,No
+Delhi,New Delhi,Groundwater,Pesticides,Severe,8.23,5.73,28.3,2019,No
+Bihar,Darbhanga,Pond,Cadmium,Severe,7.22,5.39,29.6,2015,No
+Odisha,Berhampur,Canal,Arsenic,High,7.02,4.95,23.6,2023,No
+Uttar Pradesh,Kanpur,Pond,Mercury,High,7.3,5.03,23.2,2017,Yes
+Haryana,Gurugram,Canal,Sewage,Severe,5.74,6.93,32.3,2019,Yes
+Maharashtra,Nagpur,Borewell,Arsenic,Medium,6.24,6.5,23.8,2017,Yes
+Rajasthan,Udaipur,Canal,Industrial Waste,High,8.3,3.24,28.1,2022,No
+Rajasthan,Kota,Reservoir,Mercury,High,6.81,3.81,30.7,2017,No
+Rajasthan,Kota,Pond,Chromium,Severe,6.13,8.43,21.1,2023,No
+Bihar,Patna,Groundwater,Plastic Waste,Severe,8.47,4.82,23.0,2019,Yes
+Uttar Pradesh,Kanpur,Pond,Lead,Medium,7.1,8.57,18.5,2020,No
+Delhi,Dwarka,Borewell,Mercury,Severe,7.49,3.63,23.0,2019,Yes
+Assam,Nagaon,Borewell,Pesticides,Severe,7.11,3.78,35.6,2024,No
+Gujarat,Ahmedabad,River,Lead,Nan,5.1,4.74,24.3,2015,No
+Delhi,Rohini,Borewell,Plastic Waste,High,6.51,5.67,24.8,2017,Yes
+Uttar Pradesh,Kanpur,Lake,Mercury,Low,6.47,5.9,27.6,2024,Yes
+Tamil Nadu,Chennai,Groundwater,Sewage,High,6.91,2.25,25.7,2022,No
+Karnataka,Bengaluru,Reservoir,Plastic Waste,Low,7.24,4.57,32.6,2019,Yes
+Karnataka,Hubli,Reservoir,Pesticides,Medium,5.82,6.01,13.3,2020,Yes
+Haryana,Ambala,Lake,Arsenic,Low,6.84,5.65,22.2,2023,No
+Assam,Guwahati,Groundwater,Mercury,Severe,6.98,3.7,21.5,2018,No
+Tamil Nadu,Salem,Groundwater,Fluoride,High,7.57,4.8,14.3,2020,No
+Haryana,Ambala,Groundwater,Lead,Severe,7.46,4.07,31.0,2015,Yes
+Tamil Nadu,Madurai,Canal,Arsenic,Severe,7.67,6.26,25.3,2023,No
+Assam,Guwahati,Canal,Arsenic,Medium,4.8,5.17,23.0,2015,No
+Gujarat,Bhavnagar,Borewell,Industrial Waste,Medium,8.06,6.17,23.5,2015,No
+Maharashtra,Nagpur,Borewell,Arsenic,Medium,5.42,4.8,24.8,2018,No
+West Bengal,Asansol,Groundwater,Nitrate,Severe,8.84,2.57,21.2,2019,Yes
+Karnataka,Bengaluru,Borewell,Industrial Waste,High,7.62,4.27,22.6,2016,No
+Odisha,Bhubaneswar,Canal,Lead,Severe,7.8,7.36,14.8,2016,No
+West Bengal,Siliguri,River,Mercury,Severe,6.57,4.2,24.7,2018,Yes
+Odisha,Berhampur,Pond,Cadmium,Medium,6.4,6.53,20.2,2018,Nan
+Maharashtra,Nashik,Groundwater,Sewage,High,7.43,5.96,28.9,2022,Yes
+Haryana,Panipat,Lake,Mercury,Severe,7.01,10.66,15.7,2015,No
+Kerala,Kozhikode,Canal,Industrial Waste,Low,6.89,6.06,20.7,2024,Yes
+Delhi,Dwarka,Well,Mercury,Severe,5.62,6.52,27.4,2022,No
+Kerala,Thrissur,Groundwater,Pesticides,Medium,6.76,5.43,31.5,2023,No
+Karnataka,Mysuru,Lake,Arsenic,Low,7.07,8.43,17.1,2016,No
+Uttar Pradesh,Agra,Reservoir,Cadmium,High,8.3,2.92,29.8,2018,Yes
+Maharashtra,Mumbai,Borewell,Arsenic,Medium,7.0,5.48,22.4,2015,No
+Tamil Nadu,Coimbatore,Well,Chromium,High,6.5,8.89,16.8,2018,No
+Assam,Silchar,Well,Industrial Waste,Severe,6.65,5.7,27.3,2023,No
+Nan,Bikaner,Reservoir,Cadmium,Low,5.75,7.93,34.5,2023,Yes
+Uttar Pradesh,Nan,Borewell,Plastic Waste,Severe,6.41,4.8,20.8,2020,Yes
+Uttar Pradesh,Kanpur,Borewell,Arsenic,High,6.84,2.71,21.5,2023,Yes
+Kerala,Thrissur,Borewell,Fluoride,Low,6.63,3.6,14.6,2016,Yes
+Karnataka,Mangalore,Reservoir,Industrial Waste,Nan,6.79,5.74,23.7,2022,Yes
+Gujarat,Bhavnagar,Well,Cadmium,Low,7.33,5.43,26.9,2022,No
+West Bengal,Nan,Canal,Industrial Waste,Medium,7.22,3.54,19.1,2015,Yes
+Rajasthan,Jaipur,Well,Arsenic,Severe,6.59,3.07,19.5,2016,No
+Uttar Pradesh,Lucknow,Borewell,Fluoride,Low,6.14,3.07,16.1,2020,Yes
+Tamil Nadu,Madurai,Canal,Nitrate,High,7.88,3.46,18.5,2016,No
+Gujarat,Vadodara,River,Cadmium,Nan,6.89,7.02,23.4,2024,Yes
+Uttar Pradesh,Varanasi,Reservoir,Sewage,Medium,6.14,5.64,25.3,2015,Yes
+Tamil Nadu,Coimbatore,Reservoir,Fluoride,High,7.83,3.67,24.4,2019,Yes
+Maharashtra,Nashik,Canal,Chromium,Medium,6.78,4.73,23.9,2015,Yes
+West Bengal,Howrah,Borewell,Chromium,Low,5.9,9.45,27.8,2017,Yes
+Delhi,Karol Bagh,Pond,Fluoride,High,7.23,7.99,26.2,2020,No
+Gujarat,Bhavnagar,Pond,Pesticides,Severe,7.99,6.34,30.7,2023,Yes
+Haryana,Panipat,Borewell,Sewage,High,6.22,6.5,27.7,2016,No
+Madhya Pradesh,Indore,Well,Pesticides,High,7.53,5.1,24.3,2017,Yes
+Odisha,Bhubaneswar,Reservoir,Pesticides,Low,7.49,5.59,24.2,2018,Yes
+Bihar,Patna,Reservoir,Fluoride,High,7.0,3.37,26.2,2022,Yes
+Karnataka,Belgaum,Well,Arsenic,High,8.91,7.36,16.4,2019,Yes
+Gujarat,Vadodara,Groundwater,Sewage,Severe,5.59,6.32,22.0,2019,No
+Gujarat,Vadodara,Lake,Pesticides,Severe,8.01,8.33,23.7,2017,No
+West Bengal,Siliguri,Lake,Sewage,High,7.22,4.59,21.6,2024,Yes
+Madhya Pradesh,Gwalior,River,Cadmium,High,6.72,6.15,26.7,2023,Yes
+Kerala,Kollam,Lake,Industrial Waste,Severe,7.27,2.8,30.4,2019,No
+Rajasthan,Udaipur,Canal,Lead,Low,5.7,6.7,26.9,2015,No
+Tamil Nadu,Salem,Lake,Chromium,Low,7.37,5.11,25.9,2016,Yes
+Madhya Pradesh,Bhopal,Lake,Arsenic,Low,5.92,7.1,25.4,2024,Yes
+West Bengal,Asansol,Well,Industrial Waste,Medium,6.23,5.56,27.3,2019,No
+Delhi,Saket,Nan,Lead,Medium,7.36,9.99,22.6,2022,No
+Gujarat,Ahmedabad,Lake,Fluoride,Medium,8.26,4.49,23.0,2015,No
+Uttar Pradesh,Noida,Groundwater,Lead,Medium,6.27,7.32,23.8,2021,No
+Kerala,Thrissur,Borewell,Cadmium,Severe,7.1,6.33,23.1,2023,No
+Assam,Jorhat,Well,Sewage,High,6.35,5.09,29.9,2022,No
+Assam,Nagaon,Well,Lead,Low,8.58,5.44,25.3,2021,No
+Gujarat,Surat,Lake,Lead,Low,6.72,6.9,30.6,2019,No
+Gujarat,Nan,Reservoir,Mercury,Medium,6.37,2.96,16.2,2019,No
+Kerala,Thiruvananthapuram,Canal,Sewage,Severe,7.52,5.47,29.8,2024,Yes
+Punjab,Chandigarh,Canal,Plastic Waste,Nan,5.98,6.13,19.5,2017,Yes
+Assam,Dibrugarh,Reservoir,Pesticides,Severe,6.57,7.48,33.8,2023,No
+Rajasthan,Bikaner,Lake,Arsenic,High,7.3,6.66,22.4,2017,No
+Madhya Pradesh,Jabalpur,Well,Arsenic,High,6.46,1.2,21.9,2017,Yes
+Gujarat,Surat,Pond,Sewage,Severe,6.8,3.38,33.1,2015,Yes
+Uttar Pradesh,Agra,River,Arsenic,Medium,6.28,3.79,16.8,2019,No
+Uttar Pradesh,Noida,Borewell,Sewage,Medium,6.63,4.17,15.9,2024,No
+Maharashtra,Mumbai,Canal,Fluoride,Severe,6.78,7.88,19.6,2015,No
+Tamil Nadu,Coimbatore,Canal,Pesticides,Severe,6.99,5.43,15.7,2020,No
+Assam,Nagaon,Borewell,Lead,High,8.27,8.82,23.3,2020,Yes
+Madhya Pradesh,Gwalior,Groundwater,Industrial Waste,Medium,7.03,7.55,26.0,2016,Nan
+Delhi,Dwarka,Lake,Pesticides,Low,6.77,6.0,19.3,2023,No
+Karnataka,Mysuru,Lake,Lead,Severe,6.41,4.51,22.4,2018,No
+Assam,Jorhat,River,Fluoride,High,5.98,9.84,31.6,2019,No
+Odisha,Rourkela,Well,Fluoride,High,7.38,7.6,23.9,2024,Yes
+Kerala,Thrissur,Canal,Pesticides,Medium,7.82,2.72,31.9,2015,Yes
+Karnataka,Mysuru,Groundwater,Sewage,Low,6.96,3.52,33.0,2016,No
+Uttar Pradesh,Varanasi,Reservoir,Pesticides,Low,5.19,4.8,22.5,2016,Yes
+Odisha,Bhubaneswar,Well,Cadmium,Medium,6.99,4.8,30.5,2016,No
+Madhya Pradesh,Ujjain,Reservoir,Fluoride,Severe,8.0,6.79,27.6,2020,Yes
+Odisha,Berhampur,Pond,Plastic Waste,Medium,6.3,6.77,34.4,2016,No
+Odisha,Berhampur,Borewell,Fluoride,Low,6.9,4.8,23.7,2016,Yes
+Tamil Nadu,Chennai,Well,Mercury,Low,6.02,4.93,30.1,2024,Yes
+Odisha,Berhampur,Canal,Cadmium,Low,6.53,5.9,23.9,2023,Yes
+Tamil Nadu,Chennai,Pond,Plastic Waste,Low,5.31,6.78,14.6,2023,Yes
+Uttar Pradesh,Varanasi,Canal,Sewage,Severe,6.83,6.57,24.5,2015,No
+Tamil Nadu,Madurai,Canal,Nitrate,High,5.86,5.88,29.3,2020,Yes
+Tamil Nadu,Salem,Well,Sewage,High,5.72,6.33,19.4,2024,Yes
+Kerala,Kollam,Lake,Cadmium,High,6.69,5.81,19.2,2016,Yes
+Rajasthan,Bikaner,Lake,Pesticides,Low,5.71,4.57,23.4,2020,No
+Bihar,Patna,Canal,Arsenic,Severe,6.99,6.43,21.4,2022,Nan
+Kerala,Thrissur,Pond,Mercury,Severe,6.43,8.63,22.4,2021,Yes
+Assam,Silchar,Well,Fluoride,High,6.7,4.4,18.6,2015,No
+Uttar Pradesh,Noida,River,Fluoride,Low,9.3,5.33,29.7,2016,Yes
+West Bengal,Howrah,Pond,Industrial Waste,Low,6.21,5.68,26.4,2015,Yes
+West Bengal,Kolkata,River,Lead,High,7.16,5.54,19.1,2015,No
+Maharashtra,Aurangabad,Pond,Pesticides,Low,7.76,5.49,29.9,2022,Yes
+Karnataka,Belgaum,Reservoir,Pesticides,High,7.19,5.07,31.4,2020,Yes
+Punjab,Patiala,River,Lead,High,7.36,4.15,22.6,2017,No
+West Bengal,Howrah,Pond,Mercury,High,7.42,7.28,23.6,2023,No
+Madhya Pradesh,Indore,Reservoir,Arsenic,High,5.98,4.69,30.3,2017,Yes
+Odisha,Sambalpur,Groundwater,Lead,Medium,5.63,7.77,21.2,2015,No
+Tamil Nadu,Chennai,Groundwater,Fluoride,High,6.51,7.0,18.5,2021,No
+Maharashtra,Aurangabad,Reservoir,Pesticides,Medium,7.24,6.49,25.7,2017,No
+Bihar,Gaya,Reservoir,Plastic Waste,High,7.39,4.22,22.1,2021,Yes
+Maharashtra,Nagpur,River,Nan,Medium,7.41,8.27,30.3,2017,Yes
+Bihar,Gaya,Groundwater,Plastic Waste,Low,6.54,4.57,18.0,2015,No
+Rajasthan,Jaipur,Well,Industrial Waste,Low,7.18,9.24,20.6,2022,Yes
+Uttar Pradesh,Kanpur,River,Lead,Medium,5.56,6.33,34.1,2023,No
+Gujarat,Bhavnagar,River,Plastic Waste,Medium,7.15,6.3,18.5,2019,Yes
+Uttar Pradesh,Varanasi,Lake,Plastic Waste,Medium,7.63,3.45,23.4,2023,No
+Odisha,Rourkela,Reservoir,Fluoride,High,8.61,8.53,19.6,2018,Yes
+Punjab,Jalandhar,Reservoir,Sewage,Low,6.41,4.47,26.7,2018,Yes
+Punjab,Ludhiana,Well,Fluoride,Medium,7.27,6.46,31.5,2019,No
+Madhya Pradesh,Gwalior,Reservoir,Plastic Waste,Medium,8.21,4.16,21.6,2023,No
+Haryana,Ambala,Canal,Pesticides,Severe,8.2,5.28,17.3,2017,No
+Uttar Pradesh,Noida,Lake,Fluoride,Medium,6.44,2.79,19.0,2024,No
+Bihar,Darbhanga,Well,Mercury,High,5.53,4.74,26.5,2023,Yes
+Gujarat,Ahmedabad,Well,Nitrate,Low,8.15,5.33,32.7,2017,Nan
+Rajasthan,Jaipur,Canal,Chromium,Low,6.38,4.39,24.5,2022,No
+Madhya Pradesh,Gwalior,Lake,Pesticides,Medium,8.79,6.21,32.0,2015,No
+Assam,Nagaon,Canal,Mercury,Medium,6.71,7.81,26.8,2023,Yes
+Delhi,Karol Bagh,Borewell,Lead,Severe,6.56,7.22,23.8,2020,No
+Bihar,Gaya,Groundwater,Cadmium,Severe,6.46,2.81,23.9,2021,No
+Haryana,Ambala,Lake,Lead,Severe,6.84,4.14,26.7,2018,Yes
+Kerala,Kochi,Groundwater,Fluoride,Low,7.64,6.27,25.9,2020,No
+Haryana,Ambala,Groundwater,Pesticides,High,6.67,6.95,29.6,2024,No
+Karnataka,Bengaluru,Groundwater,Fluoride,Severe,8.12,5.43,25.4,2020,Yes
+Uttar Pradesh,Lucknow,Well,Lead,High,5.89,7.06,28.4,2022,Yes
+Rajasthan,Kota,Borewell,Lead,Low,6.73,4.62,31.9,2024,No
+Rajasthan,Udaipur,Nan,Mercury,Medium,7.12,7.09,34.3,2024,Yes
+Madhya Pradesh,Jabalpur,Lake,Industrial Waste,High,7.29,5.76,15.4,2023,No
+Bihar,Muzaffarpur,Reservoir,Lead,Medium,7.97,2.19,28.5,2017,No
+Odisha,Bhubaneswar,Lake,Mercury,Severe,6.12,1.98,20.7,2017,No
+Rajasthan,Jaipur,Pond,Chromium,High,5.53,6.36,18.7,2017,No
+Madhya Pradesh,Indore,Pond,Sewage,High,6.64,3.78,26.1,2016,Yes
+Rajasthan,Jaipur,Pond,Mercury,High,7.74,5.63,17.6,2015,Yes
+Maharashtra,Nagpur,Groundwater,Sewage,High,7.68,6.6,18.9,2021,Yes
+Rajasthan,Kota,Reservoir,Chromium,High,8.08,4.43,15.6,2015,Yes
+Assam,Jorhat,Canal,Industrial Waste,High,9.54,3.13,24.1,2020,No
+Assam,Guwahati,River,Nitrate,Severe,7.35,5.13,32.8,2016,Yes
+Assam,Nagaon,River,Industrial Waste,Low,8.49,5.75,29.0,2016,Yes
+West Bengal,Durgapur,Canal,Pesticides,Low,5.84,6.74,21.5,2022,Yes
+West Bengal,Asansol,Well,Arsenic,Low,6.71,5.2,25.1,2023,Yes
+Kerala,Kozhikode,Groundwater,Sewage,High,7.03,5.72,27.1,2021,Yes
+West Bengal,Durgapur,Lake,Arsenic,High,6.29,3.83,21.7,2015,No
+Maharashtra,Aurangabad,Canal,Cadmium,High,5.59,7.94,20.9,2016,Yes
+West Bengal,Kolkata,Canal,Arsenic,Severe,6.11,5.44,19.9,2023,No
+Gujarat,Bhavnagar,Canal,Mercury,Severe,6.74,6.02,23.8,2019,Yes
+Karnataka,Bengaluru,Reservoir,Sewage,Severe,7.48,7.01,30.1,2018,Yes
+Bihar,Muzaffarpur,River,Cadmium,Severe,7.29,3.04,21.3,2023,No
+Maharashtra,Pune,River,Plastic Waste,Low,5.9,4.59,23.3,2021,Yes
+West Bengal,Durgapur,River,Pesticides,Low,7.61,8.0,32.9,2015,Yes
+Delhi,Karol Bagh,Well,Cadmium,Severe,6.2,1.63,20.4,2023,No
+Odisha,Berhampur,Canal,Arsenic,Low,7.74,6.96,30.5,2020,No
+Gujarat,Bhavnagar,Well,Lead,Severe,5.65,5.96,26.3,2022,No
+Punjab,Jalandhar,Reservoir,Lead,Medium,7.72,2.15,24.2,2021,Yes
+Madhya Pradesh,Jabalpur,Well,Arsenic,High,8.55,4.78,25.1,2016,No
+Kerala,Kochi,Lake,Nitrate,Medium,6.97,3.37,18.2,2017,No
+Tamil Nadu,Trichy,Groundwater,Chromium,High,7.18,3.34,22.0,2022,Yes
+Kerala,Kochi,Borewell,Pesticides,Low,7.01,3.73,26.3,2023,Yes
+Karnataka,Mysuru,Canal,Plastic Waste,Low,5.77,5.23,26.5,2018,Yes
+Rajasthan,Jodhpur,Canal,Nan,Severe,8.77,5.51,29.1,2015,Yes
+Odisha,Rourkela,Reservoir,Mercury,High,8.13,7.2,19.5,2023,No
+Kerala,Thrissur,Well,Cadmium,High,6.16,10.78,18.6,2018,No
+Delhi,Rohini,Lake,Chromium,Severe,6.75,7.25,18.5,2021,Yes
+Karnataka,Bengaluru,Pond,Industrial Waste,High,6.97,7.49,24.6,2018,Yes
+Karnataka,Belgaum,River,Sewage,Low,8.12,5.39,28.8,2022,No
+Madhya Pradesh,Indore,Canal,Cadmium,Severe,6.11,6.26,19.7,2016,Yes
+Tamil Nadu,Trichy,Reservoir,Lead,Low,8.65,6.97,26.4,2015,Yes
+Uttar Pradesh,Noida,Canal,Mercury,Low,5.78,3.56,13.9,2024,Yes
+Bihar,Gaya,Pond,Sewage,High,6.42,0.57,29.9,2015,Yes
+Punjab,Patiala,Canal,Industrial Waste,Severe,7.44,4.18,23.3,2018,Yes
+Maharashtra,Aurangabad,Reservoir,Pesticides,Severe,6.49,3.68,25.6,2015,No
+Tamil Nadu,Chennai,Canal,Chromium,Severe,5.85,4.38,24.1,2020,Yes
+Assam,Nagaon,Pond,Mercury,High,7.93,7.18,19.8,2016,No
+Karnataka,Hubli,Well,Sewage,Low,7.44,3.3,31.1,2016,Yes
+Madhya Pradesh,Nan,Pond,Fluoride,Medium,7.46,5.34,30.3,2024,No
+Assam,Guwahati,Reservoir,Fluoride,Medium,6.15,5.17,25.4,2023,No
+Karnataka,Hubli,River,Nitrate,High,7.9,7.53,18.4,2016,Yes
+Uttar Pradesh,Agra,River,Lead,Medium,6.48,5.36,23.7,2020,Yes
+Bihar,Patna,Pond,Chromium,High,7.71,2.29,31.5,2021,No
+Punjab,Chandigarh,Groundwater,Lead,Low,6.84,5.91,22.2,2017,No
+Maharashtra,Nashik,River,Nitrate,Low,6.5,5.27,32.3,2015,Yes
+Bihar,Bhagalpur,Pond,Fluoride,High,7.53,0.63,20.9,2020,Yes
+Bihar,Bhagalpur,Well,Mercury,Severe,8.43,4.44,16.8,2023,No
+Odisha,Rourkela,Groundwater,Sewage,Medium,7.16,3.1,25.9,2017,Yes
+Haryana,Faridabad,Reservoir,Mercury,High,6.31,7.08,20.5,2022,No
+Kerala,Thiruvananthapuram,Borewell,Pesticides,Severe,6.45,6.57,26.0,2017,Yes
+Odisha,Berhampur,Borewell,Pesticides,Low,6.17,2.34,20.5,2015,No
+Bihar,Bhagalpur,Borewell,Arsenic,Medium,8.05,5.96,25.7,2024,No
+Delhi,New Delhi,Reservoir,Plastic Waste,Severe,7.95,4.5,29.2,2020,Yes
+Madhya Pradesh,Indore,River,Industrial Waste,Low,7.86,8.75,26.5,2019,No
+Maharashtra,Nagpur,Well,Industrial Waste,Severe,6.26,3.31,21.2,2015,No
+Rajasthan,Jodhpur,Groundwater,Cadmium,Low,7.67,6.09,35.4,2021,No
+Madhya Pradesh,Indore,River,Chromium,Medium,6.98,4.16,11.9,2021,No
+Haryana,Faridabad,Canal,Sewage,Medium,8.12,3.6,29.4,2023,No
+Bihar,Gaya,Reservoir,Fluoride,Medium,5.79,3.95,30.9,2020,Yes
+Uttar Pradesh,Noida,Reservoir,Lead,Low,5.68,3.03,30.9,2015,Yes
+Haryana,Karnal,Lake,Nitrate,Severe,6.58,4.13,30.8,2015,Yes
+Madhya Pradesh,Gwalior,Groundwater,Mercury,Low,7.49,4.91,18.1,2018,Yes
+Odisha,Sambalpur,River,Chromium,High,7.82,5.63,34.3,2016,Yes
+Uttar Pradesh,Varanasi,Borewell,Sewage,Severe,6.87,5.96,22.9,2024,No
+Karnataka,Hubli,Lake,Lead,Medium,7.07,5.1,20.7,2016,Yes
+Delhi,Rohini,Well,Cadmium,Medium,6.68,7.59,18.6,2022,No
+Gujarat,Ahmedabad,River,Industrial Waste,Medium,6.39,3.7,22.6,2023,Yes
+Haryana,Karnal,Borewell,Cadmium,Severe,6.98,5.31,30.1,2016,Yes
+Assam,Silchar,Reservoir,Fluoride,Severe,6.99,6.32,34.5,2020,No
+Odisha,Rourkela,Pond,Sewage,Medium,7.65,3.85,30.8,2023,Yes
+Punjab,Jalandhar,Nan,Lead,Medium,6.08,7.48,29.3,2018,Yes
+Odisha,Cuttack,Groundwater,Nitrate,Severe,7.07,7.05,24.7,2021,Yes
+Uttar Pradesh,Agra,Pond,Arsenic,Low,6.45,6.84,25.5,2021,Yes
+Tamil Nadu,Salem,River,Sewage,Low,6.97,3.86,19.3,2016,Yes
+Uttar Pradesh,Agra,Canal,Mercury,High,6.8,5.62,25.0,2018,No
+Kerala,Kozhikode,Canal,Nitrate,High,8.37,7.3,21.8,2023,No
+Maharashtra,Mumbai,Lake,Cadmium,Medium,6.54,5.93,31.4,2015,Yes
+Haryana,Gurugram,River,Plastic Waste,High,6.31,5.36,20.8,2019,No
+Kerala,Kozhikode,Well,Mercury,High,7.32,4.53,27.3,2018,Yes
+Uttar Pradesh,Varanasi,River,Pesticides,Medium,5.98,4.02,30.5,2016,No
+Punjab,Chandigarh,River,Pesticides,High,5.74,5.31,18.1,2020,Yes
+Gujarat,Bhavnagar,Borewell,Fluoride,Low,5.97,5.66,25.2,2017,No
+Punjab,Chandigarh,Reservoir,Nitrate,High,6.04,7.34,18.7,2019,Yes
+Assam,Nagaon,Lake,Pesticides,Medium,8.35,3.56,24.8,2023,No
+Maharashtra,Aurangabad,Well,Lead,Medium,8.32,6.41,26.2,2023,Nan
+Punjab,Chandigarh,Pond,Sewage,Medium,6.09,2.36,18.7,2024,No
+Assam,Jorhat,Borewell,Arsenic,Severe,7.46,6.43,38.0,2018,Yes
+Haryana,Faridabad,Borewell,Pesticides,Low,9.15,7.63,27.6,2021,Yes
+West Bengal,Siliguri,Reservoir,Arsenic,High,5.62,6.43,26.9,2022,No
+Haryana,Karnal,River,Lead,Severe,6.05,6.98,17.9,2023,Yes
+Bihar,Bhagalpur,River,Chromium,Severe,6.31,3.2,19.5,2017,No
+Gujarat,Vadodara,Lake,Chromium,High,6.45,3.69,25.3,2020,No
+Punjab,Chandigarh,Borewell,Sewage,Low,8.42,4.66,23.2,2017,Yes
+Bihar,Darbhanga,Reservoir,Sewage,Medium,5.49,6.23,27.6,2024,No
+Delhi,Dwarka,Canal,Cadmium,Severe,7.14,2.79,29.0,2016,Yes
+Rajasthan,Udaipur,Canal,Chromium,Low,7.23,3.87,27.2,2020,Yes
+Maharashtra,Nashik,River,Arsenic,Severe,7.66,6.02,15.7,2019,Yes
+Madhya Pradesh,Bhopal,Reservoir,Arsenic,High,8.9,3.95,22.4,2020,No
+Gujarat,Bhavnagar,Well,Plastic Waste,Medium,6.96,5.43,19.6,2020,Yes
+Uttar Pradesh,Noida,Reservoir,Plastic Waste,Severe,7.02,3.74,30.5,2015,No
+Uttar Pradesh,Noida,Groundwater,Industrial Waste,High,6.9,6.52,20.7,2024,Yes
+Delhi,Nan,Canal,Fluoride,Severe,6.58,5.79,29.8,2020,No
+Punjab,Jalandhar,Well,Arsenic,Severe,6.0,4.32,29.0,2019,No
+Delhi,Dwarka,Lake,Sewage,Severe,5.88,3.47,18.5,2015,No
+Tamil Nadu,Salem,Nan,Mercury,High,7.18,2.7,24.2,2017,Yes
+Tamil Nadu,Salem,Groundwater,Fluoride,Low,6.16,4.59,23.6,2021,Yes
+Assam,Silchar,Canal,Nitrate,High,6.52,4.46,22.6,2020,No
+Tamil Nadu,Chennai,Pond,Lead,Severe,7.64,3.65,27.0,2020,No
+West Bengal,Siliguri,Pond,Fluoride,Low,7.14,5.82,20.7,2021,No
+Bihar,Muzaffarpur,Pond,Lead,Low,7.04,7.22,24.2,2015,Yes
+Bihar,Patna,Reservoir,Nitrate,High,6.12,6.23,23.1,2024,Yes
+Karnataka,Belgaum,River,Plastic Waste,High,6.64,2.83,13.8,2015,No
+Uttar Pradesh,Agra,Groundwater,Sewage,Medium,9.58,3.88,38.0,2022,Yes
+Gujarat,Rajkot,Lake,Arsenic,Low,6.2,1.7,30.7,2020,No
+Madhya Pradesh,Indore,Borewell,Plastic Waste,Medium,6.22,9.42,25.0,2016,Yes
+Assam,Silchar,Reservoir,Sewage,Severe,6.97,6.65,24.6,2020,No
+Gujarat,Surat,Reservoir,Fluoride,Severe,6.59,6.49,30.0,2024,No
+Madhya Pradesh,Jabalpur,Borewell,Fluoride,High,7.36,5.46,19.5,2018,Yes
+Maharashtra,Nashik,Lake,Lead,Medium,8.49,4.37,23.8,2021,No
+Bihar,Darbhanga,Reservoir,Plastic Waste,High,8.11,8.53,26.8,2020,Yes
+Maharashtra,Nagpur,Canal,Chromium,Low,7.68,5.61,25.9,2021,Yes
+West Bengal,Kolkata,Well,Mercury,Low,6.67,2.84,25.3,2020,Yes
+Bihar,Patna,Lake,Sewage,High,6.57,7.76,19.5,2020,Yes
+Madhya Pradesh,Jabalpur,Groundwater,Plastic Waste,Severe,7.44,3.7,32.1,2015,Yes
+Maharashtra,Mumbai,Lake,Chromium,Medium,7.95,5.43,27.4,2021,Yes
+Kerala,Thrissur,Reservoir,Cadmium,Medium,7.04,6.5,11.4,2023,Yes
+Rajasthan,Kota,Lake,Nitrate,Low,7.35,3.38,28.6,2018,Yes
+Karnataka,Bengaluru,Canal,Arsenic,Medium,7.42,6.44,18.6,2018,Yes
+Karnataka,Hubli,River,Chromium,Low,7.86,4.96,26.3,2024,Yes
+Tamil Nadu,Salem,Well,Industrial Waste,Low,8.31,6.77,27.9,2024,No
+Haryana,Faridabad,Pond,Fluoride,Low,7.05,5.7,24.9,2023,No
+Maharashtra,Nagpur,Groundwater,Cadmium,Medium,7.02,7.68,21.0,2021,Yes
+Karnataka,Mysuru,Pond,Sewage,High,5.23,9.2,18.5,2023,Yes
+Haryana,Gurugram,Well,Pesticides,Medium,6.82,7.41,23.7,2019,Yes
+Gujarat,Ahmedabad,River,Cadmium,High,4.84,8.01,27.4,2017,Yes
+Karnataka,Hubli,Canal,Sewage,Medium,8.39,4.09,22.4,2018,No
+Madhya Pradesh,Bhopal,Reservoir,Mercury,High,7.18,4.14,16.9,2017,Yes
+Rajasthan,Kota,Canal,Industrial Waste,Low,8.5,5.21,22.8,2022,No
+Tamil Nadu,Salem,Borewell,Industrial Waste,Severe,8.35,8.04,27.9,2022,Yes
+Haryana,Faridabad,Reservoir,Arsenic,Severe,6.45,4.8,25.4,2016,No
+Tamil Nadu,Salem,Canal,Chromium,Severe,6.02,5.28,18.4,2021,No
+Uttar Pradesh,Noida,River,Pesticides,Low,7.65,4.52,38.0,2019,Yes
+Karnataka,Bengaluru,Canal,Cadmium,Medium,7.98,4.54,28.0,2023,No
+Bihar,Muzaffarpur,Well,Plastic Waste,Severe,5.57,2.12,33.4,2019,No
+Bihar,Patna,Lake,Fluoride,Low,6.21,9.08,21.3,2018,Yes
+Uttar Pradesh,Kanpur,Pond,Nan,Severe,6.27,6.98,25.1,2015,No
+Karnataka,Belgaum,Groundwater,Sewage,High,6.99,6.77,26.7,2016,No
+Delhi,Nan,Pond,Fluoride,Low,6.55,5.23,20.2,2021,No
+Madhya Pradesh,Indore,Pond,Mercury,Medium,5.71,6.09,19.9,2021,Yes
+West Bengal,Asansol,Well,Plastic Waste,High,7.74,7.59,21.5,2015,No
+Gujarat,Bhavnagar,Canal,Industrial Waste,High,7.52,2.29,22.2,2019,Yes
+Rajasthan,Jodhpur,Groundwater,Industrial Waste,Severe,7.3,3.81,25.1,2015,Yes
+Bihar,Gaya,Groundwater,Cadmium,High,7.32,1.94,24.2,2021,No
+Madhya Pradesh,Ujjain,Groundwater,Fluoride,High,6.27,2.84,33.0,2020,No
+West Bengal,Durgapur,River,Sewage,Medium,6.9,7.83,20.3,2021,Yes
+Maharashtra,Pune,Well,Plastic Waste,High,6.67,2.49,34.2,2023,Yes
+Bihar,Patna,Groundwater,Arsenic,Medium,6.42,8.17,20.3,2023,No
+Bihar,Darbhanga,Lake,Cadmium,High,7.08,3.58,28.8,2022,Yes
+Delhi,Rohini,Reservoir,Cadmium,Severe,6.56,7.78,20.5,2017,No
+Odisha,Sambalpur,Reservoir,Cadmium,Low,8.35,4.92,22.7,2015,Yes
+Maharashtra,Mumbai,Well,Fluoride,High,6.51,9.09,33.2,2023,No
+Bihar,Muzaffarpur,Borewell,Chromium,Low,7.54,8.02,18.0,2023,Yes
+Odisha,Rourkela,Pond,Arsenic,Low,6.45,4.55,30.8,2019,No
+Uttar Pradesh,Lucknow,Lake,Sewage,Low,6.83,4.56,29.2,2021,Yes
+Kerala,Kozhikode,Lake,Fluoride,Severe,7.7,6.91,25.7,2016,Yes
+Uttar Pradesh,Lucknow,Well,Sewage,Medium,6.47,3.55,24.1,2021,Yes
+Bihar,Gaya,Pond,Nitrate,Severe,7.42,4.9,22.6,2020,Yes
+Delhi,New Delhi,Groundwater,Industrial Waste,High,7.26,2.9,26.2,2022,No
+Haryana,Panipat,Pond,Mercury,High,7.63,2.12,29.9,2018,No
+Rajasthan,Jodhpur,Groundwater,Chromium,Severe,7.41,2.65,24.3,2022,No
+Rajasthan,Kota,Borewell,Cadmium,Medium,7.52,5.13,25.9,2020,No
+Maharashtra,Nashik,River,Fluoride,Medium,8.1,5.03,25.8,2019,Yes
+Gujarat,Ahmedabad,Pond,Arsenic,High,6.99,5.43,21.9,2018,Yes
+Kerala,Thrissur,Well,Pesticides,High,8.27,6.31,21.5,2019,No
+Delhi,Saket,Pond,Lead,Severe,5.93,7.4,26.9,2022,Yes
+Maharashtra,Mumbai,Lake,Cadmium,Low,6.38,2.92,24.7,2023,No
+Uttar Pradesh,Kanpur,Reservoir,Mercury,Low,5.81,6.44,25.5,2020,Yes
+West Bengal,Asansol,Groundwater,Arsenic,Low,7.22,4.77,24.0,2024,No
+Kerala,Kollam,Borewell,Plastic Waste,Low,5.41,6.35,14.8,2017,No
+Punjab,Patiala,Lake,Chromium,Low,8.16,6.71,23.3,2019,No
+Tamil Nadu,Chennai,Groundwater,Mercury,Medium,8.59,4.59,15.4,2016,No
+Bihar,Gaya,Pond,Sewage,Medium,6.62,3.52,22.2,2017,No
+Kerala,Kochi,Reservoir,Pesticides,Low,6.99,3.31,13.0,2021,No
+Uttar Pradesh,Agra,Borewell,Plastic Waste,Low,7.29,5.27,24.5,2023,No
+Kerala,Thrissur,River,Arsenic,High,7.54,8.26,30.1,2018,Yes
+Maharashtra,Nagpur,Pond,Industrial Waste,High,6.7,2.27,21.2,2020,No
+Madhya Pradesh,Jabalpur,Pond,Cadmium,Low,7.98,5.68,25.5,2024,No
+Delhi,Rohini,Borewell,Chromium,Low,5.9,7.95,21.0,2017,Yes
+Madhya Pradesh,Bhopal,Borewell,Chromium,Medium,8.82,5.51,23.0,2018,No
+Assam,Dibrugarh,River,Sewage,High,5.23,6.33,29.2,2017,No
+Haryana,Karnal,Groundwater,Sewage,Low,7.25,3.7,24.0,2023,Yes
+Maharashtra,Nashik,Pond,Arsenic,High,7.53,7.23,28.7,2017,No
+Gujarat,Surat,Well,Fluoride,High,7.3,4.55,26.6,2023,No
+Maharashtra,Mumbai,Groundwater,Industrial Waste,Medium,6.22,5.59,19.8,2021,Yes
+Madhya Pradesh,Jabalpur,Well,Chromium,Low,8.7,6.5,17.3,2019,Yes
+Delhi,Rohini,Well,Industrial Waste,Low,7.71,3.88,20.2,2021,Yes
+Gujarat,Surat,Reservoir,Cadmium,High,6.57,6.36,25.7,2017,No
+Haryana,Faridabad,Well,Chromium,High,7.84,2.95,15.2,2019,No
+Rajasthan,Bikaner,River,Mercury,Low,5.8,7.91,31.7,2018,No
+Assam,Jorhat,Pond,Lead,Low,6.65,5.98,22.3,2023,No
+Assam,Silchar,Lake,Cadmium,Severe,6.04,6.35,19.4,2020,Yes
+Karnataka,Mysuru,Lake,Plastic Waste,Low,5.99,6.18,36.3,2015,No
+Haryana,Ambala,Pond,Lead,Severe,7.95,7.49,29.9,2017,Yes
+Kerala,Thiruvananthapuram,Borewell,Plastic Waste,High,7.95,10.47,26.0,2015,No
+Odisha,Rourkela,Reservoir,Pesticides,Low,7.46,5.82,25.8,2017,No
+Tamil Nadu,Trichy,Lake,Pesticides,Medium,7.29,3.48,30.9,2017,Yes
+Assam,Dibrugarh,Borewell,Pesticides,High,7.61,4.62,34.8,2019,Yes
+Bihar,Darbhanga,Well,Plastic Waste,Low,9.79,5.04,26.6,2019,Yes
+Rajasthan,Jaipur,Borewell,Arsenic,Severe,5.8,4.76,24.7,2024,Yes
+Odisha,Berhampur,River,Sewage,Severe,5.95,7.56,27.8,2017,Yes
+Madhya Pradesh,Ujjain,Lake,Nitrate,High,7.7,4.63,30.2,2018,No
+Punjab,Chandigarh,Groundwater,Nitrate,Low,8.17,4.21,27.7,2024,Yes
+Madhya Pradesh,Bhopal,River,Industrial Waste,Low,5.37,5.01,23.8,2021,Yes
+Tamil Nadu,Salem,Canal,Cadmium,Low,7.77,8.52,20.0,2017,No
+Odisha,Cuttack,Groundwater,Arsenic,Severe,7.2,4.66,18.1,2019,No
+Punjab,Amritsar,Pond,Arsenic,Low,7.76,3.61,11.3,2022,Yes
+Gujarat,Surat,Canal,Industrial Waste,Severe,5.17,3.12,24.1,2023,No
+Madhya Pradesh,Ujjain,Borewell,Plastic Waste,High,6.33,4.31,27.8,2017,No
+Tamil Nadu,Trichy,Canal,Sewage,Medium,7.91,4.47,22.2,2020,No
+Tamil Nadu,Coimbatore,Well,Mercury,Severe,8.55,9.09,20.2,2015,No
+Maharashtra,Pune,Lake,Industrial Waste,Severe,7.12,1.35,22.2,2015,Yes
+Karnataka,Mangalore,Canal,Mercury,Severe,8.68,5.56,20.0,2018,Yes
+West Bengal,Durgapur,Groundwater,Chromium,High,7.34,8.32,23.7,2020,Yes
+Haryana,Gurugram,Pond,Sewage,Severe,6.62,4.99,17.3,2019,Yes
+Haryana,Ambala,Lake,Arsenic,Low,5.93,5.76,32.7,2020,No
+Punjab,Chandigarh,Well,Fluoride,Severe,7.47,6.66,26.8,2021,No
+West Bengal,Durgapur,Reservoir,Cadmium,Low,7.93,7.53,18.5,2023,Yes
+Karnataka,Mangalore,Lake,Lead,Low,7.17,3.07,24.1,2018,No
+Gujarat,Rajkot,Borewell,Nitrate,High,7.5,3.85,21.9,2023,Yes
+Odisha,Berhampur,Groundwater,Nitrate,Medium,7.73,3.97,21.6,2019,No
+Karnataka,Mysuru,Canal,Pesticides,Medium,5.58,8.16,30.9,2024,Yes
+Tamil Nadu,Madurai,Well,Fluoride,Severe,6.36,7.62,22.5,2020,Yes
+Delhi,New Delhi,Reservoir,Industrial Waste,Medium,7.62,3.04,30.1,2021,Yes
+Madhya Pradesh,Ujjain,Well,Arsenic,Low,8.18,2.61,24.9,2024,No
+Kerala,Thiruvananthapuram,River,Fluoride,Low,8.51,6.3,30.1,2016,No
+Kerala,Kollam,Groundwater,Fluoride,High,7.33,2.01,12.1,2019,Yes
+Delhi,Saket,Borewell,Fluoride,Severe,6.79,3.81,29.6,2023,No
+Gujarat,Ahmedabad,Groundwater,Sewage,High,7.12,5.39,20.7,2018,No
+Madhya Pradesh,Ujjain,Lake,Chromium,Low,6.37,4.31,17.0,2023,Yes
+Rajasthan,Bikaner,Well,Nitrate,Severe,6.19,2.71,25.3,2023,Yes
+West Bengal,Durgapur,Pond,Chromium,Low,7.14,7.34,24.9,2017,No
+Uttar Pradesh,Noida,River,Nitrate,High,8.02,5.78,22.3,2023,No
+Punjab,Jalandhar,Borewell,Plastic Waste,Low,8.37,4.7,32.0,2020,No
+Karnataka,Mysuru,Groundwater,Fluoride,High,6.99,5.11,28.2,2019,No
+Punjab,Chandigarh,Nan,Chromium,Severe,6.49,2.22,25.4,2021,Yes
+Haryana,Faridabad,Well,Lead,High,5.43,6.24,22.6,2021,Yes
+Kerala,Thrissur,Reservoir,Lead,Low,7.34,8.43,25.2,2019,No
+Madhya Pradesh,Ujjain,Reservoir,Nitrate,Severe,7.6,8.25,28.4,2023,Yes
+Gujarat,Rajkot,Lake,Fluoride,Medium,6.79,2.95,21.9,2023,Yes
+Karnataka,Mangalore,Pond,Fluoride,Medium,5.78,2.76,29.6,2015,No
+Haryana,Faridabad,Pond,Plastic Waste,Medium,6.63,5.34,23.8,2020,No
+Haryana,Panipat,Canal,Fluoride,Medium,5.83,6.22,20.7,2019,Yes
+West Bengal,Siliguri,Groundwater,Sewage,Severe,4.92,7.04,19.9,2016,Yes
+Maharashtra,Aurangabad,Borewell,Mercury,Medium,6.79,7.81,23.7,2024,No
+Karnataka,Hubli,River,Arsenic,Medium,7.74,6.21,24.8,2016,Yes
+Punjab,Amritsar,Well,Lead,Medium,6.17,5.44,19.8,2022,Yes
+Haryana,Karnal,River,Cadmium,Severe,5.84,4.77,24.1,2019,Yes
+Delhi,Nan,Canal,Lead,Medium,5.99,6.78,24.1,2021,No
+Karnataka,Mysuru,Lake,Sewage,Low,6.1,5.17,13.1,2023,No
+Rajasthan,Kota,Reservoir,Pesticides,Nan,5.97,6.7,26.3,2021,Yes
+Bihar,Muzaffarpur,Borewell,Plastic Waste,High,7.18,4.42,24.3,2021,Yes
+Bihar,Darbhanga,Groundwater,Sewage,Medium,5.94,5.14,34.3,2016,Yes
+Assam,Jorhat,Pond,Plastic Waste,High,5.61,5.8,35.0,2019,No
+Delhi,Rohini,Borewell,Chromium,Low,7.71,4.28,22.4,2019,No
+Karnataka,Mysuru,Groundwater,Pesticides,High,7.24,1.99,22.2,2016,Yes
+West Bengal,Kolkata,Canal,Sewage,Medium,7.01,7.2,24.9,2017,No
+Kerala,Thiruvananthapuram,Canal,Sewage,Medium,7.21,5.68,25.5,2021,No
+Bihar,Muzaffarpur,Canal,Cadmium,High,8.18,5.0,20.6,2019,Yes
+Maharashtra,Nashik,Pond,Industrial Waste,Medium,6.83,3.98,23.9,2018,No
+Maharashtra,Nagpur,River,Cadmium,Medium,7.08,4.05,19.8,2023,No
+West Bengal,Howrah,Pond,Sewage,High,6.96,9.39,24.5,2022,No
+West Bengal,Kolkata,Groundwater,Nan,High,6.06,4.41,23.3,2018,Yes
+Uttar Pradesh,Noida,Canal,Mercury,Medium,6.12,3.01,15.0,2020,Yes
+Assam,Silchar,Groundwater,Plastic Waste,Medium,6.59,3.67,19.9,2022,Yes
+Kerala,Kozhikode,Canal,Pesticides,Low,7.94,1.98,22.2,2015,Yes
+Madhya Pradesh,Gwalior,Well,Cadmium,High,6.49,6.64,28.9,2016,Nan
+Punjab,Chandigarh,Groundwater,Cadmium,Medium,8.41,5.01,22.8,2017,No
+Odisha,Cuttack,River,Industrial Waste,Low,5.12,5.79,35.1,2020,Yes
+West Bengal,Durgapur,Canal,Lead,High,6.94,3.68,21.4,2018,No
+Maharashtra,Nagpur,Pond,Sewage,Medium,7.99,6.39,16.0,2016,No
+Delhi,Karol Bagh,Reservoir,Industrial Waste,Medium,7.76,4.39,21.2,2024,No
+Odisha,Sambalpur,Well,Sewage,Severe,7.07,7.65,17.3,2024,Yes
+Tamil Nadu,Madurai,Well,Cadmium,Low,5.6,6.69,29.9,2016,Yes
+Uttar Pradesh,Agra,Reservoir,Nitrate,Severe,7.47,4.59,23.1,2019,Yes
+Tamil Nadu,Madurai,Groundwater,Plastic Waste,Medium,6.08,6.78,25.2,2023,No
+West Bengal,Durgapur,Groundwater,Plastic Waste,Low,6.84,4.06,17.1,2023,No
+Odisha,Cuttack,Lake,Mercury,Medium,8.28,8.63,28.9,2022,Yes
+Assam,Dibrugarh,Borewell,Arsenic,Low,6.46,5.66,23.2,2017,Yes
+Delhi,Dwarka,Reservoir,Arsenic,High,5.35,5.43,31.5,2024,Yes
+Karnataka,Belgaum,Nan,Industrial Waste,Severe,9.53,5.31,26.0,2024,Yes
+Delhi,New Delhi,Borewell,Lead,Severe,6.36,4.53,20.4,2024,No
+Assam,Dibrugarh,Reservoir,Industrial Waste,Severe,6.85,5.48,19.1,2016,Yes
+Assam,Silchar,Well,Fluoride,Medium,6.15,3.42,29.7,2021,Yes
+Assam,Jorhat,River,Plastic Waste,Low,7.6,2.72,22.2,2020,Yes
+Madhya Pradesh,Indore,Groundwater,Sewage,Medium,6.94,4.14,22.6,2018,Yes
+Karnataka,Mangalore,Groundwater,Fluoride,Low,6.7,4.57,28.3,2022,Yes
+Madhya Pradesh,Ujjain,Borewell,Pesticides,Severe,6.39,5.9,15.3,2024,Yes
+Delhi,Saket,River,Lead,Low,8.05,5.74,24.4,2020,Yes
+Delhi,Rohini,Pond,Sewage,High,6.25,7.47,28.3,2016,Yes
+Rajasthan,Udaipur,Lake,Industrial Waste,Low,7.45,2.98,25.8,2020,Yes
+Karnataka,Belgaum,Reservoir,Mercury,Medium,7.93,6.2,19.1,2021,No
+Uttar Pradesh,Kanpur,Canal,Lead,Severe,7.39,8.6,32.2,2016,No
+Gujarat,Rajkot,Groundwater,Arsenic,Severe,7.82,6.12,29.0,2017,Yes
+Haryana,Gurugram,Reservoir,Pesticides,Nan,8.42,3.29,16.7,2018,No
+Punjab,Jalandhar,Reservoir,Cadmium,Medium,8.25,5.54,25.6,2024,No
+Bihar,Gaya,Lake,Pesticides,Low,6.78,2.1,21.7,2017,No
+Assam,Dibrugarh,Groundwater,Sewage,Medium,6.66,7.93,30.5,2024,No
+Maharashtra,Nashik,River,Arsenic,High,6.32,3.46,27.1,2017,Yes
+Bihar,Darbhanga,Lake,Cadmium,High,6.99,3.68,15.7,2018,Yes
+Haryana,Karnal,Pond,Cadmium,High,6.62,6.86,14.4,2021,No
+Haryana,Faridabad,Canal,Nitrate,High,7.99,4.81,23.7,2020,Yes
+Bihar,Patna,Well,Pesticides,Medium,5.59,7.09,23.6,2022,No
+Kerala,Kollam,Reservoir,Lead,Low,6.68,4.19,25.9,2018,No
+Karnataka,Mysuru,River,Pesticides,High,5.38,2.57,24.2,2024,Yes
